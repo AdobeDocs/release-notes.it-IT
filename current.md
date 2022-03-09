@@ -115,7 +115,7 @@ Data di rilascio: **16 novembre 2021**
 
 | Funzione | Descrizione |
 | ------- |-------|
-| **[!UICONTROL Recenti]** (collegamenti) aggiunti alla destinazione di [Experience Cloud](ttps://experience.adobe.com/home) | Puoi accedere alle scelte rapide per l’attività Journey Optimizer e Experience Platform più recente sotto la nuova intestazione **[!UICONTROL Recenti]**. Questo aggiornamento include anche miglioramenti generali del layout e della reattività nella pagina di destinazione. |
+| **[!UICONTROL Recenti]** (collegamenti) aggiunti alla destinazione di [Experience Cloud](https://experience.adobe.com/home) | Puoi accedere alle scelte rapide per l’attività Journey Optimizer e Experience Platform più recente sotto la nuova intestazione **[!UICONTROL Recenti]**. Questo aggiornamento include anche miglioramenti generali del layout e della reattività nella pagina di destinazione. |
 | **[!UICONTROL Sandbox]** spostati nella barra dell’intestazione | L’indicatore Sandbox è ora integrato nell’intestazione di tutte le applicazioni dell’interfaccia di Experience Platform. Per ulteriori informazioni, consulta [Sandbox](https://experienceleague.adobe.com/docs/experience-platform/sandbox/ui/user-guide.html?lang=it) in Experience Platform. |
 
 {style=&quot;table-layout:auto&quot;}
