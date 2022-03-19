@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c99f4d0cb202a3abbc0db601371e84adba591f40
+source-git-commit: 4af6356f3c68cbab1bc7137a2d02af35798c6582
 workflow-type: tm+mt
-source-wordcount: '5681'
+source-wordcount: '5692'
 ht-degree: 49%
 
 ---
@@ -68,6 +68,8 @@ Gli eventi di Experience League sono un ottimo luogo per imparare, interagire e 
 
 [!DNL Adobe System Status] fornisce informazioni dettagliate, aggiornamenti sullo stato e notifiche e-mail relative agli eventi di sospensione, interruzione e manutenzione di prodotti e servizi di Adobe. Consulta [status.adobe.com](https://status.adobe.com/it).
 
+Per informazioni sulla versione più recente, consulta Adobe Stato del sistema [note sulla versione](c-legacy-releases\2022\02162022.md#status).
+
 ## ![Icona](/assets/ec_appicon_24.png) Experience Cloud: componenti e amministrazione dell’interfaccia centrale {#ecloud}
 
 Experience Cloud [componenti dell’interfaccia utente centrale](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=it) include le funzioni disponibili nella home page e nell’intestazione del prodotto persistente. Queste funzioni includono le impostazioni del profilo utente, le preferenze e la ricerca. Puoi anche trovare aiuto sulla gestione di utenti e prodotti, sugli attributi del cliente e sui tipi di pubblico di Experience Cloud.
@@ -102,7 +104,7 @@ Nuovi video, tutorial o corsi pubblicati su Experience Platform.
 | -----------| ---------- | ---------- | ---------- |
 | Marzo 2022 | [Esercitazione sull’implementazione di Adobe Experience Cloud nelle app per dispositivi mobili](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Corso | Scopri come implementare le applicazioni Adobe Experience Cloud nella tua app mobile utilizzando l’SDK di Adobe Experience Platform Mobile. |
 | Marzo 2022 | [Generare ID dispositivo di prime parti](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | Video | Scopri come generare ID dispositivo di prime parti e come funzionano. |
-| Marzo 2022 | [Configurare i datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Scopri come creare e configurare i datastreams per le implementazioni SDK per web e dispositivi mobili. |
+| Marzo 2022 | [Configurare i datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Scopri come creare e configurare i datastreams per le implementazioni SDK per web e Mobile. |
 
 {style=&quot;table-layout:auto&quot;}
 
