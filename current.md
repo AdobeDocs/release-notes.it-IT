@@ -108,9 +108,9 @@ Nuovi video, tutorial o corsi pubblicati su Experience Platform.
 
 | Data di pubblicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
-| Marzo 2022 | [Esercitazione sull’implementazione di Adobe Experience Cloud nelle app per dispositivi mobili](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Corso | Scopri come implementare le applicazioni Adobe Experience Cloud nella tua app mobile utilizzando Adobe Experience Platform Mobile SDK. |
+| Marzo 2022 | [Esercitazione sull’implementazione di Adobe Experience Cloud nelle app per dispositivi mobili](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Corso | Scopri come implementare le applicazioni Adobe Experience Cloud nella tua app mobile utilizzando l’SDK di Adobe Experience Platform Mobile. |
 | Marzo 2022 | [Generare ID dispositivo di prime parti](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | Video | Scopri come generare ID dispositivo di prime parti e come funzionano. |
-| Marzo 2022 | [Configurare i datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Scopri come creare e configurare i datastreams per le implementazioni SDK per web e dispositivi mobili. |
+| Marzo 2022 | [Configurare i datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Scopri come creare e configurare i datastreams per le implementazioni SDK per web e Mobile. |
 
 {style=&quot;table-layout:auto&quot;}
 
