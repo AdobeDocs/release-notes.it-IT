@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4af6356f3c68cbab1bc7137a2d02af35798c6582
+source-git-commit: 3f75b897e739d296d4b69d0f85d50ef4fa661ff0
 workflow-type: tm+mt
-source-wordcount: '5692'
+source-wordcount: '5702'
 ht-degree: 49%
 
 ---
@@ -68,7 +68,7 @@ Gli eventi di Experience League sono un ottimo luogo per imparare, interagire e 
 
 [!DNL Adobe System Status] fornisce informazioni dettagliate, aggiornamenti sullo stato e notifiche e-mail relative agli eventi di sospensione, interruzione e manutenzione di prodotti e servizi di Adobe. Consulta [status.adobe.com](https://status.adobe.com/it).
 
-Per informazioni sulla versione più recente, consulta Adobe Stato del sistema [note sulla versione](c-legacy-releases\2022\02162022.md#status).
+Per informazioni sulla versione più recente, consulta Adobe Stato del sistema [note sulla versione](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2022/02162022.html?lang=en#status).
 
 ## ![Icona](/assets/ec_appicon_24.png) Experience Cloud: componenti e amministrazione dell’interfaccia centrale {#ecloud}
 
