@@ -6,7 +6,7 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 06f9e80782bf7c1f34feda8ab39e6832d76f0bc1
+source-git-commit: eb5f320b029eb30f548c2016ac51e52c14de8199
 workflow-type: tm+mt
 source-wordcount: '5696'
 ht-degree: 49%
@@ -25,7 +25,7 @@ Pronti per iniziare? [Vinci con un quiz di 5 minuti](https://exploreadobe.com/ex
 >
 >Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento sui prodotti priority Adobe](https://www.adobe.com/subscription/priority-product-update.html). Torna spesso a controllare per essere sempre al corrente delle novità di Experience League.
 
-Ultimo aggiornamento: **18 marzo 2022**
+Ultimo aggiornamento: **21 marzo 2022**
 
 * [[!DNL Experience League]eventi](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -104,7 +104,7 @@ Nuovi video, tutorial o corsi pubblicati su Experience Platform.
 | -----------| ---------- | ---------- | ---------- |
 | Marzo 2022 | [Esercitazione sull’implementazione di Adobe Experience Cloud nelle app per dispositivi mobili](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Corso | Scopri come implementare le applicazioni Adobe Experience Cloud nella tua app mobile utilizzando l’SDK di Adobe Experience Platform Mobile. |
 | Marzo 2022 | [Generare ID dispositivo di prime parti](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | Video | Scopri come generare ID dispositivo di prime parti e come funzionano. |
-| Marzo 2022 | [Configurare i datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Scopri come creare e configurare i datastreams per le implementazioni SDK per web e Mobile. |
+| Marzo 2022 | [Configurare i datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Scopri come creare e configurare i datastreams per le implementazioni SDK per web e dispositivi mobili. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -340,7 +340,7 @@ Nuovi documentazione e tutorial su Adobe Commerce, ad Experience League.
 
 ## ![Icona](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Ultimo aggiornamento: **1 febbraio 2022**
+Ultimo aggiornamento: **21 marzo 2022**
 
 * Per informazioni pre-release, consulta [Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=it)
 * Per informazioni aggiornate, consulta [Note sulla versione di Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=it)
