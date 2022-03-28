@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: eb5f320b029eb30f548c2016ac51e52c14de8199
+source-git-commit: fe574c18fe36112968b6e58ddb8103239eed9632
 workflow-type: tm+mt
 source-wordcount: '5696'
-ht-degree: 49%
+ht-degree: 51%
 
 ---
 
@@ -104,7 +104,7 @@ Nuovi video, tutorial o corsi pubblicati su Experience Platform.
 | -----------| ---------- | ---------- | ---------- |
 | Marzo 2022 | [Esercitazione sull’implementazione di Adobe Experience Cloud nelle app per dispositivi mobili](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Corso | Scopri come implementare le applicazioni Adobe Experience Cloud nella tua app mobile utilizzando l’SDK di Adobe Experience Platform Mobile. |
 | Marzo 2022 | [Generare ID dispositivo di prime parti](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | Video | Scopri come generare ID dispositivo di prime parti e come funzionano. |
-| Marzo 2022 | [Configurare i datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Scopri come creare e configurare i datastreams per le implementazioni SDK per web e dispositivi mobili. |
+| Marzo 2022 | [Configurare i datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Video | Scopri come creare e configurare i datastreams per le implementazioni SDK per web e Mobile. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -131,9 +131,9 @@ Nuovi video, tutorial o corsi pubblicati su Adobe Analytics.
 
 | Data di pubblicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
-| Marzo 2022 | [Suggerimenti su come semplificare e dedicare meno tempo alla formazione degli utenti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=en) | Video e articolo | Scopri quanto è fondamentale per il successo di un’organizzazione Adobe Analytics ben formata nella tua azienda. |
+| Marzo 2022 | [Suggerimenti su come semplificare e ridurre il tempo dedicato alla formazione degli utenti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=en) | Video e articolo | Scopri quanto è fondamentale per il successo di un’organizzazione Adobe Analytics ben formata nella tua azienda. |
 | Marzo 2022 | [Creazione di una community autonoma](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/empowered-community.html) | Video e articolo | Scopri il valore di una community Analytics abilitata e come crearne e supportarne una. |
-| Marzo 2022 | [Creare regole di elaborazione per i canali di marketing](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/create-marketing-channel-processing-rules.html?lang=en) | Video | Scopri come configurare [!UICONTROL Regole di elaborazione] per [!UICONTROL Canali marketing]. |
+| Marzo 2022 | [Creare regole di elaborazione per il canale di marketing](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/create-marketing-channel-processing-rules.html?lang=en) | Video | Scopri come configurare [!UICONTROL Regole di elaborazione] per [!UICONTROL Canali marketing]. |
 | Marzo 2022 | [Configurare i canali di marketing nella suite di rapporti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/set-up-marketing-channels.html) | Video | In questo video, scopri come configurare il reporting dei canali di marketing nella tua suite di rapporti di Analytics. |
 | Marzo 2022 | [Transizione da Google Analytics ad Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.html?lang=en) | Video | Una guida completa per la transizione a [!DNL Adobe Analytics] da [!DNL Google Analytics]. |
 | Marzo 2022 | [Configurare le variabili della gerarchia](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configure-hierarchy-variables.html?lang=en) | Video | Scopri come e quando impostare e configurare variabili gerarchiche per il sito. Questa funzione può essere utilizzata per mostrare una visualizzazione gerarchica delle pagine del sito e del traffico che viene generato da ciascun nodo. |
@@ -390,7 +390,7 @@ Ultimi tutorial su Journey Optimizer:
 
 | Data di pubblicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
-| Marzo 2022 | [Utilizzare e gestire le espressioni salvate nella libreria di personalizzazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library.html?lang=en) | Video | Scopri come utilizzare gli elementi libreria di personalizzazione salvati in un messaggio e come creare e gestire gli elementi libreria di personalizzazione. |
+| Marzo 2022 | [Utilizza e gestisci le espressioni salvate nella libreria di personalizzazione](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library.html?lang=en) | Video | Scopri come utilizzare in un messaggio gli elementi libreria di personalizzazione salvati, e come creare e gestire gli elementi libreria di personalizzazione. |
 
 ### Altre risorse per [!DNL Journey Optimizer]
 
