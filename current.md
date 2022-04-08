@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 88d7c6385f680dba693d856585679c517589441d
+source-git-commit: bbdac176cdaed65d6312a1274551d8da517764c6
 workflow-type: tm+mt
-source-wordcount: '5828'
-ht-degree: 95%
+source-wordcount: '5956'
+ht-degree: 92%
 
 ---
 
@@ -25,7 +25,7 @@ Pronti per iniziare? [Vinci con un quiz di 5 minuti](https://exploreadobe.com/ex
 >
 >Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento sui prodotti priority Adobe](https://www.adobe.com/subscription/priority-product-update.html). Torna spesso a controllare per essere sempre al corrente delle novità di Experience League.
 
-Ultimo aggiornamento: **5 aprile 2022**
+Ultimo aggiornamento: **7 aprile 2022**
 
 * [[!DNL Experience League] events](#events) (**5 aprile** - rilancio AEM gemme)
 * [[!DNL Adobe System Status]](#status)
@@ -483,14 +483,15 @@ Last updated: **October 27, 2021**
 
 ### Nuove funzioni in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Ultimo aggiornamento: **14 marzo 2022** per la versione del 12 marzo
+Ultimo aggiornamento: **7 aprile 2022**
 
 | Funzione | Descrizione |
 | ------- | ----------- |
+| [!UICONTROL Campagne]<br><br>[!UICONTROL Approfondimenti sulla pubblicità] | (7 aprile) [!DNL Google Ads] account) Advertising Cloud Search sta eseguendo la transizione di tutte le chiamate API dalla versione precedente [!DNL Google AdWords API] al più tardi [!DNL Google Ads API]. Passare alla nuova [!DNL Google Ads API] garantirà la continuità con le capacità esistenti e consentirà l&#39;accesso [!DNL Google’s] più recente [!DNL Ads] funzionalità.<br><br>Alcune funzionalità non sono ancora state aggiornate alla nuova API e sono temporaneamente non disponibili:<ul><li>Estensioni posizione:<ul>Le estensioni della posizione non sono visibili nel [!UICONTROL Estensioni] visualizza.</li><li>Non puoi creare un&#39;estensione.</li><li>I filtri sulle posizioni non funzionano.</li></li></ul><li>[!UICONTROL Approfondimenti sulla pubblicità]: La [!UICONTROL Quota impression perduta] e [!UICONTROL Query Cross Matching Beta] le analisi non saranno disponibili a partire dall’11 aprile.</li></ul>Prevediamo di ripristinare le funzionalità di estensione della posizione entro la fine di aprile. Una volta stabilito quando l&#39;interessato [!UICONTROL Approfondimenti sulla pubblicità] i moduli possono anche essere ripristinati, invieremo un aggiornamento con la data stimata. |
 | [!UICONTROL Portfolio] | Per impostazione predefinita, l’ottimizzazione ibrida è disponibile a livello di campagna. Facoltativamente, ora puoi abilitare l’ottimizzazione ibrida a livello di gruppo di annunci, per il quale la funzionalità di ottimizzazione imposta i CPA o ROAS target di [!DNL Google] a livello di gruppo di annunci per un controllo più preciso delle prestazioni.<br>Con qualsiasi portfolio, devi consentire un periodo di apprendimento prima di lanciare il portfolio, per assicurare una sufficiente copertura dei modelli. Allo stesso modo, se per un portfolio ibrido passi dall’ottimizzazione a livello di campagna a quella a livello di gruppo, imposta il portfolio sullo stato attivo per circa due settimane. In questo modo la funzionalità di ottimizzazione avrà il tempo di imparare i gruppi di annunci inclusi e generare i target.<br>Per supportare l’ottimizzazione a livello di gruppo di annunci, le simulazioni personalizzate possono ora includere risultati per gruppo di annunci. Prima di avviare un portfolio ibrido con ottimizzazione a livello di gruppo di annunci, esegui una simulazione personalizzata con risultati a livello di gruppo di annunci. |
-| [!UICONTROL Portfolio] <br> [!UICONTROL Campagne] | (Funzione beta, campagne [!DNL Microsoft® Advertising]) - È ora possibile configurare le campagne di ricerca per l’utilizzo della strategia di offerta [!UICONTROL Massimizza conversioni] e, facoltativamente, impostare un costo massimo per clic.<br>Se partecipi già alla versione beta di ottimizzazione ibrida per altre strategie di offerta automatica, puoi accedere automaticamente alla strategia [!UICONTROL Massimizza conversioni] e includere le campagne con strategia [!UICONTROL Massimizza conversioni] in portfolio ibridi. Per utilizzare questa strategia in un portfolio ibrido, devi abilitare il caricamento degli obiettivi di Advertising Cloud Search in [!DNL Microsoft® Ads]. Se non stai ancora partecipando alla versione beta e desideri farlo, contatta il tuo account manager [!DNL Adobe]. |
-| Campagne, [!UICONTROL pubblico]<br><br>Campagne, [!UICONTROL bulksheet] | (Campagne [!DNL Microsoft® Advertising]) - Ora puoi utilizzare i tuoi tipi di pubblico di [!DNL Microsoft® Advertising], a eccezione di quelli sul mercato, come target a livello di campagna o di [!UICONTROL adgroup]. In precedenza, era possibile utilizzarli solo come target a livello di [!UICONTROL adgroup]. |
-| Campagne, [!UICONTROL pubblico] | (Funzione beta, account [!DNL Microsoft® Advertising] idonei per [!UICONTROL Customer Match]) Ora puoi creare e gestire i tipi di pubblico in base ai clienti, caricando file CSV con indirizzi e-mail. È necessario eseguire l’hashing dei dati con l’algoritmo SHA-256. |
+| [!UICONTROL Portfolio] <br> [!UICONTROL Campagne] | (versione 12 corrispondente; Funzione beta per [!DNL Microsoft® Advertising] campagne) - È ora possibile configurare le campagne di ricerca per utilizzare [!UICONTROL Massimizza conversioni] strategia di offerta e, facoltativamente, imposta un costo massimo per clic.<br>Se partecipi già alla versione beta di ottimizzazione ibrida per altre strategie di offerta automatica, puoi accedere automaticamente alla strategia [!UICONTROL Massimizza conversioni] e includere le campagne con strategia [!UICONTROL Massimizza conversioni] in portfolio ibridi. Per utilizzare questa strategia in un portfolio ibrido, devi abilitare il caricamento degli obiettivi di Advertising Cloud Search in [!DNL Microsoft® Ads]. Se non stai ancora partecipando alla versione beta e desideri farlo, contatta il tuo account manager [!DNL Adobe]. |
+| Campagne, [!UICONTROL pubblico]<br><br>Campagne, [!UICONTROL bulksheet] | (rilascio del 12 marzo; [!DNL Microsoft® Advertising] campagne) - Ora puoi utilizzare uno qualsiasi dei tuoi [!DNL Microsoft® Advertising] tipi di pubblico, ad eccezione dei tipi di pubblico sul mercato, come target a livello di campagna o [!UICONTROL adgroup]Obiettivi a livello di. In precedenza, era possibile utilizzarli solo come target a livello di [!UICONTROL adgroup]. |
+| Campagne, [!UICONTROL pubblico] | (rilascio del 12 marzo; Funzione beta per [!DNL Microsoft® Advertising] conti idonei [!UICONTROL Customer Match]) Ora puoi creare e gestire i tipi di pubblico di corrispondenza dei clienti caricando file CSV con indirizzi e-mail. È necessario eseguire l’hashing dei dati con l’algoritmo SHA-256. |
 
 {style=&quot;table-layout:auto&quot;}
 
