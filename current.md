@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 29615ef50c01bd12445aaa3d492d4b746b795f0d
+source-git-commit: dc6fed1336b4a850bfe2fc158816988da75722f7
 workflow-type: tm+mt
-source-wordcount: '5952'
-ht-degree: 92%
+source-wordcount: '6002'
+ht-degree: 91%
 
 ---
 
@@ -25,9 +25,9 @@ Pronti per iniziare? [Vinci con un quiz di 5 minuti](https://exploreadobe.com/ex
 >
 >Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento sui prodotti priority Adobe](https://www.adobe.com/subscription/priority-product-update.html). Torna spesso a controllare per essere sempre al corrente delle novità di Experience League.
 
-Ultimo aggiornamento: **7 aprile 2022**
+Ultimo aggiornamento: **13 aprile 2022**
 
-* [[!DNL Experience League] events](#events) (**5 aprile** - rilancio AEM gemme)
+* [[!DNL Experience League] events](#events) (**13 aprile**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - Componenti dell’interfaccia centrale e amministrazione](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -58,10 +58,11 @@ Aggiornato **5 aprile 2022**
 
 | Evento | Tipo | Descrizione |
 | -----------|---------- | ----|
+| [AEM da headful a Headless (e tutto nel mezzo)](https://www.youtube.com/watch?v=idByz7WrhbQ) | Experience League LIVE  | Guarda un dettaglio delle implementazioni Adobe Experience Manager Sites più comuni con l&#39;ospite Danny Gordon e gli ospiti Amol Anand, Sachin Mali e Sean Steimer. <br>**Data:** 21 aprile 2022, 9.00 PST<br>[Pianificazione ed eventi passati](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=it) |
+| [Come posso gestire tutti questi tipi di pubblico?](https://www.youtube.com/watch?v=I8HKFkx16-E) | Experience League LIVE  | Definizione della strategia del pubblico tramite CDP in Audience Manager e in tempo reale. L&#39;ospite Doug Moore accoglie Nick Cammuso e Jackie Chevallier in questo evento Experience League LIVE.<br>**Data:** 28 aprile 2022<br>[Pianificazione ed eventi passati](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Webinar Adobe Live | Sono disponibili gli aggiornamenti AEM Gems per il 2022! AEM Gems è la nostra serie di webinar di approfondimenti tecnici su Adobe Experience Manager, forniti da esperti di Adobe. <br>Per gli ultimi AEM Gems, vedi [Adobe Experience Manager as a Cloud Service: Recensione 2021 e Outlook 2022](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) e [Creare siti più rapidamente con AEM Headless e App Builder](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>Visita frequentemente queste note sulla versione o abbonati al [Adobe di aggiornamento prioritario del prodotto](https://www.adobe.com/subscription/priority-product-update.html) per stare al di sopra di AEM Gems e altri eventi Experienci League. |
 | [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Webinar Adobe Live | Siamo entusiasti di annunciare la prima edizione di _Experience Makers - Lo scambio di competenze per Adobe Workfront_. <br>Questo evento di apprendimento digitale gratuito di tre ore è interamente incentrato su Workfront. Puoi fare domande a esperti e colleghi che conoscono meglio la gestione del lavoro. Consigliato per tutti, principianti o utenti esperti di Workfront.<br>**Data:** Mercoledì 13 aprile alle 9.00 - 12:00 PDT [Dettagli e registrazione](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe consiglia di registrarsi anche se non è possibile partecipare, in modo da garantire l&#39;accesso alle registrazioni on-demand. |
 | [Adobe Workfront System Admin Essentials: Progettazione di un’esperienza utente ideale](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Webinar Adobe Live | Unisciti a Mary Ann Erickson, Customer Success Manager di Adobe Workfront, e Steve Enos, Creative Operations Analyst di Liberty Mutual Insurance per scoprire come progettare un&#39;esperienza utente ideale. <br>**Data:** Mercoledì 27 aprile. Ora: 8:00 PDT / 4:00pm UK. <br>[Dettagli e registrazione](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=it) | Video live e on-demand | Evento in diretta prodotto dal team Experience League. Offre l’opportunità di entrare in contatto con gli esperti dei prodotti Adobe. Impara suggerimenti, trucchi e strategie da mettere in pratica nelle applicazioni Adobe Experience Cloud.<br> [Dettagli ed eventi passati](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe Analytics: narrazione efficace attraverso i dati](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Webinar Adobe Live | La narrazione attraverso i dati risulta efficace quando vi è il giusto equilibrio tra arte e scienza. Senza troppe complicazioni. Amy Ard, champion di Adobe Analytics, presenta tre aspetti volti a guidare la narrazione attraverso i dati senza sminuirne la componente creativa:<ul><li>Identificazione dell’opportunità o del problema</li><li>Spiegazione tramite i dati</li><li>Proposta di una soluzione</li></ul>**Data:** giovedì 31 marzo - [Dettagli e registrazione](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
 | [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=it) | Video | [!DNL Developers Live] presenta i progressi tecnologici più recenti e strumenti per sviluppatori che supportano la progettazione, i flussi di lavoro per la creazione di contenuti, i servizi di documentazione e la gestione dell’esperienza dei clienti nei vari settori. Visualizza l’indirizzo keynote, scopri le API di Analytics, il livello dati client, i progetti open source di Adobe Developer e molto altro. |
 
