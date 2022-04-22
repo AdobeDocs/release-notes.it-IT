@@ -6,9 +6,9 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f8a3a96d35bf434af09dc0b536984feb4ff7de27
+source-git-commit: 68df02857374608feb9ae1c848b6ca1357d73382
 workflow-type: tm+mt
-source-wordcount: '6118'
+source-wordcount: '6428'
 ht-degree: 43%
 
 ---
@@ -25,7 +25,7 @@ Pronti per iniziare? [Vinci con un quiz di 5 minuti](https://exploreadobe.com/ex
 >
 >Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento sui prodotti priority Adobe](https://www.adobe.com/subscription/priority-product-update.html). Torna spesso a controllare per essere sempre al corrente delle novità di Experience League.
 
-Ultimo aggiornamento: **18 aprile 2022**
+Ultimo aggiornamento: **22 aprile 2022**
 
 * [Eventi di [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -210,8 +210,8 @@ Per gli ultimi aggiornamenti sulle varie versioni, visita regolarmente la pagina
 
    * Experience Manager Dynamic Media offre ora la flessibilità di [configura un account alias](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-alias-account.html?lang=it) nell’interfaccia utente, garantendo così [!UICONTROL Dynamic Media] Gli URL e il codice di incorporamento del visualizzatore vengono aggiornati. Questo aggiornamento influisce positivamente sull’ottimizzazione SEO (Search Engine Optimization) per riflettere gli aggiornamenti apportati al contesto aziendale, ad esempio il rebranding.
    * È ora possibile utilizzare l’interfaccia utente di Experience Manager Assets per:
-      * Configura le [rilevamento di risorse duplicate](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets.html?lang=en#detect-duplicate-assets) in un archivio.
-      * Configura [aggiunta di filigrane digitali](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/watermark-assets.html?lang=en) alle immagini.
+      * Configura il [rilevamento delle risorse duplicate](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets.html?lang=en#detect-duplicate-assets) in un archivio.
+      * Configura l’[aggiunta di filigrane digitali](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/watermark-assets.html?lang=en) alle immagini.
    * Gli amministratori possono ora configurare il servizio e-mail per i download di grandi dimensioni. Consente agli utenti di [abilitare le notifiche e-mail per i download di grandi dimensioni](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/download-assets-from-aem.html?lang=en#enable-email-notifications-for-large-downloads) dall’interfaccia di Experience Manager Assets. Al termine del processo di download, l’utente riceve una notifica e-mail contenente il link per scaricare la cartella zip archiviata.
    * La funzione [Gestisci pubblicazione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en) è stata ottimizzata con un’interfaccia utente migliorata. Un utente può pubblicare o annullare la pubblicazione dei contenuti da e verso la destinazione selezionata, oppure [Aggiungi contenuto](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#add-content) all’elenco di pubblicazione dall’archivio DAM. Possono [Includi impostazioni cartella](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#include-folder-settings) per pubblicare il contenuto delle cartelle selezionate e applicare i filtri, e [pianificazione della pubblicazione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#publish-assets-later) a una data o un&#39;ora successiva.
 
@@ -226,8 +226,8 @@ Per gli ultimi aggiornamenti sulle varie versioni, visita regolarmente la pagina
    * **Comunicazioni - API per la generazione di documenti** — [API per la generazione di documenti](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html?lang=it) combinare, ridisporre e convalidare i documenti PDF. Il servizio consente di generare documenti in modalità sincrona. Le API consentono di creare applicazioni per eseguire le seguenti operazioni:
 
       * Assemblare documenti PDF
-      * Smontare documenti PDF
-      * Conversione e convalida di documenti conformi a PDF/A.
+      * Separare i documenti PDF
+      * Convertire e convalidare documenti conformi a PDF/A.
    * **Conversione automatica di PDF forms con più di 15 pagine in moduli adattivi** — È ora possibile utilizzare il servizio automated forms conversion per convertire PDF forms con un massimo di 40 pagine in moduli adattivi. Il servizio ora offre la possibilità di convertire sezioni di moduli con più di 15 pagine in frammenti di modulo adattivi. Consente di migliorare la velocità di rendering dei moduli convertiti e di caricare più facilmente i moduli di grandi dimensioni nell’editor di moduli adattivi.
 
    _Novità del canale prerelease di Forms_
@@ -251,9 +251,9 @@ Per gli ultimi aggiornamenti sulle varie versioni, visita regolarmente la pagina
 
    _Nuove funzioni_
 
-   * Per una risoluzione più efficiente ed efficace dei problemi relativi alle funzioni personalizzate negli ambienti Cloud, Adobe ha rilasciato un nuovo strumento per sviluppatori: [Browser del repository](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/repository-browser.html?lang=en). È un browser HTML leggero e di sola lettura che può essere avviato da Developer Console. Ottieni visibilità nell’archivio dei contenuti sui livelli di pubblicazione, authoring e anteprima e in tutti gli ambienti, compresi produzione, stage e sviluppo. Sfoglia la struttura del contenuto, visualizza le proprietà e visualizza in anteprima e scarica i binari.
-   * Le credenziali utilizzate per autenticare le chiamate API da server a server (ad esempio, per le richieste API GraphQL) ora possono essere aggiornate prima della scadenza in modo self-service dalla Console per sviluppatori. Consulta la sezione [documentazione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/generating-access-tokens-for-server-side-apis.html?lang=en#refresh-credentials) per ulteriori informazioni.
-   * Le attività di manutenzione dell’eliminazione della versione e del registro di controllo, che non erano state precedentemente abilitate, ora sono abilitate per i nuovi ambienti. Vedi i valori associati in [Attività di manutenzione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/maintenance.html?lang=en) articolo.
+   * Per una risoluzione più efficiente ed efficace dei problemi relativi alle funzioni personalizzate negli ambienti Cloud, Adobe ha rilasciato un nuovo strumento per sviluppatori: [Browser del repository](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/repository-browser.html?lang=en). È un browser HTML leggero e di sola lettura che può essere avviato da Developer Console. Ottieni visibilità nell’archivio dei contenuti sui livelli di pubblicazione, authoring e anteprima e in tutti gli ambienti, compresi produzione, stage e sviluppo. Sfoglia la struttura del contenuto, visualizza le proprietà e visualizza in anteprima e scarica i dati binari.
+   * Le credenziali utilizzate per autenticare le chiamate API da server a server (ad esempio, per le richieste API GraphQL) ora possono essere aggiornate prima della scadenza in modo self-service dalla Console per sviluppatori. Consulta la [documentazione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/generating-access-tokens-for-server-side-apis.html?lang=en#refresh-credentials) per ulteriori informazioni.
+   * Le attività di manutenzione dell’eliminazione della versione e del registro di controllo, che non erano state precedentemente abilitate, ora sono abilitate per i nuovi ambienti. Vedi i valori associati nell’articolo [Attività di manutenzione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/maintenance.html?lang=en).
    * Gli strumenti di Dispatcher SDK as a Cloud Service di Experience Manager ora supportano i computer Mac con il chip M1.
 
 * **Cloud Manager**
@@ -265,12 +265,12 @@ La prossima versione è prevista per il 10 marzo 2022.
 
    _Nuove funzioni_
 
-   * Nuova accelerazione [pipeline di configurazione a livello web](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html?lang=en#web-tier-config-pipelines) sono stati introdotti per distribuire esclusivamente la configurazione HTTPD/dispatcher.
+   * Sono state introdotte nuove [pipeline di configurazione a livello web](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html?lang=en#web-tier-config-pipelines) accelerate per distribuire esclusivamente la configurazione HTTPD/dispatcher.
 
       * È necessario utilizzare AEM versione `2021.12.6151.20211217T120950Z` o più recenti e [consenso alla modalità flessibile degli strumenti di Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/disp-overview.html?lang=en#validation-debug) per utilizzare questa funzione.
       * Questa funzione è pianificata per l’implementazione in un approccio graduale nelle due settimane successive al rilascio della versione 2022.02.0.
-   * L’esperienza della pagina di destinazione di Cloud Manager è stata aggiornata per fornire una navigazione migliore, un passaggio semplice tra le visualizzazioni griglia/riquadro e pop-up per un riepilogo rapido del programma.
-   * Una nuova soglia di errore (`< D`) è stato aggiunto al [metrica di valutazione dell&#39;affidabilità](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html?lang=en#understanding-code-quality-rules).
+   * L’esperienza della pagina di destinazione di Cloud Manager è stata aggiornata per migliorarne la navigazione e facilitare il passaggio tra le visualizzazioni a griglia o a schede. Inoltre fornisce delle informazioni a comparsa per un rapido riepilogo del programma.
+   * Una nuova soglia di errore (`< D`) è stata aggiunta alla [metrica di valutazione dell’affidabilità](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html?lang=en#understanding-code-quality-rules).
 
       * I clienti con gravi problemi di qualità che influiscono sulla stabilità del sistema, principalmente correlati a indici e processi di flusso di lavoro non validi, non possono distribuire finché tali problemi non vengono risolti.
    * La gravità del BannedPath [regola di qualità](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html?lang=en#understanding-code-quality-rules) è stato modificato da blocker a critico.
@@ -500,12 +500,16 @@ Last updated: **October 27, 2021**
 
 ### Nuove funzioni in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Ultimo aggiornamento: **11 aprile 2022**
+Ultimo aggiornamento: **22 aprile 2022** per la versione del 23 aprile
 
 | Funzione | Descrizione |
 | ------- | ----------- |
+| [!UICONTROL Audiences] | ([!DNL Microsoft Advertising] account idonei per Customer Match (Corrispondenza cliente) Ora tutti gli utenti possono creare e gestire audience customer match caricando file CSV con indirizzi e-mail. È necessario eseguire l’hashing dei dati con l’algoritmo SHA-256. |
+| [!UICONTROL Campagne] | Le seguenti funzionalità beta sono disponibili per gli inserzionisti che effettuano il consenso:<ul><li>([!DNL Microsoft Advertising] account) Supporto per sincronizzazione, visibilità di sola lettura e reporting (inclusi i dati di visualizzazione) per le campagne pubblicitarie native esistenti sul [!DNL Microsoft Audience Network], tra cui [!DNL Microsoft Audience Ads].</li><li>([!DNL Google Ads] e [!DNL Microsoft Advertising] account) Possibilità di importare [!DNL Google Ads] campagne e struttura della campagna in [!DNL Microsoft Advertising] da Advertising Cloud Search.</li></ul>Contatta il tuo Adobe Account Manager se sei interessato a entrambi i programmi beta. |
+| [!UICONTROL Campagne]<br><br>[!UICONTROL Portfoli] | ([!DNL Microsoft Advertising] campagne) Il supporto è disponibile per le seguenti strategie di offerta:<ul><li>(Disponibilità generale) [!UICONTROL Massimizza conversioni], [!UICONTROL CPA di destinazione]e [!UICONTROL Rendimento di Target sulla spesa pubblicitaria]: Queste strategie sono ora a disposizione di tutti. Puoi aggiungere campagne di ricerca con questa strategia di offerta a portfolio ibridi (ma non standard).</li><li>(funzione Beta) [!UICONTROL Condivisione immagini di Target]: Se stai partecipando alla versione beta dell’ottimizzazione ibrida, puoi configurare le campagne con questa strategia e facoltativamente impostare una condivisione delle impression target, una posizione pubblicitaria target e un costo massimo per clic. Attenzione: Questa opzione non è ancora supportata nei portfolio ibridi e non può essere aggiunta ai portfolio standard.</li><li>(funzione Beta) [!UICONTROL Massimizza clic]: Se stai partecipando alla versione beta dell’ottimizzazione ibrida, puoi configurare le campagne con questa strategia e facoltativamente impostare un costo massimo di destinazione per clic. Puoi includere le campagne con questa strategia in portfolio standard o ibridi. Per utilizzare questa strategia in un portafoglio ibrido, l&#39;obiettivo del portafoglio deve includere solo [!DNL Adobe] proprietà (metriche) e devi abilitare il caricamento degli obiettivi di Advertising Cloud Search in [!DNL Microsoft Ads].</li></ul>Se non stai già partecipando alla versione beta dell&#39;ottimizzazione ibrida e desideri partecipare, contatta il tuo [!DNL Adobe] account manager. |
+| [!UICONTROL Insight sulla pubblicità] | Tutte le informazioni tranne [!UICONTROL Corrispondenza tra query] e [!UICONTROL Preparazione alla configurazione del Portfolio ibrido] sono ora fuori versione beta. |
 | [!UICONTROL Campagne]<br><br>[!UICONTROL Approfondimenti sulla pubblicità] | (11 aprile) [!DNL Google Ads] account) Advertising Cloud Search ha eseguito la transizione di tutte le chiamate API dalla versione precedente [!DNL Google AdWords API] al più tardi [!DNL Google Ads API]. Passare alla nuova [!DNL Google Ads API] assicura la continuità con le funzionalità esistenti e consente l&#39;accesso [!DNL Google’s] più recente [!DNL Ads] funzionalità.<br><br>Alcune funzionalità non sono ancora state aggiornate alla nuova API e sono temporaneamente non disponibili:<ul><li>Estensioni posizione:<ul>Le estensioni della posizione non sono visibili nel [!UICONTROL Estensioni] visualizza.</li><li>Non puoi creare un&#39;estensione.</li><li>I filtri sulle posizioni non funzionano.</li></li></ul><li>[!UICONTROL Approfondimenti sulla pubblicità]: La [!UICONTROL Quota impression perduta] e [!UICONTROL Query Cross Matching Beta] le analisi non sono disponibili.</li></ul>Prevediamo di ripristinare le funzionalità di estensione della posizione entro la fine di aprile. Una volta stabilito quando l&#39;interessato [!UICONTROL Approfondimenti sulla pubblicità] i moduli possono anche essere ripristinati, invieremo un aggiornamento con la data stimata. |
-| Integrazione con Adobe Analytics | (7 aprile) Nel feed di dati che Advertising Cloud invia a [!DNL Analytics], dati per [!DNL Google Ads] e [!DNL Microsoft® Advertising] gli annunci adattabili alla ricerca (RSA, responsive search ads) ora sono classificati con il [!UICONTROL Tipo di annuncio reattivo] &quot;[!UICONTROL Annunci di ricerca reattivi].&quot; In precedenza, i dati venivano inclusi per [!UICONTROL Tipo di annuncio reattivo] &quot;[!UICONTROL Annunci di testo reattivi].&quot;<br><br>Inoltre, il [!UICONTROL Titolo dell’annuncio reattivo] ora viene compilato con il primo titolo e il [!UICONTROL Descrizione dell&#39;annuncio reattivo] viene compilato con la prima descrizione. |
+| Integrazione con Adobe Analytics | (7 aprile) Nel feed di dati che Advertising Cloud invia a [!DNL Analytics], dati per [!DNL Google Ads] e [!DNL Microsoft Advertising] gli annunci adattabili alla ricerca (RSA, responsive search ads) vengono riclassificati con il [!UICONTROL Tipo di annuncio] &quot;[!UICONTROL Annunci di ricerca reattivi]&quot; quando ricevono nuovi clic. In precedenza, i dati venivano inclusi per [!UICONTROL Tipo di annuncio] &quot;[!UICONTROL Annunci di testo].&quot; Le RSA nelle campagne inattive non verranno riclassificate.<br><br>Per gli RSA riclassificati, la [!UICONTROL Titolo dell’annuncio reattivo] ora viene compilato con il primo titolo e il [!UICONTROL Descrizione dell&#39;annuncio reattivo] viene compilato con la prima descrizione. |
 
 {style=&quot;table-layout:auto&quot;}
 
