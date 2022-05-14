@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8ddc70389416b26d1cd0c6be5a60c1d34f2cc954
+source-git-commit: c3e59ee55c248878950ccf28a97b778dac69e31a
 workflow-type: tm+mt
-source-wordcount: '4974'
+source-wordcount: '4977'
 ht-degree: 50%
 
 ---
@@ -25,7 +25,7 @@ Pronti per iniziare? [Vinci con un quiz di 5 minuti](https://exploreadobe.com/ex
 >
 >Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento sui prodotti priority Adobe](https://www.adobe.com/subscription/priority-product-update.html). Torna spesso a controllare per essere sempre al corrente delle novità di Experience League.
 
-Ultimo aggiornamento: **13 maggio 2022**
+Ultimo aggiornamento: **14 maggio 2022**
 
 * [Eventi di [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -406,6 +406,8 @@ Nuovi eventi video pubblicati sull&#39;Experience League:
 | Data di pubblicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
 | Maggio 2022 | [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) | Video | Inizia con scoprire la roadmap di Marketo. Quindi, scopri l’importanza di considerare la tua istanza Marketo come un prodotto. Ottieni consigli su come sbloccare il potenziale dei campi personalizzati dei membri del programma, suggerimenti e trucchi per i Marketi Engage e altro ancora, in questa nuova pubblicazione [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) dall&#39;agosto 2021, ora all&#39;Experience League. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### Aggiornamenti principali di Marketo Engage
 
