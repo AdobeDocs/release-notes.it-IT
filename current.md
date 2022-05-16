@@ -6,10 +6,10 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 15310fdeb95016c4366dfed02076296fcc2a4734
+source-git-commit: 0550d7a4ccf69654f6f205752a109fbb9a83e172
 workflow-type: tm+mt
-source-wordcount: '4977'
-ht-degree: 50%
+source-wordcount: '4972'
+ht-degree: 49%
 
 ---
 
@@ -36,7 +36,7 @@ Ultimo aggiornamento: **14 maggio 2022**
 * [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
-* [[!DNL XML Documentation for Adobe Experience Manager]](#xml-doc)
+* [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
@@ -317,16 +317,16 @@ Nelle pagine seguenti trovi tutte le note sulla versione di Experience Manager:
 * [Pagina iniziale della guida di Dynamic Media Classic](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=it)
 * [Documentazione di Experience Manager: ultimi aggiornamenti](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=it#aem-as-a-cloud-service)
 
-## ![Icona](/assets/ec_appicon_24.png) Documentazione XML per Adobe Experience Manager {#xml-doc}
+## ![Icona](/assets/ec_appicon_24.png) Guide di Adobe Experience Manager {#xml-doc}
 
-Documentazione XML per Adobe Experience Manager è un’applicazione distribuita su AEM. Si tratta di una potente soluzione di gestione dei contenuti per componenti di livello aziendale (CCMS) che consente il supporto DITA nativo in Adobe Experience Manager, permettendo ad AEM di gestire la creazione e la distribuzione di contenuti basati su DITA.
+Experience Manager Guide (in precedenza XML Documentation, ad Experience Manager) è un’applicazione distribuita su AEM. Si tratta di una potente soluzione di gestione dei contenuti per componenti di livello aziendale (CCMS) che consente il supporto DITA nativo in Adobe Experience Manager, permettendo ad AEM di gestire la creazione e la distribuzione di contenuti basati su DITA.
 
 Ulteriori informazioni su [XML Documentation for AEM](https://www.adobe.com/it/products/xml-documentation-for-experience-manager/features.html).
 
 ### Risorse aggiuntive
 
-* [Documentazione XML per Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=it): tutorial su Experience League
-* [Informazioni e supporto su Documentazione XML per Adobe Experience Manager](https://helpx.adobe.com/it/support/xml-documentation-for-experience-manager.html): documentazione di prodotto
+* [Guide all&#39;Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=it) - Esercitazioni sull’Experience League
+* [Informazioni e supporto sulle guide di Experience Manager](https://helpx.adobe.com/it/support/xml-documentation-for-experience-manager.html) - documentazione del prodotto
 
 ## ![Icona](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
