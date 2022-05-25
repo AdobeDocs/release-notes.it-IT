@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
+source-git-commit: d397fe8a435cf411147e773ee11c34c29ecf7f5b
 workflow-type: tm+mt
-source-wordcount: '4935'
+source-wordcount: '4933'
 ht-degree: 49%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 49%
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-In qualità di creatore di esperienza, il tuo percorso per il successo inizia con [Adobe Experience League](https://experienceleague.adobe.com/?lang=it#home). Consulta una vasta libreria di documentazione, esercitazioni guidate, video dimostrativi e corsi per tutti i livelli e i ruoli, una community online di colleghi e supporto esperto quando necessario.
+In qualità di creatore di esperienza, il tuo percorso per il successo inizia con [ Experience League](https://experienceleague.adobe.com/?lang=it#home). Consulta una vasta libreria di documentazione, esercitazioni guidate, video dimostrativi e corsi per tutti i livelli e i ruoli, una community online di colleghi e supporto esperto quando necessario.
 
 Pronti per iniziare? [Vinci con un quiz di 5 minuti](https://exploreadobe.com/experience-league-quiz/?sdid=4NM897N2&amp;mv=email&amp;mv2=nslsp)
 
@@ -49,7 +49,7 @@ Ultimo aggiornamento: **24 maggio 2022**
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Digital Experience Blueprint: tutorial](#blueprints)
 
-Hai bisogno di aiuto? Visita [Adobe Experience League](https://experienceleague.adobe.com/?lang=it#home) per trovare documentazione tecnica e di prodotto, corsi curati da Adobe, tutorial video, risposte rapide, approfondimenti sulla community e corsi di formazione condotti da istruttori.
+Hai bisogno di aiuto? Visita [ Experience League](https://experienceleague.adobe.com/?lang=it#home) per trovare documentazione tecnica e di prodotto, corsi curati da Adobe, tutorial video, risposte rapide, approfondimenti sulla community e corsi di formazione condotti da istruttori.
 
 ## ![Icona](/assets/experience-league.png) Eventi di [!DNL Experience League] {#events}
 
