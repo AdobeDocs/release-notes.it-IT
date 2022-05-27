@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3efc33c9d154e1943e4bbf5f3a6d1bd9c702ccaf
+source-git-commit: 045b3df6e345a97bd4172c752c953580e42181c6
 workflow-type: tm+mt
-source-wordcount: '4966'
+source-wordcount: '5033'
 ht-degree: 49%
 
 ---
@@ -25,9 +25,9 @@ Pronti per iniziare? [Vinci con un quiz di 5 minuti](https://exploreadobe.com/ex
 >
 >Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento sui prodotti priority Adobe](https://www.adobe.com/subscription/priority-product-update.html). Torna spesso a controllare per essere sempre al corrente delle novità di Experience League.
 
-Ultimo aggiornamento: **24 maggio 2022**
+Ultimo aggiornamento: **27 maggio 2022**
 
-* [Eventi di [!DNL Experience League]](#events)
+* [[!DNL Experience League] events](#events) (Aggiornato **27 maggio**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - Componenti dell’interfaccia centrale e amministrazione](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -55,10 +55,11 @@ Hai bisogno di aiuto? Visita [ Experience League](https://experienceleague.adobe
 
 Gli eventi di Experience League offrono l’occasione di imparare, interagire e ricevere risposte dagli esperti di prodotto di Adobe.
 
-Aggiornato il **26 maggio 2022**
+Aggiornato il **27 maggio 2022**
 
 | Evento | Tipo | Descrizione |
 | -----------|---------- | ----|
+| [Forum per il governo dei produttori di esperienze](https://adobegovforum.govexec.com/agenda/) | Video on-demand | Il 13° AEMGF annuale del 10 maggio è stato un successo, con una combinazione di partecipanti virtuali e di persona. Sessioni principali e approfondite incentrate sul tema _Esperienze digitali che mettono al primo posto le persone_. Prime sessioni incluse _Cacciatori: Come abbiamo abbattuto Pablo Escobar_, _Il futuro di CX_ e _L&#39;età d&#39;oro della creatività e del posto di lavoro moderno_. |
 | [Chiedi agli esperti: Nozioni di base dell’SDK per web](https://www.youtube.com/watch?v=g0KajUfq-S4) | Webinar | Informazioni e utilizzo delle best practice per la raccolta dati. <br>[Pianificazione ed eventi passati](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=it) |
 | [Adobe Campaign - Serie di webinar Customer Success](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer: Miglioramento dei Percorsi dei clienti tramite Adobe Campaign. | Partecipa a questa discussione in diretta Peer2Peer con Anja Starun, responsabile delle operazioni di coinvolgimento attraverso i marchi Kayo, Binge e Flash di Streamotion. Ascolta direttamente da lei le strategie di successo che il suo team ha implementato per creare percorsi di clienti personalizzati utilizzando Adobe Campaign. <br>**Data:** 26 maggio alle 15.00 EST <br>[Dettagli e registrazione](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Community Adobe Target](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096) | Q&amp;A Coffee Break | Partecipa a Brent Kostak e Drew Burns del team di prodotto Adobe Target che può rispondere alle tue domande Adobe Target su tipi di pubblico condivisi, Real-Time CDP, dati di prime parti, flussi di lavoro di personalizzazione end-to-end e altro ancora.<br>Guarda il recente [Webinar sulla personalizzazione in tempo reale](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) e rivolgiti agli esperti per le domande successive sulle [Filo di rottura del caffè](https://adobe.ly/3MyiDHa) nella community Adobe Target!<br>**Data:** 25 maggio 2022 alle 8 PDT<br>[Dettagli e registrazione](https://adobe.ly/3MyiDHa) |
