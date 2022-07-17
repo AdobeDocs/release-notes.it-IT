@@ -316,7 +316,7 @@ Consulta i seguenti collegamenti per le note sulla versione di Adobe Commerce:
 
 ## ![Icona](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Ultimo aggiornamento: **30 giugno 2022**
+Ultimo aggiornamento: **7 giugno 2022**
 
 * Per informazioni pre-release, consulta [Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=it)
 * Per informazioni aggiornate, consulta [Note sulla versione di Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=it)
