@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 609676006717d61512be133a65bfac44a15c8651
+source-git-commit: fa362724fe62c55d2556daf3757ea900c0c5ca3c
 workflow-type: tm+mt
-source-wordcount: '5262'
+source-wordcount: '5254'
 ht-degree: 51%
 
 ---
@@ -23,7 +23,7 @@ In qualità di creatore di esperienza, il tuo percorso per il successo inizia co
 >
 >Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento sui prodotti priority Adobe](https://www.adobe.com/subscription/priority-product-update.html). Torna spesso a controllare per essere sempre al corrente delle novità di Experience League.
 
-Ultimo aggiornamento: **15 luglio 2022**
+Ultimo aggiornamento: **18 luglio 2022**
 
 * [[!DNL Experience League] Eventi](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -316,7 +316,7 @@ Consulta i seguenti collegamenti per le note sulla versione di Adobe Commerce:
 
 ## ![Icona](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Ultimo aggiornamento: **7 giugno 2022**
+Ultimo aggiornamento: **30 giugno 2022**
 
 * Per informazioni pre-release, consulta [Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=it)
 * Per informazioni aggiornate, consulta [Note sulla versione di Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=it)
@@ -336,8 +336,7 @@ Adobe Campaign offre un modo intuitivo e automatico di inviare messaggi a singol
 
 ### Ultime versioni di Campaign
 
-* [Campaign versione v8.3](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html?lang=it)
-* [Campaign Standard versione 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=it)
+* [Campaign versione v7.3](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=it)
 * [Versione di giugno del Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
 * [esercitazioni e corsi](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=it#tutorials-campaign) Experience League
 
@@ -393,7 +392,7 @@ Nuovi video, esercitazioni o corsi pubblicati per Adobe Journey Optimizer.
 
 ### Altre risorse per [!DNL Journey Optimizer]
 
-* [Documentazione di Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it) - [Note sulla versione](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Video dimostrativi](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=it)
+* [Documentazione di Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it) - [Note sulla versione](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=it) - [Video dimostrativi](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=it)
 * [Documentazione di Decision Management](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started-decision/starting-offer-decisioning.html?lang=it) - [Note sulla versione](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Video dimostrativi](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=it) - [Ultimi aggiornamenti della documentazione](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=it)
 
 ## ![Icona](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
