@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fa362724fe62c55d2556daf3757ea900c0c5ca3c
+source-git-commit: ee6a9f29b652b02d6d67fed0007d180fc4cd4d9b
 workflow-type: tm+mt
 source-wordcount: '5254'
 ht-degree: 51%
@@ -57,7 +57,7 @@ Aggiornato **17 luglio 2022**
 
 | Evento | Tipo | Descrizione |
 | -----------|---------- | ----|
-| [Chiedi agli esperti: Datastreams e preparazione dati](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | In questa finale di tre sessioni sulla raccolta dei dati per Adobe Experience Cloud, i nostri esperti forniranno informazioni più approfondite sulle funzionalità avanzate di raccolta dei dati di Adobe, tra cui funzioni come preparazione dei dati per la raccolta dei dati. Al termine di questa sessione, i partecipanti si sentiranno sicuri delle funzioni più recenti e potenti per la raccolta di dati da esperienze digitali <br>**Data:** 21 luglio alle 9.00 PST - [Dettagli](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [Chiedi agli esperti: Datastreams e preparazione dati](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | In questa finale di tre sessioni sulla raccolta dei dati per Adobe Experience Cloud, i nostri esperti forniranno informazioni più approfondite sulle funzionalità avanzate di raccolta dei dati di Adobe, tra cui funzioni come preparazione dei dati per la raccolta dei dati. Al termine di questa sessione, i partecipanti si sentiranno sicuri delle funzioni più recenti e potenti per la raccolta di dati da esperienze digitali <br>**Data:** 21 luglio alle 9 PDT - [Dettagli](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
