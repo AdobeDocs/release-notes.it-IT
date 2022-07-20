@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5c20e56d96b6fbe571cc686e2b4ed27559f39a3d
+source-git-commit: 58049fdc92ec5b172527c58d9d557d271e77b92c
 workflow-type: tm+mt
-source-wordcount: '5576'
+source-wordcount: '5577'
 ht-degree: 49%
 
 ---
@@ -75,8 +75,6 @@ I [componenti dell’interfaccia utente centrale](https://experienceleague.adobe
 
 ### Aggiornamento del provisioning
 
-Aggiornato: **19 luglio 2022**
-
 >[!IMPORTANT]
 >
 >Consulta il seguente avviso relativo al provisioning di Experienci Cloud.
@@ -85,9 +83,11 @@ Adobe sta aggiornando il provisioning per fornire a tutti i clienti Experienci C
 
 Adobe Experience Platform [!UICONTROL Raccolta dati] include [tag](https://experienceleague.adobe.com/docs/tags.html?lang=en) per una gestione semplificata dei tag universali e offre un&#39;infrastruttura di dati in streaming affidabile, solida e completa. I tag semplificano la raccolta di dati sulla customer experience e semplificano la distribuzione delle esperienze.
 
-Con questo aggiornamento gli amministratori possono vedere modifiche o aggiunte all&#39;Admin Console:
+**Modifiche all&#39;Admin Console**
 
-1. La scheda prodotto Adobe Experience Platform nell’Admin Console includerà:
+Gli amministratori possono visualizzare le modifiche o le aggiunte all’Admin Console come segue:
+
+* La scheda prodotto Adobe Experience Platform nell’Admin Console includerà:
 
    * Places
    * Affidabilità
@@ -102,7 +102,7 @@ Con questo aggiornamento gli amministratori possono vedere modifiche o aggiunte 
 
    Per le organizzazioni che utilizzano attualmente l&#39;Experience Platform, _Luoghi_ sarà ora consolidata nella scheda Experience Platform.
 
-1. La raccolta dati di Adobe Experience Platform (precedentemente Launch) e la privacy continueranno a essere visualizzate come schede di prodotto separate rispetto alle altre funzionalità di Experience Platform.
+* La raccolta dati di Adobe Experience Platform (precedentemente Launch) e la privacy continueranno a essere visualizzate come schede di prodotto separate rispetto alle altre funzionalità di Experience Platform.
 
 Per maggiori dettagli sulle nuove funzionalità, visita le rispettive pagine all&#39;Experience League:
 
