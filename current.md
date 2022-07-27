@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b12e725da1878a88c7ff6341b7ab8d576672bca9
+source-git-commit: 62d9c958f05ff33f663f4e7e68bb081c3bd38b33
 workflow-type: tm+mt
-source-wordcount: '5706'
-ht-degree: 90%
+source-wordcount: '5746'
+ht-degree: 89%
 
 ---
 
@@ -40,8 +40,8 @@ Ultimo aggiornamento: **27 luglio 2022**
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
-* [[!DNL Adobe Marketo Engage]](#marketo)
-* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Marketo Engage]](#marketo) (**Aggiornato il 27 luglio**)
+* [[!DNL Adobe Workfront]](#workfront) (**Aggiornato il 27 luglio**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -467,6 +467,7 @@ Nuovi video, tutorial o corsi pubblicati su Adobe Marketo.
 
 | Data di pubblicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
+| 27 luglio 2022 | [Esercitazioni sul Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) | Video | Visita il [Pagina principale delle esercitazioni di Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) Experience League per tutte le esercitazioni passate e nuove. |
 | Luglio 2022 | [Esperienze B2B con Marketo Engage e Adobe Experience Cloud](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-experiences.html?lang=it) | Video | Scopri in dettaglio le integrazioni tra Marketo Engage e l’applicazione Adobe Experience Cloud e quali sono i punti critici che verranno risolti. | Marketo Engage |
 | Luglio 2022 | [L’unione fa la forza: Adobe Marketo Engage e Real-Time CDP](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=it) | Video | Scopri come coordinare campagne B2B con Marketo Engage e RT-CDP (edizione B2B) e quali sono i casi d’uso principali e i vantaggi ottenuti. | Marketo, Real-time Customer Data Platform |
 
