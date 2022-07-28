@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 62d9c958f05ff33f663f4e7e68bb081c3bd38b33
+source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
 workflow-type: tm+mt
-source-wordcount: '5746'
-ht-degree: 89%
+source-wordcount: '5842'
+ht-degree: 88%
 
 ---
 
@@ -53,10 +53,11 @@ Hai bisogno di aiuto? Visita [Experience League](https://experienceleague.adobe.
 
 Gli eventi di Experience League offrono l’occasione di imparare, interagire e ricevere risposte dagli esperti di prodotto di Adobe. Visita la sezione [Eventi](https://experienceleague.adobe.com/events/?lang=it) in Experience League per gli aggiornamenti di luglio 2022.
 
-Aggiornato il **17 luglio 2022**
+Aggiornato il **28 luglio 2022**
 
 | Evento | Tipo | Descrizione |
 | -----------|---------- | ----|
+| [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | Community Q&amp;A Coffee Break | Ci verrà unita dal Premier Support Adobe Business Consultant Rachel Booth, alias `@rbooth115`. Sarà connesso alla community Adobe Target per chattare direttamente con te su [questo thread](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) sulle tue domande relative alle sue aree di competenza (personalizzazione, ottimizzazione, integrazione). <br>**Data:** Mercoledì 3 agosto alle 8 PDT - 9:00 - [Dettagli e registrazione](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
 | [Domande agli esperti: flussi di dati e preparazione dei dati](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=it) | Experience League LIVE | Nell’ultima di tre sessioni sulla raccolta dei dati per Adobe Experience Cloud, i nostri esperti forniranno informazioni più approfondite sulle funzionalità avanzate di raccolta dei dati di Adobe, tra cui funzioni come la preparazione dei dati per la relativa raccolta. Al termine di questa sessione, i partecipanti si sentiranno sicuri delle funzioni più recenti e potenti per la raccolta di dati da esperienze digitali <br>**Data:** 21 luglio alle 9 PDT - [Dettagli](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
