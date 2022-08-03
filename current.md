@@ -8,8 +8,8 @@ mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
 workflow-type: tm+mt
-source-wordcount: '5842'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -80,39 +80,39 @@ I [componenti dell’interfaccia utente centrale](https://experienceleague.adobe
 >
 >Consulta il seguente avviso relativo al provisioning di Experience Cloud.
 
-Adobe sta aggiornando il provisioning per fornire a tutti i clienti di Experience Cloud l’accesso alle funzionalità fondamentali che facilitano l’interoperabilità tra alcuni prodotti di Experience Cloud. Gli utenti avranno a disposizione Adobe Experience Platform come nuovo diritto aggiunto alle loro organizzazioni Experience Cloud, con la [!UICONTROL Raccolta dati] come servizio incluso.
+Adobe sta aggiornando il provisioning per fornire a tutti i clienti di Experience Cloud l’accesso alle funzionalità fondamentali che facilitano l’interoperabilità tra alcuni prodotti Experience Cloud. Adobe Experience Platform verrà aggiunto come nuovo diritto alle organizzazioni Experience Cloud, con la funzionalità [!UICONTROL Raccolta dati] inclusa come servizio.
 
-La [!UICONTROL Raccolta dati] di Adobe Experience Platform include i [tag](https://experienceleague.adobe.com/docs/tags.html?lang=it) per una gestione dei tag semplificata e universale e offre un’infrastruttura di dati in streaming affidabile, solida e completa. I tag semplificano la raccolta dati sulla customer experience e agevolano la distribuzione delle esperienze.
+La funzionalità [!UICONTROL Raccolta dati] di Adobe Experience Platform include [tag](https://experienceleague.adobe.com/docs/tags.html?lang=it) per una gestione dei tag semplificata e universale e offre un’infrastruttura di dati in streaming affidabile, solida e completa. I tag semplificano la raccolta di dati sull’esperienza del cliente e agevolano la distribuzione delle esperienze.
 
-**Modifiche nell’Admin Console**
+**Modifiche in Admin Console**
 
-Gli amministratori possono visualizzare le modifiche o le integrazioni all’Admin Console nel modo seguente:
+Gli amministratori possono trovare le seguenti modifiche o aggiunte in Admin Console:
 
-* La scheda prodotto di Adobe Experience Platform nell’Admin Console includerà:
+* La scheda prodotto di Adobe Experience Platform in Admin Console includerà:
 
    * Places
    * Assurance
-   * Namespace Identity
+   * Spazio dei nomi identità
    * Sandbox
-   * Modello dati di Experience
+   * Experience Data Model
    * Schemi
    * Stream di dati
    * ID visitatore
 
-   Per le organizzazioni che attualmente non utilizzano Experience Platform, ora visualizzeranno il prodotto _Adobe Experience Platform_ nell’Admin Console, incluse le funzionalità elencate in precedenza.
+   Le organizzazioni che attualmente non utilizzano Experience Platform troveranno in Admin Console la sezione del prodotto _Adobe Experience Platform_, incluse le funzionalità elencate in precedenza.
 
-   Per le organizzazioni che attualmente utilizzano Experience Platform, _Places_ adesso sarà accorpato nella scheda di Experience Platform.
+   Per le organizzazioni che attualmente utilizzano Experience Platform, _Places_ sarà adesso accorpato nella scheda di Experience Platform.
 
-* La raccolta dati di Adobe Experience Platform (in precedenza Launch) e la privacy continueranno a essere visualizzate come schede di prodotto separate rispetto alle altre funzionalità di Experience Platform.
+* Le funzionalità Raccolta dati (in precedenza Launch) e Privacy di Adobe Experience Platform continueranno a essere disponibili come schede di prodotto distinte rispetto alle altre funzionalità di Experience Platform.
 
 Per maggiori dettagli sulle nuove funzionalità, visita le rispettive pagine su Experience League:
 
 * [Raccolta dati](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=it)
 * [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=it)
 * [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html?lang=it)
-* [Namespace Identity](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=it)
+* [Spazio dei nomi identità](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=it)
 * [Sandbox](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=it)
-* [Modello dati di Experience](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=it)
+* [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=it)
 * [Schemi](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=it)
 * [Stream di dati](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=it)
 * [ID visitatore](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=it#section_3C9F6DF37C654D939625BB4D485E4354)
