@@ -6,10 +6,10 @@ last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 12468598e028faf1f4e359a435a76783706d01d9
+source-git-commit: b2912a6f4a778785d021f6ab2bedcdc0d98dd208
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '4152'
+ht-degree: 96%
 
 ---
 
@@ -23,7 +23,7 @@ In qualità di creatore di esperienza, il tuo percorso per il successo inizia co
 >
 >Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento sui prodotti priority Adobe](https://www.adobe.com/subscription/priority-product-update.html). Torna spesso a controllare per essere sempre al corrente delle novità di Experience League.
 
-Ultimo aggiornamento: **12 agosto 2022**
+Ultimo aggiornamento: **23 agosto 2022**
 
 * Eventi di [[!DNL Experience League] ](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -41,7 +41,7 @@ Ultimo aggiornamento: **12 agosto 2022**
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
-* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Workfront]](#workfront) (aggiornato) **23 agosto**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -78,7 +78,7 @@ I [componenti dell’interfaccia utente centrale](https://experienceleague.adobe
 
 >[!IMPORTANT]
 >
->Amministratori, non perdete questo [avviso importante](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=it) sul provisioning di Experience Cloud (pubblicato a luglio 2022).
+>Amministratori, non perdete questo [avviso importante](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=it#luglio-2022) sul provisioning di Experience Cloud (pubblicato a luglio 2022).
 
 ## ![Icona](/assets/experience_platform_appicon_24.png) Adobe [!DNL Experience Platform] {#platform}
 
@@ -235,7 +235,7 @@ Nuovi video, esercitazioni e corsi pubblicati nell’ultimo mese.
 
 | Data di pubblicazione | Nome | Tipo | Descrizione | Applicazioni |
 | -----------| ---------- | ---------- | ---------- | ------|
-| Agosto 2022 | [Aggiornamento sulla versione 2022.7.0 di AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-7-0.html) | Video | Senti cosa dice il team di prodotto AEM e scopri le funzionalità e le innovazioni per l’ultima versione di Adobe Experience Manager Assets, Assets Essentials, Sites, Commerce Integration Framework, Forms e Cloud Manager. | AEM as a Cloud Service |
+| Agosto 2022 | [Aggiornamento sulla versione 2022.7.0 di AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-7-0.html?lang=it) | Video | Senti cosa dice il team di prodotto AEM e scopri le funzionalità e le innovazioni per l’ultima versione di Adobe Experience Manager Assets, Assets Essentials, Sites, Commerce Integration Framework, Forms e Cloud Manager. | AEM as a Cloud Service |
 | Agosto 2022 | [Tutorial di AEM headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=it) | Articoli aggiornati | AEM sono state aggiornate le esercitazioni dell’SDK headless per l’utilizzo di query persistenti e WKND 2.0. Utilizza le esercitazioni pratiche per scoprire come utilizzare le varie opzioni e scegliere le soluzioni più adatte alle tue esigenze. | AEM as a Cloud Service |
 | Agosto 2022 | [Integrazioni AEM as a Cloud Service con Adobe Experience Cloud](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html?lang=it) | Video | Scopri AEM integrazioni supportate da as a Cloud Service con altri prodotti Adobe Experience Cloud. | AEM CS, Experience Cloud |
 | Agosto 2022 | [Forms CS e Microsoft® Power Automazione](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html?lang=it) | Video | Richiamare l’alimentazione automatizza i flussi durante l’invio di un modulo adattivo. | AEM Forms |
@@ -292,7 +292,7 @@ Consulta i seguenti collegamenti per le note sulla versione di Adobe Commerce:
 
 | Data di pubblicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
-| Agosto 2022 | [Guida ai contenuti e alla progettazione di Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview?lang=it) | Documentazione del prodotto | Visita la nuova Home della documentazione del prodotto relativa a contenuti e progettazione di Adobe Commerce. |
+| Agosto 2022 | [Guida ai contenuti e alla progettazione di Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=it) | Documentazione del prodotto | Visita la nuova Home della documentazione del prodotto relativa a contenuti e progettazione di Adobe Commerce. |
 | Agosto 2022 | [Panoramica della guida a Catalog Service](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html?lang=it) | Documentazione del prodotto | Introduzione a [!UICONTROL Catalog Service]. Scopri l’onboarding e l’installazione. |
 | Agosto 2022 | [Pagamento rapido per Adobe Commerce](hhttps://experienceleague.adobe.com/docs/commerce-merchant-services/quick-checkout/overview.html?lang=it) | Documentazione del prodotto | Guarda una panoramica della tipica esperienza di pagamento di Adobe Commerce e dei vantaggi del pagamento rapido, nonché delle best practice da seguire lungo il percorso. |
 
@@ -412,6 +412,8 @@ Adobe [!DNL Workfront] è un’applicazione unificata di gestione del lavoro per
 
 Nuovi corsi e tutorial di Workfront su Experience League.
 
+**Aggiornamento 23 agosto:** La traduzione sull’Experience League per tutte le esercitazioni e la documentazione del prodotto Workfront sarà presto disponibile!
+
 | Data di pubblicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
 | Agosto 2022 | [Tutorial su Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=it) | Pagina principale delle esercitazioni | Visita la nuova Home dei tutorial di Workfront su Experience League. |
@@ -419,7 +421,7 @@ Nuovi corsi e tutorial di Workfront su Experience League.
 | Agosto 2022 | [Approfondimento sulle impostazioni di sistema per gli amministratori di Workfront](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | Corso | Ulteriori informazioni sulle impostazioni di sistema per migliorare l’esperienza utente, ad esempio l’organizzazione degli utenti, i moduli personalizzati, i processi di approvazione e i milestone e i modelli di layout. |
 | Agosto 2022 | [Guida introduttiva di Workfront per i responsabili di pianificazione](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | Corso | Inizia il tuo percorso in Workfront apprendendo a creare e pianificare i progetti. Workfront consiglia sempre di semplificare. |
 | Agosto 2022 | [Gestire e chiudere un progetto](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | Corso | Dopo avere appreso a creare e pianificare i progetti, possiamo esaminare le modalità di gestione e chiusura. |
-| Agosto 2022 | [Approfondimento della gestione del lavoro come responsabile della pianficazione](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | Corso | Dopo aver appreso le nozioni di base sulla creazione, la pianificazione e la gestione dei progetti, è necessario conoscere alcuni altri aspetti per ottenere il massimo da Workfront. |
+| Agosto 2022 | [Approfondimento sulla gestione del lavoro come responsabile della pianificazione](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | Corso | Dopo aver appreso le nozioni di base sulla creazione, la pianificazione e la gestione dei progetti, è necessario conoscere alcuni altri aspetti per ottenere il massimo da Workfront. |
 | Agosto 2022 | [Guida introduttiva di Workfront per gli operatori](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | Corso | Questo corso è destinato agli utenti con una licenza Lavoro di Adobe Workfront che ricevono lavori o richieste e collaborano con i team su progetti e documenti. |
 | Agosto 2022 | [Adobe Workfront per i collaboratori](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | Corso | Scopri come utilizzare una licenza Revisione o Richiesta per richiedere, rivedere e collaborare facilmente ad attività, documenti e bozze nella nuova esperienza Workfront. |
 | Agosto 2022 | [Creare e gestire moduli personalizzati](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | Corso | Acquisisci le specifiche informazioni della tua organizzazione creando campi personalizzati nel tuo sistema. Scopri come creare, condividere e allegare i moduli personalizzati in Workfront. |
