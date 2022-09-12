@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dfa7ca73f9e703e2b9d175a562bd422f57cb23f2
+source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
 workflow-type: tm+mt
-source-wordcount: '6447'
+source-wordcount: '6560'
 ht-degree: 40%
 
 ---
@@ -455,9 +455,8 @@ Per una raccolta delle informazioni più recenti per tutti i prodotti, consulta 
 Note sulla versione di [!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [Nuove funzioni in  [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [Nuove funzioni in  [!DNL Advertising Cloud Search]](#adcloud-search)
-
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -473,17 +472,15 @@ Last updated: **August 9, 2022**
   
 -->
 
-<!--
+### Nuove funzioni in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+Ultimo aggiornamento: **12 settembre 2022**
 
-Last updated: **July 27, 2022**
-
-| Feature | Description |
+| Funzione | Descrizione |
 | ------- | ----------- |
-| [!UICONTROL Inventory] | (July 27 release) [!UICONTROL Auction Insights] is a new troubleshooting tool that allows you to analyze the deal composition of both guaranteed and non-guaranteed private deals. Using data visualizations, this tool shows the trend and relative proportions of values received for key auction attributes within a specific time period. |
+| [!UICONTROL Posizionamento e pacchetto] | Sono ora disponibili controlli di velocità separati per il controllo dei voli e la velocità infragiornaliera (rilascio del 12 settembre). In precedenza, una singola strategia controllava entrambi. Le impostazioni per i pacchetti e i posizionamenti esistenti sono state mappate come segue:<ul><li>Legacy **[!UICONTROL Strategia di riempimento]**=*[!UICONTROL Pari]* — Ora configurato come **[!UICONTROL Tubazione]**=*[!UICONTROL Pari]* e **[!UICONTROL Pedaggio infragiornaliero]**=*[!UICONTROL Pari]*</li><li>Legacy **[!UICONTROL Strategia di riempimento]**=*[!UICONTROL Un po&#39; avanti]* — Ora configurato come **[!UICONTROL Tubazione]**=*[!UICONTROL Un po&#39; avanti]* e **[!UICONTROL Pedaggio infragiornaliero]**=*[!UICONTROL Pari]*</li><li>Legacy **[!UICONTROL Strategia di riempimento]**=*[!UICONTROL Anteriore]* — Ora configurato come **[!UICONTROL Tubazione]**=*[!UICONTROL Anteriore]* e **[!UICONTROL Pedaggio infragiornaliero]**=*[!UICONTROL ASAP]*</li><li>Legacy **[!UICONTROL Strategia di riempimento]**=*[!UICONTROL Frontload aggressivo]* — Ora configurato come **[!UICONTROL Tubazione]**=*[!UICONTROL Frontload aggressivo]* e **[!UICONTROL Pedaggio infragiornaliero]**=*[!UICONTROL ASAP]*</li></ul> |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ### Nuove funzioni in [!DNL Advertising Cloud Search] {#adcloud-search}
 
