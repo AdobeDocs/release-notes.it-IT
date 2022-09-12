@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: adf718f29e5c8d8f24497565750372359fa26e0f
+source-git-commit: dfa7ca73f9e703e2b9d175a562bd422f57cb23f2
 workflow-type: tm+mt
-source-wordcount: '6445'
+source-wordcount: '6447'
 ht-degree: 40%
 
 ---
@@ -23,7 +23,7 @@ In qualità di creatore di esperienza, il tuo percorso per il successo inizia co
 >
 >Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento sui prodotti priority Adobe](https://www.adobe.com/subscription/priority-product-update.html). Torna spesso a controllare per essere sempre al corrente delle novità di Experience League.
 
-Ultimo aggiornamento: **9 settembre 2022**
+Ultimo aggiornamento: **12 settembre 2022**
 
 * [Eventi di [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -33,7 +33,7 @@ Ultimo aggiornamento: **9 settembre 2022**
 * [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (aggiornato) **12 settembre**)
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -203,7 +203,7 @@ _Nuove funzioni_
 _Funzioni beta di Forms_
 
 * **Connettore di archiviazione unificata** - Utilizzare Unified Storage Connector per esternalizzare i dati in-process negli archivi gestiti dai clienti. Sarà possibile, ad esempio
-   * Abilita la funzionalità di salvataggio e ripresa di Forms Portal e archivia le bozze dei moduli adattivi in un archivio dati gestito dal cliente.
+   * Abilita la funzionalità di salvataggio e ripristino di Forms Portal e archivia le bozze dei moduli adattivi in un archivio dati gestito dal cliente.
    * Archiviare i dati dei flussi di lavoro in-process Experience Manager (ad Experience Manager i dati delle variabili dei flussi di lavoro) contenenti dati personali sensibili (SPD) in un archivio gestito dal cliente.
 * **Experience Manager Forms as a Cloud Service, comunicazioni** - [API di comunicazione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html) consente di combinare modelli XDP e dati XML per generare documenti di stampa in vari formati. Il servizio consente di generare documenti in modalità sincrona. Con le API è possibile creare applicazioni che consentono di:
    * Generare i documenti compilando i file modello con dati XML.
