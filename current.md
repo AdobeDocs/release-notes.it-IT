@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
+source-git-commit: 9cabd3285eeaca306d9da14d98cfa6b0311f5d11
 workflow-type: tm+mt
-source-wordcount: '6560'
+source-wordcount: '6495'
 ht-degree: 40%
 
 ---
@@ -142,7 +142,7 @@ Nuovi video, tutorial o corsi pubblicati per CJA.
 
 | Data di pubblicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
-| Settembre 2022 | [Pubblicazione di tipi di pubblico per Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html) | Video | Scopri come utilizzare il Customer Journey Analytics per pubblicare i tipi di pubblico rilevati dall’analisi nel profilo cliente Adobe Experience Platform in tempo reale per l’attivazione dei segmenti, utilizzando Adobe Real-time Customer Data Platform o Adobe Journey Optimizer. |
+| Settembre 2022 | [Pubblicazione dei tipi di pubblico per Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html) | Video | Scopri come utilizzare il Customer Journey Analytics per pubblicare i tipi di pubblico rilevati dall’analisi nel profilo cliente Adobe Experience Platform in tempo reale per l’attivazione dei segmenti, utilizzando Adobe Real-time Customer Data Platform o Adobe Journey Optimizer. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -247,13 +247,9 @@ Vedi [Generazione rapporti SLA](https://experienceleague.adobe.com/docs/experien
 
 ### Community
 
-* Un elenco completo [gli ultimi contenuti di Experience Manager su Experience League sono disponibili qui](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751#M29908).
-* [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) le community sono il battito cardiaco che consente ai nostri utenti di creare esperienze digitali che cambiano i loro clienti e coinvolgono e consentono loro di creare esperienze digitali che cambiano i loro giochi.
-Per consultare un elenco di tutti i consulenti comunitari, consulta [Adobe](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors#gs.a6braz).
-* Come inviare ad Experience Manager una nuova richiesta o suggerimento di funzionalità
-   * È ora attivo il nuovo processo per l’invio delle richieste di funzioni di Experience Manager. [Creare un&#39;idea](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas). |
-   * Vedi [qui i dettagli](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425).
-   * [Linee guida per la presentazione di una nuova idea di Experience Manager](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager-blogs/guidelines-for-submitting-a-new-experience-manager-aem-idea/ba-p/382376).
+* AEM as a Cloud Service 2022.7.0 - [Aggiornamento versione](https://adobe.ly/3paYDAo).
+* **Vetrina Experience League** - Mostraci, e il mondo, cosa puoi fare con più prodotti Adobe Experience Cloud. [Invia la tua storia oggi stesso!](https://experienceleaguecommunities.adobe.com/t5/experience-league-showcase-2022/con-p/exl-showcase-2022?sdid=3NQZB6J7&amp;mv=email)
+* Configurazione AEM gruppo di utenti | Adobe PTP, Bangalore | 30 settembre 2022 | [Registrati qui](https://adobe.ly/3DlsUos) | [Discussione sul thread della community](https://adobe.ly/3DhQwub).
 
 ### Nuovi corsi ed esercitazioni su Experience Manager {#tutorials-aem}
 
