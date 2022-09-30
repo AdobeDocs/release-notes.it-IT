@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce5bafed072084badc26e0ba4326239910a3c72d
+source-git-commit: 94c4f698be83ab2820d3b352c3c40c67a6c1dce3
 workflow-type: tm+mt
 source-wordcount: '6525'
 ht-degree: 100%
@@ -93,7 +93,7 @@ I [componenti dell’interfaccia utente centrale](https://experienceleague.adobe
 
 Informazioni sull’ultima versione e documentazione per [!DNL Experience Platform] e [!UICONTROL SDK di Mobile]:
 
-Rilascio pianificato: **28 settembre 2022**
+Data di rilascio: **28 settembre 2022**
 
 * [Note sulla versione di Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=it) (24 agosto 2022)
 
@@ -103,7 +103,7 @@ Aggiornato: **1° settembre 2022** - Consulta le [note sulla versione e i regist
 
 ## ![Icona](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Prossima versione: **14 settembre 2022**
+Data di rilascio: **14 settembre 2022**
 
 Ultimo aggiornamento **: 6 settembre 2022**
 
