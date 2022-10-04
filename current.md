@@ -6,7 +6,7 @@ last-update: October 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e9a58cfb7742eb9326a02b4992e3c73aab9f5682
+source-git-commit: a1db402fe3fdb8aa8d603c32785f7026dc7fb5d0
 workflow-type: tm+mt
 source-wordcount: '6826'
 ht-degree: 71%
@@ -540,7 +540,7 @@ Nuovi tutorial e corsi pubblicati per Adobe Document Cloud, inclusi [!DNL Docume
 | Settembre 2022 | [Aggiungere pagina personalizzata](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page.html?lang=it) | Video | Scopri come aggiungere pagine personalizzate al tuo PDF utilizzando l’app Adobe Express integrata, che offre migliaia di modelli tra cui scegliere. | Acrobat |
 | Settembre 2022 | [Modificare un modulo web esistente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=en) | Video | Scopri come disabilitare, modificare e riattivare un modulo web esistente. | Acrobat Sign |
 | Settembre 2022 | [Creazione di un rapporto](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report.html?lang=en) | Video | Scopri come creare i tuoi rapporti per acquisire visibilità nel tuo processo di firma dei documenti o per vedere come lo stanno facendo i singoli gruppi o gli utenti. | Acrobat Sign |
-| Settembre 2022 | [Creazione di un grafico](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=en) | Video (aggiornato) | Scopri come generare, salvare e gestire i tuoi rapporti e esportazioni di dati personalizzati in una visualizzazione personalizzata con la nuova esperienza di reporting. | Acrobat Sign |
+| Settembre 2022 | [Creazione di un grafico](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=en) | Video aggiornato | Scopri come generare, salvare e gestire i tuoi rapporti e esportazioni di dati personalizzati in una visualizzazione personalizzata con la nuova esperienza di reporting. | Acrobat Sign |
 | Settembre 2022 | [Creazione di un flusso di lavoro personalizzato](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/building-a-custom-workflow.html?lang=en) | Video aggiornato | Scopri come personalizzare e automatizzare i flussi di lavoro dei documenti per ottenere firme elettroniche, raccogliere dati dei moduli e confermare la consegna di un documento importante per semplificare la gestione del flusso di lavoro. | Acrobat Sign |
 | Settembre 2022 | [Invia per firma in Microsoft Teams](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/adobe-sign-teams-mortgage.html?lang=en) | Video aggiornato | Scopri come inviare accordi per la firma, controllare lo stato degli accordi e inviare promemoria, il tutto da Microsoft Teams. | Acrobat Sign |
 | Settembre 2022 | [Aggiugere campi ai tuoi documenti](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/adding-fields.html?lang=en) | Video aggiornato | Scopri come inserire automaticamente i campi nel tuo documento o utilizzare l’ambiente di authoring con trascinamento all’interno di Acrobat Sign. | Acrobat Sign |
