@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ece304539959b8aa223e378f365852277213822f
+source-git-commit: 843063e0d596a197966d1b5d28b52415f9349a40
 workflow-type: tm+mt
-source-wordcount: '4939'
-ht-degree: 96%
+source-wordcount: '4997'
+ht-degree: 93%
 
 ---
 
@@ -27,7 +27,7 @@ Questa pagina fornisce l’accesso alle pagine relative alle note sulla versione
 
 Ultimo aggiornamento: **17 novembre 2022**
 
-* [Eventi di [!DNL Experience League]](#events)
+* [[!DNL Experience League] events](#events) (Aggiornato **17 novembre**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - Componenti dell’interfaccia centrale e amministrazione](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -55,16 +55,13 @@ Hai bisogno di aiuto? Visita [Experience League](https://experienceleague.adobe.
 
 Gli eventi di Experience League offrono l’occasione di imparare, interagire e ricevere risposte dagli esperti di prodotto di Adobe.
 
-I prossimi eventi includono:
+Prossimi eventi:
 
-* **[!DNL Journey Optimizer]:** 25 ottobre - _Fornire l’offerta giusta al momento giusto con la gestione delle decisioni_
-* **[!DNL Workfront]:** 25 ottobre - _Le domande agli esperti: follow-up sul Webinar su flusso di lavoro e la progettazione del processo_
-* **[!DNL Analytics]:** 3 novembre - _Suggerimenti e trucchi dei campioni di Adobe Analytics_
-* **[!DNL Workfront]:** 4 novembre - _Chat con gli amministratori di Adobe Workfront: marketing e creatività_
-* **[!DNL Experience Manager]:** 9 novembre - _Adobe Developers Live: Headless_
-* **[!DNL Workfront]:** 9 novembre - _Mercoledì dedicato a Workfront - Chat della community_
+* [Pausa caffè Adobe Target](https://adobe.ly/3WoLYth) - **29 novembre** - _Interruzione del caffè Q&amp;A della comunità con Cristinel Anastasoaie_
+* [Workshop per i clienti](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Dicembre 1** - _Webinar Ask the Experts - Succful End User Adoption Follow-up_
+* [Q&amp;A Chat](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **5 dicembre** - _Connessioni CS - Condivisione delle best practice strategiche_
 
-Per tutti gli aggiornamenti, consulta gli [Eventi su Experience League](https://experienceleague.adobe.com/events/?lang=it) per conoscere gli eventi futuri e precedenti.
+Per una pianificazione completa degli eventi, vedi [Eventi sull&#39;Experience League](https://experienceleague.adobe.com/events/?lang=it).
 
 ## ![Icona](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
