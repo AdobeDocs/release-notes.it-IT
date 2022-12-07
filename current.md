@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1e7df40e37c8cdc40cec618c0ee2989ae8fca7ec
+source-git-commit: 824837e33e52613fd761e4cb71c21ffb18f32da7
 workflow-type: tm+mt
-source-wordcount: '5160'
-ht-degree: 97%
+source-wordcount: '4897'
+ht-degree: 94%
 
 ---
 
@@ -124,10 +124,12 @@ Nuovi tutorial, articoli e corsi pubblicati per Adobe Analytics.
 
 | Data di pubblicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
+| Dicembre 2022 | [Maggiore sicurezza](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/enhancing-security.html) | Video aggiornato | Scopri le impostazioni di Security Manager in Impostazioni società per controllare l’accesso ad Adobe Analytics. Ciò include password complesse, funzionalità di scadenza e ripristino della password e restrizioni del dominio e-mail. |
+| Dicembre 2022 | [Imposta un progetto Analysis Workspace come pagina di destinazione](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | Video aggiornato | Scopri un modo efficace per coinvolgere facilmente i nuovi utenti nei dati dei progetti di analisi di workspace. |
+| Dicembre 2022 | [Personalizzare il menu in Reporting e analisi](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.html) | Video aggiornato | Scopri come personalizzare il menu Reports &amp; Analytics per gli utenti della tua organizzazione. In questo modo gli utenti possono trovare i rapporti che utilizzano più di frequente. |
 | Novembre 2022 | [Cos’è Analytics?](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-is-analytics.html?lang=it) | Articolo | Scopri le nozioni di base di Adobe Analytics prima di imparare ad utilizzarlo. |
 | Novembre 2022 | [Creare viste di dettaglio personalizzate per le dashboard](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=it) | Video | Scopri come personalizzare le viste di dettaglio, compreso il testo per le dashboard di Adobe Analytics, per perfezionare le indicazioni per le parti interessate tramite i progetti delle scorecard per dispositivi mobili. |
 | Novembre 2022 | [Visualizzazione di riepilogo delle metriche chiave](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html?lang=it) | Video | Scopri la visualizzazione di riepilogo delle metriche chiave in Analysis Workspace che ti consente di visualizzare la tendenza di una metrica importante in un singolo arco temporale. Consente inoltre di confrontare le prestazioni delle metriche in due intervalli di tempo. |
-| Ottobre 2022 | [Grafici combinati in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/combo-charts.html?lang=it) | Video | Scopri la visualizzazione con grafici combinati in Analysis Workspace. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -488,19 +490,9 @@ Nuovi tutorial e corsi pubblicati per Adobe Document Cloud, inclusi [!DNL Docume
 
 | Data di pubblicazione | Nome | Tipo | Descrizione | Applicazione |
 | -----------| ---------- | ---------- | ---------- |---------- |
+| Dicembre 2022 | [Imposta scadenze e promemoria](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/set-deadlines-reminders.html?lang=en) | Video | Scopri come inviare promemoria e scadenze regolari per le e-mail per ottenere rapidamente la firma dei documenti. | Acrobat Sign |
 | Novembre 2022 | [Registrazione e firma utilizzando D-Trust](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/dtrust/d-trust.html?lang=it) | Video | Scopri come registrare la tua identità con D-Trust e quindi utilizzare la firma digitale D-Trust su un documento. | Acrobat Sign |
 | Novembre 2022 | [Introduzione per i nuovi amministratori](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/get-started-admin.html?lang=it) | Video | Scopri tutti gli strumenti necessari per rendere operativa la tua organizzazione con questa giuda video completa. | Acrobat Sign |
-| Ottobre 2022 | [Scansionare qualsiasi fine in PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app.html?lang=it) | Video | Scopri come trasformare qualsiasi documento cartaceo in un PDF utilizzando l’app mobile Adobe Scan gratuita. | Acrobat |
-| Ottobre 2022 | [Organizzare le pagine](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/organize.html?lang=it) | Video aggiornato | Scopri come riorganizzare le pagine nel modo che preferisci in pochi secondi. Inserire, sostituire, dividere, riordinare, ruotare e persino estrarre pagine discontinue per creare un PDF dall’aspetto professionale. | Acrobat |
-| Ottobre 2022 | [Utilizzo dei file da Dropbox](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox.html?lang=it) | Video | Scopri come aprire, creare, modificare, firmare e salvare le modifiche apportate ai tuoi file di Dropbox da Acrobat. | Acrobat |
-| Ottobre 2022 | [Archiviare automaticamente i file in SharePoint con Power Automate](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/auto-archive-sharepoint-power-automate.html?lang=it) | Video | Scopri come archiviare automaticamente i documenti firmati in una libreria di SharePoint utilizzando Power Automate. | Acrobat Sign |
-| Ottobre 2022 | [Impostare la mappatura dei dati in Salesforce](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-data-mapping.html?lang=it) | Video | Scopri come impostare la mappatura dei dati per Acrobat Sign in Salesforce. La mappatura dei dati ti consente di richiamare i dati in Salesforce dopo la firma di un accordo. | Acrobat Sign |
-| Ottobre 2022 | [Configurare un archivio esterno](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/set-up-your-external-archive.html?lang=it) | Video | Scopri come creare un archivio esterno per le copie di backup dei contratti firmati. | Acrobat Sign |
-| Ottobre 2022 | [Gestire e tenere traccia degli accordi](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-managing/manage-and-track.html?lang=it) | Video aggiornato | Scopri come gestire e tenere traccia dei documenti inviati per la firma in Acrobat Sign. | Acrobat Sign |
-| Ottobre 2022 | [Impostare la mappatura unione in Salesforce](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-merging-map.html?lang=it) | Video aggiornato |  Scopri come unire i dati di Salesforce direttamente in un documento di Acrobat Sign. | Acrobat Sign |
-| Ottobre 2022 | [Document Builder per Salesforce](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/create-an-agreement-template.html?lang=it) | Video | Scopri come creare un modello di documento riutilizzabile con Document Builder per Salesforce. | Acrobat Sign |
-| Ottobre 2022 | [Gestione dei dati del modulo web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/manage-webform-data.html?lang=it) | Video | Scopri come gestire, esportare e tenere traccia dei dati da un modulo web. | Acrobat Sign |
-| Ottobre 2022 | [Modalità Liquid Mode in Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html?lang=it) | Video | Scopri come la modalità Liquid Mode migliora l’esperienza di firma su dispositivi mobili. Non è più necessario zoomare per leggere e firmare i documenti. | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
 
