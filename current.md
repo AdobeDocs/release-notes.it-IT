@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
-workflow-type: ht
-source-wordcount: '5495'
-ht-degree: 100%
+source-git-commit: ac727f5e20503266d2d64da66ee95b4ae4779fb5
+workflow-type: tm+mt
+source-wordcount: '5497'
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ In qualità di creatore di esperienza, il tuo percorso per il successo inizia co
 
 Questa pagina fornisce l’accesso alle pagine relative alle note sulla versione del prodotto Experience Cloud e ai tutorial, ai corsi e agli eventi più recenti su Experience League.
 
-Ultimo aggiornamento: **18 gennaio 2023**
+Ultimo aggiornamento: **3 febbraio 2023**
 
 * [Eventi di [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -475,11 +475,12 @@ Last updated: **August 9, 2022**
 
 ### Nuove funzioni in [!DNL Advertising DSP] {#advertising-dsp}
 
-Ultimo aggiornamento: **23 novembre 2022**
+Ultimo aggiornamento: **3 febbraio 2023**
 
 | Funzione | Descrizione |
 | ------- | ----------- |
-| Offerte | La vista [!UICONTROL Inventario] > [!UICONTROL Offerte] ora include una colonna “[!UICONTROL Integrità dell’offerta]“ che indica lo stato di integrità di ogni offerta privata: “[!UICONTROL Completata]”, “[!UICONTROL Attenzione]”, “[!UICONTROL Critica]” o “[!UICONTROL Non disponibile]”. Puoi fare clic sullo stato per visualizzare ulteriori dettagli, tra cui il motivo per cui un’offerta non funziona o sta generando spese come previsto e i passaggi per la risoluzione dei potenziali problemi. |
+| [!UICONTROL Offerte] | (Data di rilascio: 25 gennaio) Una nuova colonna di spesa &quot;PG Impression Pacing&quot; nei rapporti di visualizzazione Inventario > Offerte per offerte garantite. |
+| [!UICONTROL Campagne] | È ora disponibile un registro delle modifiche, che mostra le modifiche apportate durante l’intervallo di date selezionato, per ogni campagna. I registri delle modifiche erano già disponibili per i pacchetti e i posizionamenti. |
 
 {style=&quot;table-layout:auto&quot;}
 
