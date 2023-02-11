@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b485f46078429951e5d8470deab579da1a47d84c
+source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
 workflow-type: tm+mt
-source-wordcount: '4983'
-ht-degree: 58%
+source-wordcount: '5082'
+ht-degree: 57%
 
 ---
 
@@ -29,7 +29,7 @@ Il tuo percorso di successo inizia con [Experience League](https://experiencelea
 
 ## Aggiornamenti ed eventi sul rilascio del prodotto - febbraio 2023
 
-Ultimo aggiornamento del contenuto: **9 febbraio 2023**
+Ultimo aggiornamento del contenuto: **10 febbraio 2023**
 
 * [Eventi di [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -534,11 +534,13 @@ Ultimo aggiornamento: **8 febbraio 2023**
 
 ### Nuove funzioni in [!DNL Advertising Search] {#advertising-search}
 
-Ultimo aggiornamento: **8 febbraio 2023**
+Ultimo aggiornamento: **10 febbraio 2023**
 
 | Funzione | Descrizione |
 | ------- | ----------- |
 | [!UICONTROL Campagne] | (versione del 6 febbraio; funzione beta) È ora disponibile il supporto per la sincronizzazione di sola lettura per il [!DNL Google Ads] campagne di individuazione. Le campagne di individuazione [!UICONTROL Tipo di campagna] &quot;[!UICONTROL Individuazione]&quot; [!UICONTROL Tipo di gruppo di annunci] &quot;[!UICONTROL Individuazione],&quot; e [!UICONTROL Tipo creativo] &quot;[!UICONTROL Annuncio Discovery]&quot; (per annunci a immagine singola) o &quot;[!UICONTROL Annuncio carosello di scoperta]&quot; (per gli annunci carosello con più immagini). È possibile includere campagne di individuazione in portfolio standard e ibridi.<br><br>I dati a livello di annuncio per le campagne di individuazione sono disponibili nei rapporti. Per gli inserzionisti con un’integrazione Adobe Analytics, i dati a livello di annuncio sono disponibili in [!DNL Analytics]. Analogamente, [!DNL Analytics] i dati sono disponibili in [!DNL Search]; i dati vengono inviati utilizzando `s_kwcid` parametro di tracciamento, indipendentemente dal `s_kwcid` formato normalmente utilizzato per l&#39;account. Se normalmente si utilizza la versione precedente di `s_kwcid`, quindi i dati di clic/costo e i dati di ricavo vengono tracciati utilizzando diversi `s_kwcids`, ma entrambi i set di dati sono completamente classificati e aggregati sotto la stessa campagna e lo stesso account. |
+|  | ([!DNL Google Ads] conti; Versione dell’11 febbraio) Supporto per &quot;[!UICONTROL Condivisione immagini di Target]&quot; la strategia di offerta è ora disponibile solo per le campagne sulla rete di ricerca. Per questa strategia di offerta, [!DNL Google Ads] (non [!DNL Search]) ottimizza le offerte al fine di raggiungere una quota di impression target e una posizione dell’annuncio. Facoltativamente, è possibile inserire un [!UICONTROL Condivisione immagini di Target] come percentuale [!UICONTROL Posizione dell’annuncio di Target]e [!UICONTROL Max CPC] (costo per clic). Questa opzione non è ancora supportata nei portfolio ibridi. |
+| [!UICONTROL Bulksheet] | ([!DNL Microsoft] campagne; Versione dell’11 febbraio) I bulksheet ora includono &quot;[!UICONTROL Invito all&#39;azione]&quot; e &quot;[!UICONTROL Lingua dell&#39;invito all&#39;azione]&quot; colonne per gli annunci multimediali (in formato annuncio reattivo), che utilizzano il &quot;[!UICONTROL Creative (eccetto RSA)]&quot; riga. |
 
 {style=&quot;table-layout:auto&quot;}
 
