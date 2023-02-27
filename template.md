@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '716'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -26,13 +26,13 @@ Nuove funzioni e correzioni in Adobe Experience Cloud.
 >
 >Le nuove informazioni pubblicate dopo il rilascio saranno contrassegnate dalla data di pubblicazione.
 
-Ultimo aggiornamento: **Settembre 2021**
+Ultimo aggiornamento: **settembre 2021**
 
-* [Experience League eventi live](#events)
+* [Eventi Experience League Live](#events)
 * [Componenti dell’interfaccia centrale di Experience Cloud](#ecloud)
 * [Stato di Adobe](#status)
 * [Experience Platform](#platform)
-* [Experience Platform Application Services](#services)
+* [Servizi applicazione Experience Platform](#services)
 * [Journey Optimizer](#journey-opt)
 * [[!DNL Analytics]](#analytics) e [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
@@ -46,11 +46,11 @@ Ultimo aggiornamento: **Settembre 2021**
 * [Document Cloud](#doc-cloud)
 * [Creative Cloud for enterprise](#creative-cloud)
 
-## Stato del sistema di Adobe {#status}
+## Stato di Adobe {#status}
 
 Funzioni e problemi risolti.
 
-Vedi [Stato del sistema di Adobe](https://status.adobe.com/it).
+Vedi [Stato di Adobe](https://status.adobe.com/it).
 
 ## ![Icona](/assets/ec_appicon_24.png) Componenti dell’interfaccia centrale di Experience Cloud {#ecloud}
 
@@ -60,16 +60,16 @@ Experience Cloud Central Interface Components include aggiornamenti a cui è pos
 
 Funzioni e problemi risolti.
 
-### Amministrazione e sviluppatori {#admin}
+### Amministrazione e sviluppatore {#admin}
 
 Funzioni e problemi risolti.
 
 ## ![Icona](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Note sulla versione [!DNL Experience Platform,] che includono [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offerte], [!UICONTROL Persone], [!UICONTROL Places], [!UICONTROL Mobile Services] e bollettini sulla sicurezza.
+Note sulla versione per [!DNL Experience Platform,] che includono [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offerte], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services] e bollettini sulla sicurezza.
 
 * [Servizio Experience Cloud ID](#ecid)
-* [Note sulla versione di Experience Platform](https://www.adobe.com/go/platform-release-notes-en)
+* [Note sulla versione di Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=it)
 * [Experience Platform Launch](#launch)
 * [Journey Orchestration](#journey)
 * [Mobile Services e Mobile SDK](#mobile)
@@ -84,11 +84,11 @@ Consulta
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Con Adobe [!UICONTROL Experience Platform,] puoi coordinare i percorsi dei singoli clienti su vasta scala attraverso i vari canali dell’esperienza, anticipando in modo intelligente e in tempo reale le esigenze di ciascuno di essi, ovunque li porti il loro percorso.
+Usando Adobe [!UICONTROL Experience Platform], coordina i percorsi dei singoli clienti su vasta scala attraverso i vari canali dell’esperienza, anticipando in modo intelligente e in tempo reale le esigenze di ciascuno di essi, ovunque li porti il loro percorso.
 
 #### Risorse aggiuntive per [!UICONTROL Journey Orchestration]
 
-text
+testo
 
 ### [!UICONTROL Mobile Services] e [!UICONTROL Mobile SDK] {#mobile}
 
@@ -159,9 +159,9 @@ Testo.
 
 ## Experience Manager {#aem}
 
-Nuove funzioni, problemi risolti e aggiornamenti di Adobe Experience Manager (AEM). Ai clienti con distribuzioni locali, Adobe consiglia di implementare le ultime patch in modo da garantire stabilità, sicurezza e prestazioni migliori.
+Nuove funzioni, problemi risolti e aggiornamenti di Adobe Experience Manager (AEM). Ai clienti con implementazioni on-premise, Adobe consiglia di implementare le ultime patch in modo da garantire stabilità, protezione e prestazioni migliori.
 
-### Rilasci di prodotti
+### Versioni dei prodotti
 
 **Nome della funzione**
 
@@ -257,7 +257,7 @@ Marketo Engage è una soluzione completa per chi lavora nell’ambito della gest
 
 Data di rilascio: 21 febbraio 2020
 
-* **Microsoft® Dynamics _Cambia proprietario in Microsoft®_ Azione flusso:** Cambia il proprietario di lead o contatti direttamente dal Marketo Engage.
+* **Azione di flusso _Change Owner in Microsoft®_ di Microsoft® Dynamics:** cambia il proprietario di lead o contatti direttamente da Marketo Engage.
 * **Miglioramenti alle chiamate API:**
    * API per gestione utenti
    * API per schemi di oggetti personalizzati
@@ -276,7 +276,7 @@ Nel corso del trimestre verranno presentate le seguenti funzionalità:
 
 ### Annunci
 
-**Success Center di Marketo Engage:** lancio a febbraio 2020. Success Center è un centro di assistenza interno al prodotto che consente di effettuare ricerche nei documenti sui prodotti e nella community, avviare guide informative, accedere ai contenuti di adozione e altro ancora. Nota: Questa funzione viene lanciata come versione beta in ANZ e verrà implementata in Nord America più avanti nel trimestre.
+**Success Center di Marketo Engage:** lancio a febbraio 2020. Success Center è un centro di assistenza interno al prodotto che consente di effettuare ricerche nei documenti sui prodotti e nella community, avviare guide informative, accedere a contenuti sull’adozione e altro ancora. Nota: questa funzionalità verrà lanciata come versione beta in Nuova Zelanda e verrà implementata nel Nord America in un secondo momento nel corso del trimestre.
 
 ### Funzionalità deprecate
 
