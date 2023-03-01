@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
+source-git-commit: 857554e2e67ba846740e4a529d9f0d6d2e21fc18
 workflow-type: tm+mt
-source-wordcount: '5082'
-ht-degree: 97%
+source-wordcount: '5139'
+ht-degree: 96%
 
 ---
 
@@ -26,6 +26,12 @@ Questa pagina ti aiuta a rimanere aggiornato sulle informazioni sulla versione d
 **Hai bisogno di aiuto?**
 
 Il tuo percorso per il successo inizia con [Experience League](https://experienceleague.adobe.com/?lang=it#home). Sfoglia la nostra vasta libreria sulla [documentazione del prodotto](https://experienceleague.adobe.com/docs/?lang=it) di supporto autonomo e i [video tutorial](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it) guidati. Trova [corsi](https://experienceleague.adobe.com/?lang=it#courses) per tutti i livelli e ruoli, poni domande dalla [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) online di colleghi e ottieni il [supporto](https://experienceleague.adobe.com/?support-tab=home&amp;lang=it#support) esperto quando necessario.
+
+## Adobe Summit 2023
+
+Unisciti a noi a Las Vegas per espandere le tue competenze, accendere l&#39;ispirazione e creare connessioni che ti consentano di rendere personale l&#39;economia digitale. Per coloro che non possono partecipare all&#39;evento di prima classe a Las Vegas, unisciti a noi praticamente da qualsiasi luogo gratuitamente.
+
+[!BADGE Registrati al Summit]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="Registrati al Summit"}
 
 ## Aggiornamenti ed eventi sulla versione del prodotto, febbraio 2023
 
@@ -538,9 +544,9 @@ Ultimo aggiornamento: **10 febbraio 2023**
 
 | Funzione | Descrizione |
 | ------- | ----------- |
-| [!UICONTROL Campagne] | (Versione del 6 febbraio; funzione beta) Il supporto per la sincronizzazione in sola lettura è ora disponibile per le campagne di tipo discovery di [!DNL Google Ads]. Le campagne di individuazione [!UICONTROL Tipo di campagna] &quot;[!UICONTROL Individuazione]&quot; [!UICONTROL Tipo di gruppo di annunci] &quot;[!UICONTROL Individuazione],&quot; e [!UICONTROL Tipo creativo] &quot;[!UICONTROL Annuncio Discovery]&quot; (per annunci a immagine singola) o &quot;[!UICONTROL Annuncio carosello di scoperta]&quot; (per gli annunci carosello con più immagini). È possibile includere le campagne di tipo discovery in portfolio standard e ibridi.<br><br>I dati a livello di annuncio per le campagne di tipo discovery sono disponibili nei rapporti. Per gli inserzionisti con un’integrazione Adobe Analytics, i dati a livello di annuncio sono disponibili in [!DNL Analytics]. Analogamente, i dati di [!DNL Analytics] sono disponibili in [!DNL Search]; i dati vengono inviati utilizzando il parametro di tracciamento `s_kwcid`, indipendentemente dal formato del `s_kwcid` normalmente utilizzato per l’account. Se normalmente utilizzi la versione precedente di `s_kwcid`, i dati di costo/clic e i dati sui profitti vengono tracciati utilizzando `s_kwcids` diversi, ma entrambi i set di dati sono completamente classificati e aggregati nella stessa campagna e nello stesso account. |
-|  | ([!DNL Google Ads] conti; Versione dell’11 febbraio) Supporto per &quot;[!UICONTROL Condivisione immagini di Target]&quot; la strategia di offerta è ora disponibile solo per le campagne sulla rete di ricerca. Per questa strategia di offerta, [!DNL Google Ads] (non [!DNL Search]) ottimizza le offerte al fine di raggiungere una quota di impression target e una posizione dell’annuncio. Facoltativamente, è possibile inserire un [!UICONTROL Condivisione immagini di Target] come percentuale [!UICONTROL Posizione dell’annuncio di Target]e [!UICONTROL Max CPC] (costo per clic). Questa opzione non è ancora supportata nei portfolio ibridi. |
-| [!UICONTROL Bulksheet] | ([!DNL Microsoft] campagne; Versione dell’11 febbraio) I bulksheet ora includono &quot;[!UICONTROL Invito all&#39;azione]&quot; e &quot;[!UICONTROL Lingua dell&#39;invito all&#39;azione]&quot; colonne per gli annunci multimediali (in formato annuncio reattivo), che utilizzano il &quot;[!UICONTROL Creative (eccetto RSA)]&quot; riga. |
+| [!UICONTROL Campagne] | (Versione del 6 febbraio; funzione beta) Il supporto per la sincronizzazione in sola lettura è ora disponibile per le campagne di tipo discovery di [!DNL Google Ads]. Le campagne di scoperta hanno [!UICONTROL Tipo di campagna] &quot;[!UICONTROL Individuazione],&quot; [!UICONTROL Tipo di gruppo di annunci] &quot;[!UICONTROL Individuazione],&quot; e [!UICONTROL Tipo di creatività] &quot;[!UICONTROL Annuncio individuazione]&quot; (per annunci a immagine singola) o &quot;[!UICONTROL Annuncio carosello di individuazione]&quot; (per annunci carosello con più immagini). È possibile includere le campagne di tipo discovery in portfolio standard e ibridi.<br><br>I dati a livello di annuncio per le campagne di tipo discovery sono disponibili nei rapporti. Per gli inserzionisti con un’integrazione Adobe Analytics, i dati a livello di annuncio sono disponibili in [!DNL Analytics]. Analogamente, i dati di [!DNL Analytics] sono disponibili in [!DNL Search]; i dati vengono inviati utilizzando il parametro di tracciamento `s_kwcid`, indipendentemente dal formato del `s_kwcid` normalmente utilizzato per l’account. Se normalmente utilizzi la versione precedente di `s_kwcid`, i dati di costo/clic e i dati sui profitti vengono tracciati utilizzando `s_kwcids` diversi, ma entrambi i set di dati sono completamente classificati e aggregati nella stessa campagna e nello stesso account. |
+|  | ([!DNL Google Ads] account; versione dell’11 febbraio) Supporto per il &quot;[!UICONTROL Condivisione impression target]&quot;la strategia di offerta è ora disponibile solo per le campagne sulla rete di ricerca. Per questa strategia di offerta, [!DNL Google Ads] (non [!DNL Search]) ottimizza le offerte per raggiungere una quota di impression target e una posizione pubblicitaria. Facoltativamente, è possibile inserire una [!UICONTROL Condivisione impression target] in percentuale, il valore [!UICONTROL Posizione annuncio di destinazione], e un [!UICONTROL CPC massimo] (costo per clic). Questa opzione non è ancora supportata nei portfolio ibridi. |
+| [!UICONTROL Bulksheet] | ([!DNL Microsoft] campagne; versione dell’11 febbraio) I bulksheet ora includono &quot;[!UICONTROL Invito all&#39;azione]&quot; e &quot;[!UICONTROL Lingua dell’invito all’azione]&quot; colonne per annunci multimediali (in formato di annuncio responsive), che utilizzano il &quot;[!UICONTROL Creativo (tranne RSA)]&quot;. |
 
 {style=&quot;table-layout:auto&quot;}
 
