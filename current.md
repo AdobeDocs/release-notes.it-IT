@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
+source-git-commit: 0d56cb0d35c17a40b51b7244a4842215a298b76b
 workflow-type: tm+mt
-source-wordcount: '5139'
-ht-degree: 96%
+source-wordcount: '5241'
+ht-degree: 93%
 
 ---
 
@@ -35,7 +35,7 @@ Unisciti a noi a Las Vegas per espandere le tue competenze, accendere l&#39;ispi
 
 ## Aggiornamenti ed eventi sulla versione del prodotto, febbraio 2023
 
-Ultimo aggiornamento del contenuto: **10 febbraio 2023**
+Ultimo aggiornamento del contenuto: **2 marzo 2023**
 
 * [Eventi di [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -530,23 +530,24 @@ Last updated: **August 9, 2022**
 
 ### Nuove funzioni in [!DNL Advertising DSP] {#advertising-dsp}
 
-Ultimo aggiornamento: **8 febbraio 2023**
+Ultimo aggiornamento: **2 marzo 2023**
 
 | Funzione | Descrizione |
 | ------- | ----------- |
-| [!UICONTROL Campagne] | (Versione del 3 febbraio; funzioni beta) Ora puoi visualizzare i registri di modifica in forma di grafico e aggiungere note a qualsiasi voce. |
+| [!UICONTROL Campagne] | (Data di rilascio: 15 febbraio) Ora è possibile visualizzare i registri delle modifiche sotto forma di grafico e aggiungere note a qualsiasi voce. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nuove funzioni in [!DNL Advertising Search] {#advertising-search}
 
-Ultimo aggiornamento: **10 febbraio 2023**
+Ultimo aggiornamento: **2 marzo 2023**
 
 | Funzione | Descrizione |
 | ------- | ----------- |
-| [!UICONTROL Campagne] | (Versione del 6 febbraio; funzione beta) Il supporto per la sincronizzazione in sola lettura è ora disponibile per le campagne di tipo discovery di [!DNL Google Ads]. Le campagne di scoperta hanno [!UICONTROL Tipo di campagna] &quot;[!UICONTROL Individuazione],&quot; [!UICONTROL Tipo di gruppo di annunci] &quot;[!UICONTROL Individuazione],&quot; e [!UICONTROL Tipo di creatività] &quot;[!UICONTROL Annuncio individuazione]&quot; (per annunci a immagine singola) o &quot;[!UICONTROL Annuncio carosello di individuazione]&quot; (per annunci carosello con più immagini). È possibile includere le campagne di tipo discovery in portfolio standard e ibridi.<br><br>I dati a livello di annuncio per le campagne di tipo discovery sono disponibili nei rapporti. Per gli inserzionisti con un’integrazione Adobe Analytics, i dati a livello di annuncio sono disponibili in [!DNL Analytics]. Analogamente, i dati di [!DNL Analytics] sono disponibili in [!DNL Search]; i dati vengono inviati utilizzando il parametro di tracciamento `s_kwcid`, indipendentemente dal formato del `s_kwcid` normalmente utilizzato per l’account. Se normalmente utilizzi la versione precedente di `s_kwcid`, i dati di costo/clic e i dati sui profitti vengono tracciati utilizzando `s_kwcids` diversi, ma entrambi i set di dati sono completamente classificati e aggregati nella stessa campagna e nello stesso account. |
+| [!UICONTROL Campagne] | (Account Google Ads; funzione open beta; versione del 23 febbraio) Supporto della sincronizzazione di sola lettura per [!DNL Google Ads] le campagne di individuazione sono in modalità beta per tutti gli inserzionisti.  Le campagne di scoperta hanno [!UICONTROL Tipo di campagna] &quot;[!UICONTROL Individuazione],&quot; [!UICONTROL Tipo di gruppo di annunci] &quot;[!UICONTROL Individuazione],&quot; e [!UICONTROL Tipo di creatività] &quot;[!UICONTROL Annuncio individuazione]&quot; (per annunci a immagine singola) o &quot;[!UICONTROL Annuncio carosello di individuazione]&quot; (per annunci carosello con più immagini). È possibile includere le campagne di tipo discovery in portfolio standard e ibridi.<br><br>I dati a livello di annuncio per le campagne di tipo discovery sono disponibili nei rapporti. Per gli inserzionisti con un’integrazione Adobe Analytics, i dati a livello di annuncio sono disponibili in [!DNL Analytics]. Analogamente, i dati di [!DNL Analytics] sono disponibili in [!DNL Search]; i dati vengono inviati utilizzando il parametro di tracciamento `s_kwcid`, indipendentemente dal formato del `s_kwcid` normalmente utilizzato per l’account. Se normalmente utilizzi la versione precedente di `s_kwcid`, i dati di costo/clic e i dati sui profitti vengono tracciati utilizzando `s_kwcids` diversi, ma entrambi i set di dati sono completamente classificati e aggregati nella stessa campagna e nello stesso account. |
 |  | ([!DNL Google Ads] account; versione dell’11 febbraio) Supporto per il &quot;[!UICONTROL Condivisione impression target]&quot;la strategia di offerta è ora disponibile solo per le campagne sulla rete di ricerca. Per questa strategia di offerta, [!DNL Google Ads] (non [!DNL Search]) ottimizza le offerte per raggiungere una quota di impression target e una posizione pubblicitaria. Facoltativamente, è possibile inserire una [!UICONTROL Condivisione impression target] in percentuale, il valore [!UICONTROL Posizione annuncio di destinazione], e un [!UICONTROL CPC massimo] (costo per clic). Questa opzione non è ancora supportata nei portfolio ibridi. |
 | [!UICONTROL Bulksheet] | ([!DNL Microsoft] campagne; versione dell’11 febbraio) I bulksheet ora includono &quot;[!UICONTROL Invito all&#39;azione]&quot; e &quot;[!UICONTROL Lingua dell’invito all’azione]&quot; colonne per annunci multimediali (in formato di annuncio responsive), che utilizzano il &quot;[!UICONTROL Creativo (tranne RSA)]&quot;. |
+| Account Google Manager | (Versione del 23 febbraio) Una nuova [!UICONTROL Amministratore] > [!UICONTROL Account manager] consente di fornire l’autenticazione per [!DNL Google Ads] account manager a cui [!DNL Search] carica le conversioni tra account diversi. Utilizza questa funzione per caricare a) [!DNL Adobe]-metriche di conversione tra account diversi in una [!DNL Google Ads] account manager o b) carica gli obiettivi del portfolio che includono le conversioni tra account diversi in [!DNL Google Ads] per l’ottimizzazione ibrida.<br><br>Una volta aggiunte le credenziali per un account manager, l’opzione opzionale &quot;[!UICONTROL Account manager per conversioni tra account]&quot; nella colonna [!UICONTROL Campagne] > [!UICONTROL Account] visualizza indica l’ID dell’account manager per ogni account figlio e la colonna mostra un errore quando l’account manager non è autenticato. |
 
 {style=&quot;table-layout:auto&quot;}
 
