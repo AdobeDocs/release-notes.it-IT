@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
+source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
 workflow-type: tm+mt
-source-wordcount: '4500'
-ht-degree: 94%
+source-wordcount: '4534'
+ht-degree: 93%
 
 ---
 
@@ -31,7 +31,7 @@ Il tuo percorso per il successo inizia con [Experience League](https://experienc
 
 ## Aggiornamenti ed eventi sulla versione del prodotto
 
-Ultimo aggiornamento: **20 marzo 2023**
+Ultimo aggiornamento: **27 marzo 2023**
 
 * [Eventi di [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -613,11 +613,12 @@ Last updated: **March 2, 2023**
 
 ### Nuove funzioni di [!DNL Advertising Search] {#advertising-search}
 
-Ultimo aggiornamento: **2 marzo 2023**
+Ultimo aggiornamento: **27 marzo 2023**
 
 | Funzione | Descrizione |
 | ------- | ----------- |
 | [!UICONTROL Campagne] | ([!DNL Microsoft Advertising] campagne pubblicitarie; funzione beta aperta; Rilascio del 18 marzo) Le campagne pubblicitarie possono ora utilizzare la strategia di offerta CPC (eCPC) avanzata. Puoi impostare le offerte all’interno delle impostazioni del gruppo di annunci figlio.<br><br>Le campagne di pubblico con eCPC possono essere incluse nei portfolio per l’ottimizzazione. |
+| [!UICONTROL Campagne], [!UICONTROL Portfoli] | ([!DNL Google Ads] conti; funzione open beta) È ora disponibile il supporto per l’ottimizzazione [!DNL Google Ads] le campagne con prestazioni massime e puoi aggiungerle a portfolio ibridi. Gli obiettivi della strategia di offerta e i budget delle campagne sono fissati a livello di campagna. |
 | [!UICONTROL Campagne], [!UICONTROL Rapporti] | ([!DNL Google Ads] e [!DNL Microsoft Advertising] conti; Rilascio del 18 marzo) Le seguenti nuove metriche di prominenza sono disponibili nelle viste e nei rapporti di gestione delle campagne:<ul><li><p>[!UICONTROL Contenuto]: Il numero di impression ricevute per gli annunci sulla rete display/audience diviso per il numero stimato di visualizzazioni di annunci pubblicitari che hai ricevuto.</p><p>Questo e l&#39;altro &quot;[!UICONTROL Contenuto]Le metriche *&quot; sono disponibili in tutte le visualizzazioni di gestione delle campagne per le entità pertinenti agli annunci di contenuto e nei relativi rapporti di base:  [!UICONTROL Motore di ricerca], [!UICONTROL Account del motore di ricerca], [!UICONTROL Campaign], [!UICONTROL Gruppo di annunci]e [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Contenuto perso IS (budget)]: La percentuale stimata di impression non ricevuta dagli annunci sulla rete display/audience perché il budget giornaliero o mensile era troppo basso.<p></li><li><p>[!UICONTROL Contenuto perso IS (classificazione)]: La percentuale stimata di impression che gli annunci sulla rete display/audience non sono stati mostrati a causa di un punteggio pubblicitario scarso.</p></li><li><p>[!UICONTROL Cerca la corrispondenza esatta IS]: Il numero di impression ricevute per le ricerche che corrispondono esattamente alla parola chiave divisa per il numero stimato di impressioni di corrispondenza esatte che sono state idonee a ricevere.</p><p>Questa metrica è disponibile in tutte le visualizzazioni di gestione delle campagne per le entità pertinenti agli annunci di ricerca e nei relativi rapporti di base:  [!UICONTROL Motore di ricerca], [!UICONTROL Account del motore di ricerca], [!UICONTROL Campaign], [!UICONTROL Gruppo di annunci], [!UICONTROL Parola chiave], [!UICONTROL Gruppo di prodotti]e [!UICONTROL Portfolio]. Sono anche nel [!UICONTROL Vincolo], [!UICONTROL Classificazione delle etichette]e [!UICONTROL Valore etichetta] rapporti.</p></li></ul> |
 
 {style="table-layout:auto"}
