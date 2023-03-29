@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
+source-git-commit: a33a3738aa82ce68eef6b40a9a34b7697eb7cb7b
 workflow-type: tm+mt
-source-wordcount: '4534'
-ht-degree: 93%
+source-wordcount: '4471'
+ht-degree: 91%
 
 ---
 
@@ -31,7 +31,7 @@ Il tuo percorso per il successo inizia con [Experience League](https://experienc
 
 ## Aggiornamenti ed eventi sulla versione del prodotto
 
-Ultimo aggiornamento: **27 marzo 2023**
+Ultimo aggiornamento: **29 marzo 2023**
 
 * [Eventi di [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -59,17 +59,13 @@ Scopri le novità di Experience League. Gli eventi offrono l’occasione di impa
 
 +++Prossimi eventi
 
-* **[!DNL Analytics]** | _Accelera il time-to-insight con Adobe Analytics_ | **9 marzo alle 8:00 PT** |  [Registrati](https://adobeanalyticsvirtualanalyst2023.experienceleague.adobeevents.com/)
+* **[!DNL Marketo]** | _Adobe Marketo Engage può essere grande, scopri come un piccolo team massimizza la propria istanza_ | **30 marzo alle 8:00 PT** |  [Registro](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
 
-* **[!DNL Marketo Engage]** | _Marketo e Mochas: recapito messaggi (parte 1)_ | **9 marzo alle 13:00 ET** | [Registrati](https://register.gotowebinar.com/register/6250682251177513567)
+* **[!DNL Workfront]** | _Connetti: Admin Chat per marketing e creatività_ | **31 marzo alle 10:00 MT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Connect: chat per amministratori strategici_ | **13 marzo alle 7:00 MT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,lgDkllfW8EatH2CVDH9nVQ,JWCg6TzBMUS5dX7i0qHSsA,CjE7t_FXgEaepx27DZn_7g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Marketo Engage]** | _Marketo e Moche: Recapito (parte 2)_ | **5 aprile alle 13:00 ET** | [Registro](https://register.gotowebinar.com/register/6818591002040103259)
 
-* **[!DNL Workfront]** | _Nozioni di base sull’amministratore di sistema: migliorare l’esperienza utente con la progettazione dell’interfaccia_ | **15 marzo alle 8:00 PT** | [Registrati](https://event.on24.com/wcc/r/4123271/D486841B3D743479F12BAC0C583C10ED?partnerref=exl)
-
-* **[!DNL Marketo Engage]** | _Coffee Break domande e risposte della community Marketo_ | **15 marzo alle 08:00 PT** | [Registrati](https://mecommunityqacoffeebreak0315.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_ME&amp;utm_content=230315)
-
-* **[!DNL Adobe Summit]** |_L’esperienza finale è tornata. Unisciti a noi a Las Vegas per creare competenze, imparare dai marchi più importanti del mondo e ispirarti_ | **19 marzo alle 09:00 PT** | [Registrati](https://summit.adobe.com/na/?promoid=2K4PC9V3&amp;mv=other)
+* **[!DNL Adobe Summit]** |_Rivedi il Summit tutto l&#39;anno!_ | **Su richiesta** | [Dettagli](https://business.adobe.com/summit/adobe-summit.html)
 
 Consulta [Eventi Experience League](https://experienceleague.adobe.com/events/?lang=it) per una pianificazione completa dei prossimi eventi e degli eventi passati on-demand.
 
