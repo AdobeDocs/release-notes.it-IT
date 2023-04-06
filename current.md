@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a33a3738aa82ce68eef6b40a9a34b7697eb7cb7b
+source-git-commit: 7feb48c8588b9463ba0a01479cd3c1d64668bbe0
 workflow-type: tm+mt
-source-wordcount: '4471'
-ht-degree: 91%
+source-wordcount: '4580'
+ht-degree: 89%
 
 ---
 
@@ -31,9 +31,10 @@ Il tuo percorso per il successo inizia con [Experience League](https://experienc
 
 ## Aggiornamenti ed eventi sulla versione del prodotto
 
-Ultimo aggiornamento: **29 marzo 2023**
+Ultimo aggiornamento: **6 aprile 2023**
 
-* [Eventi di [!DNL Experience League]](#events)
+* [[!DNL Experience League] events](#events) (**Aggiornato il 6 aprile 2023**)
+* [Certificazione](#certification) (**Novità! 6 aprile 2023**)
 * [[!DNL Adobe System Status]](#status)
 * [Interfaccia e amministrazione di [!DNL Experience Cloud]](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -59,15 +60,31 @@ Scopri le novità di Experience League. Gli eventi offrono l’occasione di impa
 
 +++Prossimi eventi
 
-* **[!DNL Marketo]** | _Adobe Marketo Engage può essere grande, scopri come un piccolo team massimizza la propria istanza_ | **30 marzo alle 8:00 PT** |  [Registro](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
+* **[!DNL Workfront]** | _Connetti: Chat per amministratori strategici_ | **Aprile 10 @ 8:00 AM CT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Connetti: Admin Chat per marketing e creatività_ | **31 marzo alle 10:00 MT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Target]** | _Adobe Target Community Q&amp;A Pausa caffè con Matthew Baillie e Georgia Frail_ | **Aprile 12 @ 8:00 PT** |  [Registro](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Marketo Engage]** | _Marketo e Moche: Recapito (parte 2)_ | **5 aprile alle 13:00 ET** | [Registro](https://register.gotowebinar.com/register/6818591002040103259)
+* **[!DNL Workfront]** | _Scopri: Arrotondamento della versione di Adobe Workfront 23.2_ | **12 aprile alle 12:30 PM CT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Adobe Summit]** |_Rivedi il Summit tutto l&#39;anno!_ | **Su richiesta** | [Dettagli](https://business.adobe.com/summit/adobe-summit.html)
 
 Consulta [Eventi Experience League](https://experienceleague.adobe.com/events/?lang=it) per una pianificazione completa dei prossimi eventi e degli eventi passati on-demand.
+
++++
+
+## ![Icona](/assets/certification-badge.png) Certificazione{#certification}
+
+Attenzione a tutti i candidati alla certificazione Adobe! Adobe è entusiasta di annunciare il lancio del nuovo Experience Cloud [Certificazione](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) Experience League.
+
++++Dettagli
+
+Il sito Certificazione è il tuo punto vendita unico per tutti [!DNL Experience Cloud] contenuto relativo alla certificazione, tra cui:
+
+* Certificazioni disponibili
+* Rinnovi della certificazione per soluzioni di Adobe
+* Aggiornamenti dei programmi di certificazione
+
+E altro ancora! Vai a [Certificazione Adobe](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) all&#39;Experience League e iniziare il percorso di certificazione oggi stesso!
 
 +++
 
