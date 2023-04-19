@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
+source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
 workflow-type: tm+mt
-source-wordcount: '5717'
+source-wordcount: '5765'
 ht-degree: 62%
 
 ---
@@ -31,7 +31,7 @@ Il tuo percorso per il successo inizia con [Experience League](https://experienc
 
 ## Aggiornamenti ed eventi sulla versione del prodotto
 
-Ultimo aggiornamento: **12 aprile 2023**
+Ultimo aggiornamento: **18 aprile 2023**
 
 * [Eventi di [!DNL Experience League]](#events)
 * [Certificazione ad Adobe](#certification) (**Novità!**)
@@ -58,13 +58,23 @@ Ultimo aggiornamento: **12 aprile 2023**
 
 Scopri le novità di Experience League. Gli eventi offrono l’occasione di imparare, interagire e ricevere risposte dagli esperti del prodotto di Adobe. 
 
+Aggiornato: **19 aprile 2023**
+
 +++Prossimi eventi
 
-* **[!DNL Workfront]** | _Connetti: Chat per amministratori strategici_ | **Aprile 10 @ 8:00 AM CT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Chiedi agli esperti: Miglioramento della pulizia dei flussi di lavoro tramite il follow-up dei webinar sull&#39;automazione_ | **27 aprile alle 10:30 MT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _Adobe Target Community Q&amp;A Pausa caffè con Matthew Baillie e Georgia Frail_ | **Aprile 12 @ 8:00 PT** |  [Registro](https://adobe.ly/3ZV8gUG)
+* **[!DNL Experience Manager Sites]** | _Workshop su AEM Sites Supercharger_ | **25 aprile alle 8:00 PT** |  [Registro](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Workfront]** | _Scopri: Arrotondamento della versione di Adobe Workfront 23.2_ | **12 aprile alle 12:30 PM CT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | _Ottieni la raccolta dati e l&#39;inoltro degli eventi in esecuzione con pochi clic!_ | **25 aprile alle 9.00 PT** | [Registro](https://engage.adobe.com/ExpLeagueLive-230425.html)
+
+* **[!DNL Marketo Engage]** | _Marketo Champion Deep Dive: Inferenza e-mail_ | **25 aprile alle 10:00 PT** | [Registro](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+
+* **[!DNL Experience Manager as a Cloud Service]** | _Orario AEM Champion Office - AEM as a Cloud Service_ | **27 aprile alle 7:30 PT** | [Registro](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
+
+* **[!DNL Analytics]** | _Creazione di un team di esperti Adobe Analytics_ | **27 aprile alle 8:00 PT** | [Registro](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
+
+* **[!DNL Target]** | _Adobe Target - Offri sempre esperienze cliente personalizzate!_ | **27 Aprile @ 9:00 BST** | [Registro](https://adobetargetemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL Adobe Summit]** |_Rivedi il Summit tutto l&#39;anno!_ | **Su richiesta** | [Dettagli](https://business.adobe.com/summit/adobe-summit.html)
 
@@ -680,7 +690,7 @@ Ultimo aggiornamento: **14 aprile 2023**
 
 | Funzione | Descrizione |
 | ------- | ----------- |
-| [!UICONTROL Campagne] | ([!DNL Microsoft® Advertising] campagne pubblicitarie; Rilascio del 15 aprile) Le campagne pubblicitarie possono ora utilizzare la strategia di offerta &quot;CPM manuale&quot;. Puoi impostare le offerte all’interno delle impostazioni del gruppo di annunci figlio.<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL Campagne] | ([!DNL Microsoft® Advertising] campagne pubblicitarie; Rilascio del 15 aprile) Le campagne pubblicitarie possono ora utilizzare la strategia di offerta &quot;CPM manuale&quot;. Puoi impostare le offerte all’interno delle impostazioni del gruppo di annunci figlio.<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
 | [!UICONTROL Recommendations] | Sei nuovi ([!DNL Google Ads] i consigli sono disponibili da [!UICONTROL Approfondimenti e rapporti] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Ricerca reattiva migliora la forza dell&#39;annuncio]: Suggerimenti per migliorare la forza dell’annuncio per un annuncio di ricerca reattivo</li><li>[!UICONTROL Aggiornare la campagna locale al massimo delle prestazioni]: Aggiornare una campagna locale legacy a una campagna massima delle prestazioni</li><li>[!UICONTROL Aggiornare la campagna di acquisto intelligente al massimo delle prestazioni]: Aggiornare una campagna di acquisto avanzata legacy a una campagna di acquisto max a prestazioni</li><li>[!UICONTROL Serie di previsioni ROAS di Target]: Aumenta il budget prima di un evento stagionale previsto per aumentare il traffico e cambia la strategia di offerta da [!DNL Maximize Conversion Value] a [!DNL Target ROAS]</li><li>[!UICONTROL Aumento dell&#39;offerta CPA di Target troppo bassa]: Alza il [!DNL Target CPA] di una quantità consigliata quando è troppo bassa e ci sono poche conversioni o nessuna conversione</li><li>[!UICONTROL Accesso di espansione del display]: Espandi la portata aggiornando una campagna per utilizzare l’espansione della visualizzazione</li></ul>Poiché l’aggiunta e la rimozione di risorse, la modifica dei tipi di campagna e la modifica dei budget e delle strategie di offerta possono influire sulle prestazioni, si consiglia di discutere i pro e i contro di ogni raccomandazione con il team dell’account Adobe in modo da poter prendere una decisione informata. |
 
 {style="table-layout:auto"}
