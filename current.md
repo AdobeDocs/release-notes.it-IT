@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 136fee396ccc19e6c0e64914a8ab527f889b68fe
+source-git-commit: 5d83d82ee19300866c7b75bddd173ffe58f3300b
 workflow-type: tm+mt
-source-wordcount: '5500'
-ht-degree: 47%
+source-wordcount: '5744'
+ht-degree: 49%
 
 ---
 
@@ -267,18 +267,18 @@ Guarda il [video di panoramica sulla versione di febbraio 2023](https://video.tv
 
 _Nuove funzioni_
 
-* Esporta frammenti di contenuto da AEM as a cloud service a Adobe target come offerte JSON.
-* Il supporto per l’impaginazione e l’ordinamento di GraphQL, insieme ai miglioramenti apportati al caching interno, ora consente di migliorare le prestazioni delle applicazioni client disaccoppiate quando si recuperano set di contenuti di grandi dimensioni dalle AEM utilizzando query e filtri GraphQL complessi.
+* Esporta frammenti di contenuto da AEM as a Cloud Service in Adobe Target come offerte JSON.
+* Il supporto per la paginazione e l’ordinamento di GraphQL, insieme ai miglioramenti apportati alla memorizzazione nella cache interna, ora consente di migliorare le prestazioni delle applicazioni client separate quando si recuperano set di contenuti di grandi dimensioni da AEM utilizzando query e filtri GraphQL complessi.
 
 ### [!DNL Experience Manager Assets] as a [!DNL Cloud Service]
 
 _Nuove funzioni_
 
-* Nuovo supporto per protocollo (DASH - Dynamic Adaptive Streaming su HTTP) avviato per lo streaming adattivo nella distribuzione video Dynamic Media (con CMAF abilitato):
-   * Lo streaming adattivo (DASH/HLS) garantisce una migliore esperienza di visualizzazione da parte dell’utente finale per i video.
+* Lancio del supporto per il nuovo protocollo (DASH - Dynamic Adaptive Streaming over HTTP) per lo streaming adattivo nella distribuzione video Dynamic Media (con CMAF abilitato):
+   * Lo streaming adattivo (DASH/HLS) garantisce agli utenti finali una migliore esperienza di visualizzazione dei video.
    * DASH è il protocollo standard internazionale per lo streaming video adattivo ed è ampiamente adottato nel settore.
    * Disponibile in Asia-Pacifico e Nord America; [abilitato tramite ticket di supporto](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html?lang=en#enable-dash). Prossimamente in Europa-Medio Oriente-Africa.
-* È stato aggiunto il supporto per le immagini WebP per estrarre automaticamente i metadati, generare miniature e rappresentazioni personalizzate. Per questi file sono ora supportate anche le funzionalità di Smart Tag e Smart Crop .
+* È stato aggiunto il supporto per le immagini WebP per estrarre automaticamente i metadati, generare miniature e rappresentazioni personalizzate. Per questi file sono ora supportate anche le funzionalità di Tag avanzati e Ritaglio avanzato.
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
 
@@ -292,9 +292,9 @@ _Nuove funzioni_
 * **[Integrare con gli endpoint REST utilizzando Open API 3.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=it#configure-restful-services-open-api-specification-version-20-configure-restful-services-swagger-version30)** - Integrazione perfetta nei sistemi di record che supportano Open API 3.0 per memorizzare e recuperare i dati utilizzando modelli di dati dei moduli.
 * **[Condivisione di un modulo adattivo per la revisione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-reviews-forms.html?lang=it)** - Utilizzare il meccanismo di revisione di Forms adattivo per consentire a uno o più revisori di rivedere il modulo.
 
-### Programma di adozione precoce Forms headless
+### Programma dei moduli adattivi headless per i primi utilizzatori
 
-Utilizza l’interfaccia adattiva headless per consentire agli sviluppatori di creare, pubblicare e gestire moduli interattivi a cui è possibile accedere e interagire tramite API, anziché tramite un’interfaccia utente grafica tradizionale. I moduli adattivi headless consentono di:
+Utilizza i moduli adattivi headless per consentire agli sviluppatori di creare, pubblicare e gestire moduli interattivi a cui è possibile accedere e con cui si può interagire tramite API, anziché tramite un’interfaccia utente grafica tradizionale. I moduli adattivi headless consentono di:
 
 * Crea moduli multicanale di alta qualità nel linguaggio di programmazione desiderato.
 * Integrare in modo nativo i moduli nelle app desktop e mobili, nei siti web e nelle applicazioni di chat
@@ -472,24 +472,18 @@ Vai qui per le funzionalità, i miglioramenti e le correzioni più recenti in [!
 
 Scopri le funzionalità, i miglioramenti e le correzioni più recenti nelle note sulla versione di [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=it), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=it) e [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=it).
 
-<!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
+### Nuovi corsi e tutorial su [!DNL Campaign] {#tutorials-campaign}
 
-New videos, tutorials, or courses published for Adobe Campaign.
+Nuovi video, tutorial o corsi pubblicati su Adobe Campaign.
 
-|Published|Name|Type|Description |Applications|
+| Data di pubblicazione | Nome | Tipo | Descrizione | Applicazione |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|April 2023|[Query data](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/data-management/query-data.html?lang=en)|Video |Learn how to query data using the query editor.|Campaign v8|
-|April 2023|[Add attachments to an email delivery](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/add-attachments-to-an-email-delivery.html?lang=en)|Video |Learn how to add attachments to an email delivery and how to configure different types of email attachments.|Campaign v8|
-|April 2023|[Configure deliveries for A/B testing](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configure-deliveries-for-ab-testing.html)|Video |Learn how to configure a delivery for A/B testing.|Campaign v8|
-|April 2023|[Configure Landing pages](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/configure-landingpages.html)|Video |Learn how to create and configure landing pages.|Campaign v8|
-|April 2023|[Configure scheduler activities](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/configure-scheduler-activities.html)|Video |Learn how to configure a scheduler activity in a workflow.|Campaign v8|
-|April 2023|[Create a preference center](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/create-a-preference-center.html)|Video |Learn how to create a preference center using Adobe Campaign's web application editor.|Campaign v8|
-|April 2023|[Manage time zones](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/manage-time-zones.html)|Video |Learn how to apply time zones to scheduled workflow activities.|Campaign v8|
-|April 2023|[Understand quarantine Management](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/monitoring-messages/quarantine-management.html)|Video |Understand how quarantine management works in Adobe Campaign and learn how to manage quarantined addresses.|Campaign v8|
-|April 2023|[Schedule messages](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/schedule-messages.html)|Video |Learn how to schedule an email delivery.|Campaign v8|
-|April 2023|[Send a proof for an email delivery](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/sending-test-preparing-sending-email.html)|Video |Learn how to test an email message before sending it to the final recipients.|Campaign v8|
+| Maggio 2023 | [Creazione di un sondaggio](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Video | Scopri come creare un sondaggio in Adobe Campaign Classic. | Campaign v8 |
+| Maggio 2023 | [Creazione di un sondaggio](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Video | Scopri come creare un sondaggio in Adobe Campaign Classic. | Campaign Classic |
+| Maggio 2023 | [Progettazione di contenuti di consegna e-mail](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Scopri come configurare, personalizzare e testare il contenuto della consegna e-mail. Scopri come utilizzare i modelli, caricare le immagini, aggiungere emoticon, incorporare codici a barre e codici QR. | Campaign Classic |
+| Maggio 2023 | [Monitorare una consegna](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Video | Comprendere i registri dei messaggi, i registri dei processi e i registri di consegna. | Campaign Standard |
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 ### [!DNL Campaign] knowledge base di supporto
 
@@ -522,18 +516,17 @@ Scopri gli ultimi aggiornamenti sulle versioni di [!DNL Journey Optimizer]. Visu
 
 Scopri di più sulle funzionalità, i miglioramenti e le correzioni più recenti nelle [Note sulla versione di Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=it).
 
-<!-- ### New [!DNL Journey Optimizer] tutorials and courses {#tutorials-ajo}
+### Nuovi corsi e tutorial su [!DNL Journey Optimizer] {#tutorials-ajo}
 
-New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
+Nuovi video, tutorial o corsi pubblicati su Adobe [!DNL Journey Optimizer].
 
-|Published|Name|Type|Description |
+| Data di pubblicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
-|April 2023|[Import and author HTML email content with the message editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)|Updated video |Learn how to import existing HTML content, tweak the design, add mirror page and unsubscribe links, and how to code your content.|
-|April 2023|[Decision Management - Frequency capping](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/frequency-capping.html)|Video |Understand how frequency capping for Offer Decisioning works. Learn how to configure frequency capping for a custom event and how to configure increments by defining the frequency.|
-|April 2023|[Create an in-app campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-campaign.html)|Video |Understand what an in-app message is. Learn how to create, configure, and publish in-app messages in Campaigns.|
-|April 2023|[Author an in-app message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html)|Video |Learn how to author and test an in-app message.|
+| Maggio 2023 | [Creare una campagna web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | Video | Scopri come creare un’esperienza web utilizzando l’editor visivo per web nelle campagne Journey Optimizer. |
+| Maggio 2023 | [Creare una campagna web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | Video | Comprendere cos&#39;è una campagna web. Scopri come configurare le proprietà della campagna web, rivederla e pubblicarla. |
+| Maggio 2023 | [Esportare i set di dati in percorsi di archiviazione cloud](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | Video | Scopri come esportare un set di dati da Journey Optimizer a una destinazione Amazon S3. |
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 <!--### [!DNL Journey Optimizer] support knowledge base
 
