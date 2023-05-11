@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4aa55aa5b4cc86978db180250642588a45b87962
+source-git-commit: 264ad6eeeb05af620941cd57ceaf18c82faf019e
 workflow-type: tm+mt
-source-wordcount: '5725'
-ht-degree: 49%
+source-wordcount: '5723'
+ht-degree: 50%
 
 ---
 
@@ -368,7 +368,7 @@ Nuovi video, esercitazioni e corsi pubblicati nell’ultimo mese.
 | Maggio 2023 | [Personalizzare l&#39;editor di testo nelle comunicazioni interattive](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html) | Video | Personalizza l’editor di testo nelle comunicazioni interattive per aggiungere font e dimensioni personalizzati. | AEM Forms |
 | Maggio 2023 | [Reagire app con AEM Forms e Acrobat Sign](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html) | Video | Crea un documento di comunicazione interattivo con i dati inviati da un’app di reazione nativa e presentalo all’utente finale per la firma utilizzando il widget Acrobat Sign | AEM Forms |
 | Maggio 2023 | [Integrare Forms CS con Sharepoint](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html) | Video | Scopri come configurare e integrare AEM Forms CS con Microsoft® Sharepoint | AEM Forms CS |
-| Maggio 2023 | [Archiviare l’invio del modulo in un’unità](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | Video | Configura un modulo adattivo per memorizzare i dati del modulo in un’unica unità. | AEM Forms CS |
+| Maggio 2023 | [Archiviare l’invio del modulo in OneDrive](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | Video | Configura un modulo adattivo per memorizzare i dati del modulo in OneDrive. | AEM Forms CS |
 | Maggio 2023 | [Come utilizzare immagini ottimizzate da AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=it) | Video | Scopri come utilizzare immagini ottimizzate in AEM Headless. | AEM CS |
 | Maggio 2023 | [Come lavorare con grandi risultati in AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=en) | Video | Scopri come lavorare con grandi set di risultati con AEM Headless. | AEM CS |
 
@@ -478,9 +478,9 @@ Nuovi video, tutorial o corsi pubblicati per [!DNL Adobe Campaign].
 
 | Data di pubblicazione | Nome | Tipo | Descrizione | Applicazione |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Maggio 2023 | [Creazione di un sondaggio](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Video | Scopri come creare un sondaggio in [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
-| Maggio 2023 | [Creazione di un sondaggio](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Video | Scopri come creare un sondaggio in [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
-| Maggio 2023 | [Progettazione di contenuti di consegna e-mail](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Scopri come configurare, personalizzare e testare il contenuto della consegna e-mail. Scopri come utilizzare i modelli, caricare le immagini, aggiungere emoticon, incorporare codici a barre e codici QR. | [!DNL Campaign Classic] |
+| Maggio 2023 | [Creare un sondaggio](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Video | Scopri come creare un sondaggio in [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
+| Maggio 2023 | [Creare un sondaggio](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Video | Scopri come creare un sondaggio in [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
+| Maggio 2023 | [Progettare i contenuti delle consegne e-mail](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Scopri come configurare, personalizzare e testare il contenuto di una consegna e-mail. Scopri come utilizzare i modelli, caricare le immagini, aggiungere emoticon e incorporare codici a barre e codici QR. | [!DNL Campaign Classic] |
 | Maggio 2023 | [Monitorare una consegna](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Video | Comprendere i registri dei messaggi, i registri dei processi e i registri di consegna. | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
@@ -522,9 +522,9 @@ Nuovi video, tutorial o corsi pubblicati su Adobe [!DNL Journey Optimizer].
 
 | Data di pubblicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
-| Maggio 2023 | [Creare una campagna web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | Video | Scopri come creare un’esperienza web utilizzando l’editor visivo per web in [!DNL Journey Optimizer] campagne. |
-| Maggio 2023 | [Creare una campagna web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | Video | Comprendere cos&#39;è una campagna web. Scopri come configurare le proprietà della campagna web, rivederla e pubblicarla. |
-| Maggio 2023 | [Esportare i set di dati in percorsi di archiviazione cloud](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | Video | Scopri come esportare un set di dati da [!DNL Journey Optimizer] a [!DNL Amazon] Destinazione S3. |
+| Maggio 2023 | [Authoring di una campagna web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | Video | Scopri come creare un’esperienza web utilizzando l’editor visivo per web in [!DNL Journey Optimizer] campagne. |
+| Maggio 2023 | [Creare una campagna web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | Video | Scopri cos&#39;è una campagna web. Scopri come configurare le proprietà della campagna web, rivederla e pubblicarla. |
+| Maggio 2023 | [Esporta i set di dati nelle posizioni di archiviazione cloud](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | Video | Scopri come esportare un set di dati da [!DNL Journey Optimizer] a [!DNL Amazon] Destinazione S3. |
 
 {style="table-layout:auto"}
 
@@ -680,7 +680,7 @@ Ultimo aggiornamento: **14 aprile 2023**
 
 | Funzione | Descrizione |
 | ------- | ----------- |
-| [!UICONTROL Campagne] | ([!DNL Microsoft® Advertising] campagne pubblicitarie; Rilascio del 15 aprile) Le campagne pubblicitarie possono ora utilizzare la strategia di offerta &quot;CPM manuale&quot;. Puoi impostare le offerte all’interno delle impostazioni del gruppo di annunci secondario.<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
+| [!UICONTROL Campagne] | ([!DNL Microsoft® Advertising] campagne pubblicitarie; Rilascio del 15 aprile) Le campagne pubblicitarie possono ora utilizzare la strategia di offerta &quot;CPM manuale&quot;. Puoi impostare le offerte all’interno delle impostazioni del gruppo di annunci secondario.<br><br>Il supporto per l’ottimizzazione non è disponibile per le campagne CPM. |
 | [!UICONTROL Recommendations] | Sei nuovi ([!DNL Google Ads] i consigli sono disponibili da [!UICONTROL Approfondimenti e rapporti] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Ricerca reattiva migliora la forza dell&#39;annuncio]: Suggerimenti per migliorare la forza dell’annuncio per un annuncio di ricerca reattivo</li><li>[!UICONTROL Aggiornare la campagna locale al massimo delle prestazioni]: Aggiornare una campagna locale legacy a una campagna massima delle prestazioni</li><li>[!UICONTROL Aggiornare la campagna di acquisto intelligente al massimo delle prestazioni]: Aggiornare una campagna di acquisto avanzata legacy a una campagna di acquisto max a prestazioni</li><li>[!UICONTROL Serie di previsioni ROAS di Target]: Aumenta il budget prima di un evento stagionale previsto per aumentare il traffico e cambia la strategia di offerta da [!DNL Maximize Conversion Value] a [!DNL Target ROAS]</li><li>[!UICONTROL Aumento dell&#39;offerta CPA di Target troppo bassa]: Alza il [!DNL Target CPA] di una quantità consigliata quando è troppo bassa e ci sono poche conversioni o nessuna conversione</li><li>[!UICONTROL Accesso di espansione del display]: Espandi la portata aggiornando una campagna per utilizzare l’espansione della visualizzazione</li></ul>Poiché l’aggiunta e la rimozione di risorse, la modifica dei tipi di campagna e la modifica dei budget e delle strategie di offerta possono influire sulle prestazioni, si consiglia di discutere i pro e i contro di ogni raccomandazione con il team dell’account Adobe in modo da poter prendere una decisione informata. |
 
 {style="table-layout:auto"}
