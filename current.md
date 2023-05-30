@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0e1fab47a83180404fa92c44bf420e5b3e81818d
-workflow-type: ht
-source-wordcount: '5725'
-ht-degree: 100%
+source-git-commit: a7e6c7877348d715c09f6bf14efdd26e487d3481
+workflow-type: tm+mt
+source-wordcount: '5609'
+ht-degree: 98%
 
 ---
 
@@ -31,7 +31,7 @@ Il tuo percorso per il successo inizia con [Experience League](https://experienc
 
 ## Aggiornamenti ed eventi sulla versione del prodotto
 
-Ultimo aggiornamento: **22 maggio 2023**
+Ultimo aggiornamento: **30 maggio 2023**
 
 * [[!DNL Experience League] eventi e aggiornamenti](#events) (Aggiornato in data **22 maggio**)
 * [Certificazione in Adobe](#certification)
@@ -52,7 +52,7 @@ Ultimo aggiornamento: **22 maggio 2023**
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
-* [[!DNL Advertising]](#advertising)
+* [[!DNL Advertising]](#advertising) (Aggiornato in data **30 maggio**)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
@@ -60,7 +60,7 @@ Ultimo aggiornamento: **22 maggio 2023**
 
 Scopri le novità di Experience League. Gli eventi offrono l’occasione di imparare, interagire e ricevere risposte dagli esperti del prodotto di Adobe.
 
-Aggiornato il **22 maggio 2023**
+Aggiornato il **30 maggio 2023**
 
 **Miglioramento della ricerca di contenuti in Experience League:** puoi personalizzare come filtrare i risultati della ricerca di contenuti per i prodotti che possiedi. Visualizza i risultati in base a:
 
@@ -75,17 +75,13 @@ Vai su [Experience League](https://experienceleague.adobe.com/?lang=it#home) e d
 
 +++Prossimi eventi
 
-* **[!DNL Experience Manager]** | _Developer&#39;s Live: esperienze componibili - Conferenza virtuale di un giorno con sessioni live e opportunità di networking nella community._ | **23 Maggio alle 8:00 MDT** | [Iscriviti](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
+* **[!DNL Experience Manager - Cloud Manager]** | _Ore di ufficio dei campioni DAEM - AEM Cloud Manager_ | **31 maggio alle 07:30 PT** | [Registrati](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-cloud-manager/)
 
-* **[!DNL Workfront]** | _Scopri: introduzione a Scrum con Adobe Workfront_ | **23 maggio alle 14:00 CT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Journey Optimizer]** | _Coffee Break domande e risposte della community Adobe Journey Optimizer con Ivan Mironchuk Peter Fransen, Jason Hickey e Sandra Hausmann_ | **31 maggio alle 8:00 PT** | [Registrati](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/adobe-journey-optimizer-community-q-amp-a-coffee-break-may-31st/td-p/593283)
 
-* **[!DNL Target]** | _Potenzia al massimo la tua organizzazione in modo che possa fornire una personalizzazione basata sui dati_ | **24 maggio alle 8:00 PT** | [Registrati](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+* **[!DNL Audience Manager]** | _Massimizzare il valore con Adobe Audience Manager: navigazione nelle innovazioni del settore e transizione a RTCDP_ | **1 giugno alle 10:00 PT** | [Registrati](https://adobeint-mid-prod13-m.adobe-campaign.com/nl/jsp/m.jsp?c=%40jfezFOPoEnsrkA40AZ0d3VjOp%2B7K65ZgXxAbnn8Jwu4%3D)
 
-* **[!DNL Workfront]** | _Le domande agli esperti: follow up del Webinar sulle basi dei modelli di progetto_ | **24 maggio alle 10:00 CT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Manager Assets]** | _Espressos ed Experience Manager: migrazione di AEM Assets_ | **25 maggio alle 13:00 PT** | [Registrati](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
-
-E altro ancora! Vai a [Eventi](https://experienceleague.adobe.com/events/?lang=it) in Experience League per visualizzare gli eventi passati e vedere quelli pianificati.
+[Altro...](https://experienceleague.adobe.com/events/?lang=it)
 
 +++
 
@@ -671,11 +667,11 @@ Last updated: **August 9, 2022**
 
 Scopri le funzioni più recenti di Adobe Advertising.
 
-Ultimo aggiornamento: **10 aprile 2023**
+Ultimo aggiornamento: **30 maggio 2023**
 
 | Funzione | Descrizione |
 | ------- | ----------- |
-| [!UICONTROL Rapporti] | (Versione di marzo) Un nuovo rapporto sulle [!UICONTROL Famiglie] mostra le impression, la copertura e la frequenza tra varie dimensioni a livello della famiglia in base all’indirizzo IP, anziché a livello di dispositivo/cookie. Il rapporto comprende nove dimensioni: [!UICONTROL Campagna], [!UICONTROL Pacchetto], [!UICONTROL Posizionamento], [!UICONTROL Sito/App], [!UICONTROL Tipo di contenuto multimediale], [!UICONTROL Dispositivo], [!UICONTROL Pubblico], [!UICONTROL Durata della creazione] e [!UICONTROL Tag] creati dall’utente. |
+| [!UICONTROL Campagne] | (Data di rilascio: 24 maggio) Ora puoi mettere in pausa o attivare campagne, pacchetti e annunci. È già possibile sospendere e attivare i posizionamenti. |
 
 {style="table-layout:auto"}
 
