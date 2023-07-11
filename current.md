@@ -5,11 +5,10 @@ doc-type: release notes
 last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0494b8a966761103756447351dc8171bb897bd34
+source-git-commit: 4dadca326d9e6a132beab1da488cb6675aa7ffc5
 workflow-type: tm+mt
-source-wordcount: '5811'
+source-wordcount: '5809'
 ht-degree: 40%
 
 ---
@@ -32,9 +31,9 @@ Accedi a [Experience League](https://experienceleague.adobe.com/?lang=it#home) e
 
 ## Aggiornamenti ed eventi sulla versione del prodotto
 
-Ultimo aggiornamento: **10 luglio 2023**
+Ultimo aggiornamento: **11 luglio 2023**
 
-* [[!DNL Experience League] eventi e aggiornamenti](#events) (aggiornato **Luglio 10**)
+* [Eventi e aggiornamenti di [!DNL Experience League]](#events)
 * [Certificazione in Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Interfaccia e amministrazione di [!DNL Experience Cloud]](#ecloud)
