@@ -7,10 +7,10 @@ author: mfrei
 mini-toc-levels: 2
 badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: bf84dd7489440a296b62838a2b93d8d47fb61962
+source-git-commit: ff12c5a38af50a6cf7b44b0e6914cba6f3254b86
 workflow-type: tm+mt
-source-wordcount: '4318'
-ht-degree: 53%
+source-wordcount: '4317'
+ht-degree: 52%
 
 ---
 
@@ -279,7 +279,7 @@ Adobe consiglia di visitare le seguenti risorse per informazioni sempre aggiorna
 
 ### Video di panoramica sulla versione più recente
 
-Guarda il [video di panoramica sulla versione di febbraio 2023](https://video.tv.adobe.com/v/3416885) per un riepilogo delle funzioni aggiunte nella versione 2023.02.0 (febbraio 2023).
+Osserva [Video introduttivo sulla versione di giugno 2023](https://video.tv.adobe.com/v/3420971/) per un riepilogo delle funzioni aggiunte nella versione 2023.06.0.
 
 <!-- ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service] 
 
