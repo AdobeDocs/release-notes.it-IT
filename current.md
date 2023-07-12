@@ -6,9 +6,9 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fad4343c9edcfbb296767a4cef17b5a363f096ab
+source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
 workflow-type: tm+mt
-source-wordcount: '5838'
+source-wordcount: '5836'
 ht-degree: 40%
 
 ---
@@ -31,7 +31,7 @@ Accedi a [Experience League](https://experienceleague.adobe.com/?lang=it#home) e
 
 ## Aggiornamenti ed eventi sulla versione del prodotto
 
-Ultimo aggiornamento: **11 luglio 2023**
+Ultimo aggiornamento: **12 luglio 2023**
 
 * [Eventi e aggiornamenti di [!DNL Experience League]](#events)
 * [Certificazione in Adobe](#certification)
@@ -424,19 +424,19 @@ Nelle pagine seguenti trovi tutte le note sulla versione di [!DNL Experience Man
 
 Nuovi video, tutorial o corsi pubblicati per Experience Manager.
 
-| Data di pubblicazione | Nome | Tipo | Descrizione | Applicazioni |
+| Data di pubblicazione | Applicazioni | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- | ------|
-| Luglio 2023 | [Accesso rapido](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | Video | Scopri come [!UICONTROL Accesso rapido] può aumentare la produttività e semplificare il flusso di lavoro, fungendo da obiettivo personale in [!DNL AEM Assets]. Grazie a questa funzione, potrai avere a portata di mano tutte le risorse necessarie per le attività assegnate. | [!DNL AEM Assets] |
-| Luglio 2023 | [Visualizzazione _grazie_ messaggio sull’invio di moduli headless](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | Articolo | Visualizza un _grazie_ messaggio relativo all’invio corretto del modulo headless. | [!DNL AEM Forms] |
-| Luglio 2023 | [Anteprima Bookmarklet - Esempio di codice](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | Articolo | Scopri come creare un bookmarklet JavaScript per visualizzare le anteprime[!UICONTROL  Frammento di contenuto di App Builder] Estensione nel contesto dell&#39;AEM [!UICONTROL Frammento di contenuto] pagine. | [!UICONTROL Frammenti di contenuto] |
-| Luglio 2023 | [Esporta frammento di contenuto in XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | Articolo | È possibile aggiungere pulsanti personalizzati alla [!UICONTROL Editor frammento di contenuto] menu di intestazione utilizzando `headerMenu` punto di estensione. In questo esempio viene illustrato come aggiungere un pulsante al menu di intestazione e come gestire l&#39;evento click per esportare il [!UICONTROL Frammento di contenuto] come XML o CSV. | [!UICONTROL Frammenti di contenuto] |
-| Luglio 2023 | [Visualizzazione del modulo al clic della scheda](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | Articolo | Espandere il modulo dalla vista a schede. | [!DNL AEM Forms] |
-| Luglio 2023 | [Aggiungere widget all’editor Rich Text](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | Video | Scopri come aggiungere widget all’Editor Rich Text (RTE) nell’AEM [!UICONTROL Editor frammento di contenuto]. | [!UICONTROL Frammenti di contenuto] |
-| Luglio 2023 | [Aggiungere badge all’editor Rich Text](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | Video | Scopri come aggiungere badge all’editor Rich Text (RTE) nell’AEM [!UICONTROL Editor frammento di contenuto]. | [!UICONTROL Frammenti di contenuto] |
-| Luglio 2023 | [Colonne griglia personalizzate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | Video | Scopri come aggiungere una colonna di griglia personalizzata al [!UICONTROL Console Frammenti di contenuto]. | [!UICONTROL Frammenti di contenuto] |
-| Luglio 2023 | [Risorse 3D](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | Video | Scopri il supporto per risorse 3D in [!DNL AEM Assets as a Cloud Service]. | [!DNL AEM Assets] |
-| Luglio 2023 | [Riferimenti](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | Video | Scopri come la console e l’editor dei frammenti di contenuto dell’AEM semplificano la comprensione e la gestione dei contenuti di riferimento. | [!DNL AEM Sites] |
-| Luglio 2023 | [Personalizzare la risposta in base ai dati inviati](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | Video | Crea un servizio di invio personalizzato per gestire l’invio di moduli adattivi headless. | [!DNL AEM Forms] |
+| Luglio 2023 | [!DNL AEM Assets] | [Accesso rapido](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | Video | Scopri come [!UICONTROL Accesso rapido] può aumentare la produttività e semplificare il flusso di lavoro, fungendo da obiettivo personale in [!DNL AEM Assets]. Grazie a questa funzione, potrai avere a portata di mano tutte le risorse necessarie per le attività assegnate. |
+| Luglio 2023 | [!DNL AEM Assets] | [Risorse 3D](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | Video | Scopri il supporto per risorse 3D in [!DNL AEM Assets as a Cloud Service]. |
+| Luglio 2023 | [!DNL AEM Forms] | [Visualizzazione _grazie_ messaggio sull’invio di moduli headless](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | Articolo | Visualizza un _grazie_ messaggio relativo all’invio corretto del modulo headless. |
+| Luglio 2023 | [!DNL AEM Forms] | [Visualizzazione del modulo al clic della scheda](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | Articolo | Espandere il modulo dalla vista a schede. |
+| Luglio 2023 | [!DNL AEM Forms] | [Personalizzare la risposta in base ai dati inviati](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | Video | Crea un servizio di invio personalizzato per gestire l’invio di moduli adattivi headless. |
+| Luglio 2023 | [!UICONTROL Frammenti di contenuto] | [Anteprima Bookmarklet](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | Articolo | Scopri come creare un bookmarklet JavaScript per visualizzare le anteprime[!UICONTROL  Frammento di contenuto di App Builder] Estensione nel contesto dell&#39;AEM [!UICONTROL Frammento di contenuto] pagine. |
+| Luglio 2023 | [!UICONTROL Frammenti di contenuto] | [Esporta frammento di contenuto in XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | Articolo | È possibile aggiungere pulsanti personalizzati alla [!UICONTROL Editor frammento di contenuto] menu di intestazione utilizzando `headerMenu` punto di estensione. In questo esempio viene illustrato come aggiungere un pulsante al menu di intestazione e come gestire l&#39;evento click per esportare il [!UICONTROL Frammento di contenuto] come XML o CSV. |
+| Luglio 2023 | [!UICONTROL Frammenti di contenuto] | [Aggiungere widget all’editor Rich Text](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | Video | Scopri come aggiungere widget all’Editor Rich Text (RTE) nell’AEM [!UICONTROL Editor frammento di contenuto]. |
+| Luglio 2023 | [!UICONTROL Frammenti di contenuto] | [Aggiungere badge all’editor Rich Text](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | Video | Scopri come aggiungere badge all’editor Rich Text (RTE) nell’AEM [!UICONTROL Editor frammento di contenuto]. |
+| Luglio 2023 | [!UICONTROL Frammenti di contenuto] | [Colonne griglia personalizzate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | Video | Scopri come aggiungere una colonna di griglia personalizzata al [!UICONTROL Console Frammenti di contenuto]. |
+| Luglio 2023 | [!DNL AEM Sites] | [Riferimenti](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | Video | Scopri come la console e l’editor dei frammenti di contenuto dell’AEM semplificano la comprensione e la gestione dei contenuti di riferimento. |
 
 {style="table-layout:auto"}
 
