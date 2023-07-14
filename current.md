@@ -6,10 +6,10 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
+source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
 workflow-type: tm+mt
 source-wordcount: '5836'
-ht-degree: 40%
+ht-degree: 43%
 
 ---
 
@@ -133,7 +133,7 @@ Informazioni sull’ultima versione e nuova documentazione di [!DNL Experience P
 
 Nuovi video, tutorial o corsi pubblicati su Adobe [!DNL Experience Platform].
 
-| Tipo | Funzionalità del prodotto | Descrizione |
+| Data di pubblicazione | Funzionalità del prodotto | Descrizione |
 | -----------| ---------- |---------- |
 | Luglio 2023 | [Importa dati di esempio in [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=it) | Video aggiornato | Scopri come impostare un [!DNL Experience Platform] ambiente sandbox con dati di esempio. Utilizzo di un [!UICONTROL Postman] , puoi creare gruppi di campi, schemi, set di dati e quindi importare dati di esempio in [!DNL Experience Platform]. |
 | Luglio 2023 | [Autenticazione e accesso [!DNL Experience Platform] API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=it) | Video aggiornato | Introduzione ad Adobe [!DNL Experience Platform] API. Questa esercitazione ti guida attraverso il processo di creazione delle credenziali di autenticazione e di creazione di [!DNL Experience Platform] Richieste API. |
@@ -286,7 +286,7 @@ Osserva [Video introduttivo sulla versione di giugno 2023](https://video.tv.adob
 
 _Nuove funzioni_
 
-* [!UICONTROL Frammenti di contenuto] e i loro riferimenti possono ora essere pubblicati in [Servizio di anteprima AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service) utilizzando [Console Frammenti di contenuto](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=it), che consente agli utenti di visualizzare in anteprima l’esperienza finale su un’applicazione di anteprima separata prima della pubblicazione.
+* Ora è possibile pubblicare i frammenti di contenuto e i relativi riferimenti nel [Servizio di anteprima AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=it#access-preview-service) utilizzando la [Console Frammenti di contenuto](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=it), che consente agli utenti di visualizzare in anteprima l’esperienza finale su un’applicazione di anteprima separata prima della pubblicazione.
 * Le immagini possono ora essere ottimizzate dinamicamente per la distribuzione web in scenari headless utilizzando AEM GraphQL. [Variabili di query](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=en#query-variables) può essere definito nelle query GraphQL per consentire alle applicazioni client disaccoppiate di richiedere all’AEM immagini ottimizzate di conseguenza.
 * Tag su [Varianti dei frammenti di contenuto](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html) ora può essere inviato in formato JSON utilizzando l’API di distribuzione dei contenuti GraphQL dell’AEM.
 
@@ -350,11 +350,11 @@ _Nuove funzioni disponibili in Forms_
 
 * [Forms adattivo nell’Editor pagina e nel Frammento di esperienza dell’AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/create-or-add-an-adaptive-form-to-aem-sites-page.html): puoi usare AEM [!UICONTROL Editor pagina] e [!UICONTROL Frammenti esperienza] per creare e aggiungere rapidamente più moduli alle pagine di AEM Sites. Questa funzionalità consente agli autori di contenuti di creare esperienze di acquisizione dati ottimizzate in [!DNL Sites] pagine utilizzando la potenza di [!UICONTROL Forms adattivo] componenti quali comportamento dinamico, convalide, integrazione dei dati, generazione di documenti di record e automazione dei processi aziendali.
 
-* [Utilizzare le soluzioni Acrobat Sign per la pubblica amministrazione (reclamo HIPPA) con AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/adobe-sign-integration-adaptive-forms.html): [!DNL AEM Forms] ora si integra con [!DNL Acrobat Sign Solutions] per le amministrazioni pubbliche. Questa integrazione fornisce un livello avanzato di conformità e sicurezza per le firme elettroniche con l’invio di moduli adattivi per gli account governativi associati (dipartimenti e agenzie governative).
+* [Utilizzare le soluzioni Acrobat Sign per la pubblica amministrazione (reclamo HIPPA) con AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/adobe-sign-integration-adaptive-forms.html): [!DNL AEM Forms] ora si integra con [!DNL Acrobat Sign Solutions] per le amministrazioni pubbliche. Questa integrazione fornisce un livello avanzato di conformità e sicurezza per le firme elettroniche con l’invio di moduli adattivi per gli account della pubblica amministrazione associati (dipartimenti e agenzie statali).
 
-L’integrazione con Adobe Acrobat Sign Solutions for Government consente ai partner e ai clienti governativi di Adobe di utilizzare le firme elettroniche in [!UICONTROL Forms adattivo] per alcune delle linee di business più critiche e sensibili. Questo ulteriore livello di sicurezza assicura che tutte le firme elettroniche siano pienamente conformi alla conformità FedRAMP Moderate, garantendo ai clienti governativi Adobi la massima tranquillità.
+L’integrazione con Adobe Acrobat Sign Solutions for Government consente ai partner e ai clienti governativi di Adobe di utilizzare le firme elettroniche in [!UICONTROL Forms adattivo] per alcune delle linee di business più critiche e sensibili. Questo ulteriore livello di sicurezza garantisce che tutte le firme elettroniche siano pienamente conformi alla conformità FedRAMP Moderate, garantendo ai clienti del settore pubblico di Adobe la massima tranquillità.
 
-* [Gestione avanzata degli errori con gestori di errori personalizzati nell’editor di regole](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-rules-and-use-expressions-in-an-adaptive-form/add-custom-error-handler-adaptive-forms.html): ora puoi richiamare una funzione personalizzata (utilizzando la libreria client) in risposta a un errore restituito da un servizio esterno e fornire una risposta personalizzata agli utenti finali. In alternativa, è possibile eseguire azioni specifiche per gli errori restituiti da un servizio. Ad esempio, puoi richiamare un flusso di lavoro personalizzato nel backend per codici di errore specifici o informare il cliente che il servizio non è disponibile.
+* [Gestione avanzata degli errori con gestori di errori personalizzati nell’editor di regole](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-rules-and-use-expressions-in-an-adaptive-form/add-custom-error-handler-adaptive-forms.html): ora puoi richiamare una funzione personalizzata (utilizzando la libreria client) in risposta a un errore restituito da un servizio esterno e fornire una risposta personalizzata agli utenti finali. In alternativa, è possibile eseguire azioni specifiche per gli errori restituiti da un servizio. Ad esempio, puoi richiamare un flusso di lavoro personalizzato nel back-end per codici di errore specifici o informare il cliente che il servizio non è disponibile.
 
 Questa funzionalità consente di migliorare la capacità complessiva di gestione degli errori introducendo risposte di errore basate su standard compatibili con le versioni precedenti dei gestori degli errori OOTB, con maggiore flessibilità e controllo.
 
