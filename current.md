@@ -6,7 +6,7 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
+source-git-commit: 86a6d628b123ec77f5b64e0a80dc0b0dc56bb72a
 workflow-type: tm+mt
 source-wordcount: '5836'
 ht-degree: 43%
@@ -31,7 +31,7 @@ Accedi a [Experience League](https://experienceleague.adobe.com/?lang=it#home) e
 
 ## Aggiornamenti ed eventi sulla versione del prodotto
 
-Ultimo aggiornamento: **12 luglio 2023**
+Ultimo aggiornamento: **18 luglio 2023**
 
 * [Eventi e aggiornamenti di [!DNL Experience League]](#events)
 * [Certificazione in Adobe](#certification)
@@ -176,7 +176,7 @@ Trova le informazioni sulla versione più recente di [!DNL Adobe Analytics] e [!
 
 ### AppMeasurement {#appm}
 
-Versione: **2.23.0**
+Versione: **2.24.0**
 
 * [Note sulla versione di AppMeasurement per JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=it)
 
@@ -360,7 +360,7 @@ Questa funzionalità consente di migliorare la capacità complessiva di gestione
 
 [Metodi di autenticazione migliorati per il modello dati modulo](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=it): maggiore sicurezza grazie all’introduzione dell’autenticazione basata sulle credenziali client per collegare AEM Forms (modelli dati modulo) con origini dati compatibili. Questo miglioramento elimina la necessità di rappresentazione o accesso da parte dell’utente, rafforzando la protezione dei dati.
 
-[Creare un Forms adattivo con sezioni ripetibili](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html): ora puoi creare componenti Pannello a soffietto, Procedura guidata e Schede orizzontali in un modulo adattivo basato su Componenti core per creare sezioni ripetibili.
+[Creare un Forms adattivo con sezioni ripetibili](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html?lang=it): ora puoi creare componenti Pannello a soffietto, Procedura guidata e Schede orizzontali in un modulo adattivo basato su Componenti core per creare sezioni ripetibili.
 
 Queste sezioni ripetibili consentono di fornire un numero illimitato di voci senza un numero di campi fisso. È utile quando le istanze di dati richieste sono sconosciute in anticipo. Gli utenti di Forms possono aggiungere o rimuovere facilmente sezioni, rendendo i moduli adattabili a scenari di immissione dati diversi e semplificando la raccolta di più occorrenze degli stessi dati.
 
