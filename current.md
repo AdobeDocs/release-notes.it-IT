@@ -6,9 +6,9 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 18f0dfbf87fbd168537caa313c03b27e94c8203e
+source-git-commit: 3543720e4e115c18473596f4953f3a2cad88f997
 workflow-type: tm+mt
-source-wordcount: '7884'
+source-wordcount: '7881'
 ht-degree: 45%
 
 ---
@@ -67,7 +67,7 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 
 | Data di pubblicazione | Applicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Settembre 2023 | Experience Cloud | Webinar Customer Success | [Impostazione di una strategia Audience Activation efficace](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=en) | Questa sessione descrive l’importanza di una strategia di gestione dei dati, panoramica e funzionalità di Adobe Audience Manager, casi di utilizzo di Adobe Audience Manager, piano d’azione per l’impostazione di una strategia di gestione dei dati |
+| Settembre 2023 | Experience Cloud | [Impostazione di una strategia Audience Activation efficace](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=en) | Webinar Customer Success | Scopri l’importanza di una strategia di gestione dati, panoramica e funzionalità di Adobe Audience Manager, casi di utilizzo di Adobe Audience Manager, piano d’azione per l’impostazione di una strategia di gestione dati |
 | Estate 2023 | Experience Cloud | [Home dei tutorial sull’integrazione per applicazioni di Experience Cloud](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html) | Video | Scopri le integrazioni di applicazioni di Experience Cloud più comuni. Sfoglia i tutorial sull’integrazione per [soluzione](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=it) o [applicazione](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=it). Questo contenuto viene aggiornato spesso, quindi controlla spesso. |
 
 {style="table-layout:auto"}
@@ -655,9 +655,9 @@ Ottieni gli aggiornamenti più recenti di [!DNL Adobe Campaign]. Trova nuovi tut
 
 * Campaign Standard: [note sulla versione](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=it)
 
-* Campaign Classic v7: [note sulla versione](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=it)
+* Campaign Classic v7.3.4: [note sulla versione](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=it)
 
-* Nuova! Pannello di controllo: [note sulla versione](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=it)
+* Pannello di controllo: [note sulla versione](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=it)
 
 Scopri le funzionalità, i miglioramenti e le correzioni più recenti nelle note sulla versione di [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=it), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=it) e [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=it).
 
