@@ -235,7 +235,7 @@ Nuovi video, tutorial o corsi pubblicati per [!DNL Customer Journey Analytics].
 | Data di pubblicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
 | Settembre 2023 | [Utilizzare il dizionario dei dati](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/data-dictionary/use-data-dictionary.html?lang=it) | Video | Scopri di più sul [!UICONTROL Dizionario dei dati] in Analysis Workspace per Customer Journey Analytics. |
-| Settembre 2023 | [Panoramica di Analysis Workspace](httpshttps://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/analysis-workspace-overview.html?lang=it) | Video | Scopri i componenti di base utilizzati per creare progetti e le dashboard in Analysis Workspace, un ambiente di analisi flessibile e a forma libera utilizzato per esplorare e visualizzare i dati di Experience Platform. |
+| Settembre 2023 | [Panoramica di Analysis Workspace](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/analysis-workspace-overview.html?lang=it) | Video | Scopri i componenti di base utilizzati per creare progetti e le dashboard in Analysis Workspace, un ambiente di analisi flessibile e a forma libera utilizzato per esplorare e visualizzare i dati di Experience Platform. |
 | Settembre 2023 | [Creare un nuovo progetto in Analysis Workspace](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/build-a-new-project.html?lang=it) | Video | Scopri come creare un progetto di base in Analysis Workspace per [!DNL Customer Journey Analytics]. |
 
 {style="table-layout:auto"}
