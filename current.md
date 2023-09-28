@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8e68c850554a8d3d464c4ae77bf4f3ede156c5d8
-workflow-type: ht
-source-wordcount: '7132'
-ht-degree: 100%
+source-git-commit: 646fa448526e3d74f4c88c77325fa65adaad5ae2
+workflow-type: tm+mt
+source-wordcount: '7065'
+ht-degree: 98%
 
 ---
 
@@ -33,9 +33,9 @@ Accedi a [Experience League](https://experienceleague.adobe.com/?lang=it#home) e
 
 ## Aggiornamenti ed eventi sulla versione del prodotto
 
-Ultimo aggiornamento: **19 settembre 2023**
+Ultimo aggiornamento: **28 settembre 2023**
 
-* [Eventi e aggiornamenti di [!DNL Experience League]](#events)
+* [[!DNL Experience League] eventi e aggiornamenti](#events) (Aggiornato: **28 settembre**)
 * [Certificazione in Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Interfaccia e amministrazione di [!DNL Experience Cloud]](#ecloud)
@@ -77,15 +77,13 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 
 +++Prossimi eventi su Experience League
 
-* **[!DNL WORKFRONT]** | Workshop per clienti | _Admin 101: Guida introduttiva di Workfront_ | **19 settembre alle 10:00 CT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ro1ksXUe10a6IwM8fXCIHg,-FBAvqy1W0aUZDRPXCzn3A,JaIpLTwA3E2wq1vRimwKjQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL ANALYTICS]** | Webinar | _Scopri e fornisci informazioni fruibili con Adobe Analytics_ | **5 ottobre alle 09:00 BST** | [Registrati](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _Sfruttare la potenza di New Relic APM per AEM as a Cloud Service_ | **20 settembre alle 8:00 PT** | [Registrati](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-issue-resolution/)
+* **[!DNL WORKFRONT]** | Webinar | _Novità di Adobe Workfront 23.10_ | **5 ottobre alle 7:00 PT** | [Registrati](https://webinars.on24.com/adobe_workfront/whatsnewin2310?partnerref=EXL)
 
-* **[!DNL WORKFRONT]** | Chat domande e risposte | _Le domande al pannello clienti: vantaggi e best practice con Fusion_ | **26 settembre alle 11:00 CT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wwMNpBFpyU6JRZ7t-hkIIQ,SV8DFIlim0ivqJp7uYE5zg,-iWPFBz0s0aNbozaOGyGsQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE MANAGER]** | Webinar | _Espressos &amp; Experience Manager: aggiornamento a Dynamic Medie_ | **5 ottobre alle 13:00 CET** | [Registrati](https://attendee.gotowebinar.com/register/401473910088026710?source%3CExL)
 
-* **[!DNL EXPERIENCE MANAGER SITES]** | Scambio di informazioni con i colleghi | _Approfondimento degli strumenti in AEM Sites_ | **28 settembre alle 8:00 PT** | [Registrati](https://engage.adobe.com/AEM_Tools_Deep_Dive_Registration.html?utm_source=ExL)
-
-* **[!DNL WORKFRONT]** | Scambio di informazioni con i colleghi | _Approfondimento degli strumenti in AEM Sites_ | **28 settembre alle 8:00 PT** | [Registrati](https://engage.adobe.com/AEM_Tools_Deep_Dive_Registration.html?utm_source=ExL)
+* **[!DNL WORKFRONT]** | Workshop per i clienti | _Domande agli esperti: automatizzare i processi di lavoro con Workfront Fusion_ | **5 ottobre alle 11:00 MT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Evento della community | _Connect: chat per gli amministratori per marketing e creatività_ | **6 ottobre alle 10:00 MT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,GEPFgV3sAkazC0HNeX4Qiw,MfXhfQkRaEeNxpVhAjrevw,etCOBCAjk0iAVD0DNRskXQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
