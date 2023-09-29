@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 646fa448526e3d74f4c88c77325fa65adaad5ae2
+source-git-commit: a0cad6ed033fec45ce4697dc64011ee675506433
 workflow-type: tm+mt
-source-wordcount: '7065'
-ht-degree: 98%
+source-wordcount: '7204'
+ht-degree: 97%
 
 ---
 
@@ -647,6 +647,11 @@ Nuovi video, tutorial o corsi pubblicati su Adobe [!DNL Journey Optimizer].
 
 | Data di pubblicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
+| Settembre 2023 | [Gestire, creare e utilizzare i frammenti](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html?lang=it) | Video | Scopri come gestire, creare e utilizzare i frammenti in Adobe Journey Optimizer. |
+| Settembre 2023 | [Supporto di applicazioni a pagina singola (SPA) nell’editor web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Video | Scopri come creare applicazioni a pagina singola (SPA) nell’editor web di Journey Optimizer. |
+| Settembre 2023 | [Rapporti a livello di canale](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html) | Video | Scopri come accedere, navigare ed esportare i rapporti a livello di canale. |
+| Settembre 2023 | [Esportare rapporti in formato CSV](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format.html) | Video | Scopri come scaricare un rapporto CSV per un rapporto e per un singolo widget. |
+| Settembre 2023 | [Supporto di applicazioni a pagina singola (SPA) nell’editor web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Video | Scopri come creare applicazioni a pagina singola (SPA) nell’editor web di Journey Optimizer. |
 | Settembre 2023 | [Creare un messaggio in-app in un percorso](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html?lang=it) | Video | Scopri cos’è un messaggio in-app e come può essere applicato in un percorso. Scopri come creare un messaggio in-app in un percorso e come testare e pubblicare il percorso. |
 
 {style="table-layout:auto"}
