@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b3412fc88c958976a09a92056b29f55bc0cd2351
+source-git-commit: 7088f9b9644c7c555c3f1a061adf140c7f95e07a
 workflow-type: tm+mt
-source-wordcount: '7502'
+source-wordcount: '7500'
 ht-degree: 63%
 
 ---
@@ -35,7 +35,7 @@ Accedi a [Experience League](https://experienceleague.adobe.com/?lang=it#home) e
 
 Ultimo aggiornamento: **4 ottobre 2023**
 
-* [[!DNL Experience League] eventi e aggiornamenti](#events) (Aggiornato: **28 settembre**)
+* [Eventi e aggiornamenti di [!DNL Experience League]](#events)
 * [Certificazione in Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - Interfaccia e amministrazione centrale](#ecloud)
@@ -79,9 +79,9 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 
 * **[!DNL ANALYTICS]** | Webinar | _Scopri e fornisci informazioni fruibili con Adobe Analytics_ | **5 ottobre alle 09:00 BST** | [Registrati](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL WORKFRONT]** | Webinar | _Novità di Adobe Workfront 23.10_ | **5 ottobre alle 7:00 PT** | [Registrati](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
+* **[!DNL WORKFRONT]** | Webinar | _Novità di Adobe Workfront 23.10_ | **5 ottobre alle 10:00 CET** | [Registrati](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
 
-* **[!DNL EXPERIENCE MANAGER]** | Webinar | _Espressos &amp; Experience Manager: aggiornamento a Dynamic Medie_ | **5 ottobre alle 13:00 CET** | [Registrati](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
+* **[!DNL EXPERIENCE MANAGER]** | Webinar | _Espressos &amp; Experience Manager: aggiornamento a Dynamic Medie_ | **5 ottobre alle 23:00 MDT** | [Registrati](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
 
 * **[!DNL WORKFRONT]** | Workshop per i clienti | _Domande agli esperti: automatizzare i processi di lavoro con Workfront Fusion_ | **5 ottobre alle 11:00 MT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -89,7 +89,7 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 
 * **[!DNL WORKFRONT]** | Workshop per clienti | _Admin 101: Utilizzo di Workfront da parte degli utenti_ | **17 ottobre alle 9:00 MT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** e **[!DNL COMMERCE]** | Developers Live | _Content and Commerce: una sessione di approfondimento sul [!UICONTROL Servizi di consegna Edge], funzionalità headless, estensibilità, componibilità e strumenti di produttività_ | **6 novembre alle 9:00 MT** | [Registrati](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** e **[!DNL COMMERCE]** | Developers Live | _Content and Commerce: una sessione di approfondimento sul [!UICONTROL Servizi di consegna Edge], funzionalità headless, estensibilità, componibilità e strumenti di produttività_ | **6 novembre alle 8:00 MT** | [Registrati](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 Visualizza tutti i [prossimi eventi](https://experienceleague.adobe.com/events?lang=it/) o sfoglia le [registrazioni di eventi](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=it). È ora possibile utilizzare il menu di navigazione a sinistra per cercare eventi registrati in base al tipo di serie o all’applicazione.
 
