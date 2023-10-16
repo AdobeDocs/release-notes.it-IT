@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7daf1d029be332b56281f4c26bfb7170a81d8a0
+source-git-commit: 3357c889fb9ab09031776b8f1293db451e090cc9
 workflow-type: tm+mt
-source-wordcount: '7532'
+source-wordcount: '7491'
 ht-degree: 99%
 
 ---
@@ -19,21 +19,11 @@ ht-degree: 99%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-**Ottobre 2023**
-
-Questa pagina ti aiuta a rimanere aggiornato sulle informazioni sulla versione del prodotto, sugli eventi e sulle opportunità di apprendimento di Experience League.
-
->[!TIP]
->
->Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento sui prodotti priority Adobe](https://www.adobe.com/subscription/priority-product-update.html). Torna spesso a controllare per essere sempre al corrente delle novità sulle applicazioni enterprise di Adobe.
-
-**Hai bisogno di aiuto?**
-
 Accedi a [Experience League](https://experienceleague.adobe.com/?lang=it#home) e personalizza la tua esperienza di ricerca nella libreria delle risorse di supporto autonomo di Adobe. Sfoglia la [documentazione del prodotto](https://experienceleague.adobe.com/docs/?lang=it), i [video tutorial](https://experienceleague.adobe.com/?lang=itdocs/home-tutorials.html), i [corsi](https://experienceleague.adobe.com/?lang=it#courses) e gli [eventi](https://experienceleague.adobe.com/events?lang=it/) per tutti i livelli e i ruoli. Poni le tue domande dalla tua [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) online di colleghi e ottieni il [supporto](https://experienceleague.adobe.com/?support-tab=home&amp;lang=it#support) esperto quando necessario.
 
-## Aggiornamenti ed eventi sulla versione del prodotto
+Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento sui prodotti priority Adobe](https://www.adobe.com/subscription/priority-product-update.html).
 
-Ultimo aggiornamento: **9 ottobre 2023**
+**9 ottobre 2023**
 
 * [Eventi e aggiornamenti di [!DNL Experience League]](#events)
 * [Certificazione in Adobe](#certification)
