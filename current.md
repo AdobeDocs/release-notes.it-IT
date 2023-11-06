@@ -1,6 +1,6 @@
 ---
 title: Note sulla versione più recente
-description: Trova le note sulla versione più recenti per l'Adobe  [!DNL Experience Cloud] prodotti e servizi. Scopri i prossimi eventi e la nuova documentazione su Experience League. Scopri le esercitazioni e i corsi più recenti per applicazioni [!DNL Experience Cloud] .
+description: Ad Adobe, trova le note sulla versione più recente [!DNL Experience Cloud] prodotti e servizi. Scopri i prossimi eventi e la nuova documentazione su Experience League. Scopri le esercitazioni e i corsi più recenti per applicazioni [!DNL Experience Cloud] .
 doc-type: release notes
 last-update: November 2023
 author: mfrei
@@ -19,7 +19,7 @@ ht-degree: 96%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-Questa pagina consente di trovare le note sulla versione per applicazioni aziendali di Experience Cloud ed Adobe. Per una migliore esperienza di auto-aiuto, accedi all&#39;[Experience League](https://experienceleague.adobe.com/?lang=it#home) e personalizza la tua esperienza di ricerca in tutta la libreria gratuita di risorse di auto-aiuto di Adobe, tra cui:
+Questa pagina consente di trovare le note sulla versione di applicazioni aziendali Experience Cloud e Adobe. Per una migliore esperienza di supporto autonomo, accedi a [Experience League](https://experienceleague.adobe.com/?lang=it#home) e personalizza la tua esperienza di ricerca nelle librerie gratuite di risorse di supporto autonomo di Adobe, tra cui:
 
 * [Documentazione del prodotto](https://experienceleague.adobe.com/docs/?lang=it)
 * [Video tutorial](https://experienceleague.adobe.com/?lang=itdocs/home-tutorials.html)
@@ -36,16 +36,16 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 Ultimo aggiornamento: **27 ottobre 2023**
 
-* [[!DNL Experience League] eventi e aggiornamenti](#events) (aggiornato il **27** ottobre)
+* [[!DNL Experience League] eventi e aggiornamenti](#events) (aggiornato **27 ottobre**)
 * [Certificazione in Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Interfaccia centale e amministrazione di [!DNL Adobe Experience Cloud]](#ecloud)
-* [[!DNL Adobe Experience Platform]](#platform) (rilasciato il **25**)<!-- * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp) -->
-* [[!DNL Adobe Analytics]](#analytics) (rilasciato il **25 ottobre**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (rilasciato il **25 ottobre**)
+* [[!DNL Adobe Experience Platform]](#platform) (rilasciato **25 ottobre**)<!-- * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp) -->
+* [[!DNL Adobe Analytics]](#analytics) (rilasciato **25 ottobre**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (rilasciato **25 ottobre**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem) (rilasciato il **26 ottobre**)
+* [[!DNL Adobe Experience Manager]](#aem) (rilasciato **26 ottobre**)
 * [[!DNL Adobe Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -75,19 +75,19 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 
 * **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Supera le sfide omnicanale nel settore del retail_ | **1 novembre alle 9:00 PT** | [Registrati](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
 
-* **[!DNL CAMPAIGN]** | Webinar | _Adobe Campaign: orchestrare, avviare e misurare in modo semplice le campagne cross-channel_ | **2 novembre alle 09:00 BST** | [Registro](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
+* **[!DNL CAMPAIGN]** | Webinar | _Adobe Campaign: orchestrare, avviare e misurare in modo semplice le campagne cross-channel_ | **2 novembre alle 09:00 BST** | [Registrati](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL MARKETO]** e **[!DNL MARKETO ENGAGE]** | Impara dai tuoi colleghi | _Gestione dei canali e dei dati isolati con Marketo Engage e Dynamic Chat_ | **2 novembre alle 8:00 pT** | [Registro](https://engage.marketo.com/tackling_siloed_channels_register.html?utm_source=exl)
+* **[!DNL MARKETO]** e **[!DNL MARKETO ENGAGE]** | Impara dai tuoi colleghi | _Gestire i canali e i dati in silos con Marketo Engage e Dynamic Chat_ | **2 novembre alle 8:00 pT** | [Registrati](https://engage.marketo.com/tackling_siloed_channels_register.html?utm_source=exl)
 
-* **[!DNL ANALYTICS]** | Impara dai tuoi colleghi | _Arte e scienza delle visualizzazioni di dati di impatto in Adobe Analytics_ | **2 novembre alle 11:00 ET** | [Registro](https://engage.adobe.com/Impactful_Data_Visualizations_webinar.html)
+* **[!DNL ANALYTICS]** | Impara dai tuoi colleghi | _Arte e scienza delle visualizzazioni di dati di impatto in Adobe Analytics_ | **2 novembre alle 11:00 ET** | [Registrati](https://engage.adobe.com/Impactful_Data_Visualizations_webinar.html)
 
-* **[!DNL WORKFRONT]** | Impara dai tuoi colleghi | _Chiedi al pannello clienti - Guida introduttiva agli amministratori di gruppi_ | **2 novembre alle 10:00 AM PT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,WfmCjhXZYUmNAJ-noEDg9g,dmjkxx2DG06DJQsHegWI0g,Vnx4PzU9W0qE-ldYN2UOqw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Impara dai tuoi colleghi | _Pannello Ask Customer (Chiedi al cliente) - Guida introduttiva agli amministratori di gruppi_ | **2 novembre alle 10:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,WfmCjhXZYUmNAJ-noEDg9g,dmjkxx2DG06DJQsHegWI0g,Vnx4PzU9W0qE-ldYN2UOqw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Workshop per i clienti | _Connetti: Chat con l&#39;amministratore per marketing e creatività_ | **3 novembre alle 9.00 PT** | [Registro](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,7pgtykoMIUqlZFb7CwXTmA,XPcnsKNUuEaV0VRZ7j1jSg,hCoEu5MMXU6Zo734VOiyGg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Workshop per i clienti | _Connect: Chat con gli amministratori per marketing e creatività_ | **3 novembre alle 9:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,7pgtykoMIUqlZFb7CwXTmA,XPcnsKNUuEaV0VRZ7j1jSg,hCoEu5MMXU6Zo734VOiyGg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL AEM]** e **[!DNL COMMERCE]** | Developers live | _Contenuto e Commerce: sessione di approfondimento su [!UICONTROL Servizi di consegna Edge], funzionalità headless, estensibilità, componibilità e strumenti di produttività_ | **6 novembre alle 8:00 MT** | [Registrati](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
-* **[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Maggiore efficienza nella creazione e nella gestione dei contenuti_ | **7 novembre alle 8.00 PT** | [Registro](https://aemexperiencefragments2023.experienceleague.adobeevents.com/)
+* **[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Maggiore efficienza nella creazione e nella gestione dei contenuti_ | **7 novembre alle 8:00 PT** | [Registrati](https://aemexperiencefragments2023.experienceleague.adobeevents.com/)
 
 Visualizza gli altri [prossimi eventi](https://experienceleague.adobe.com/events?lang=it/) o sfoglia le [registrazioni degli eventi](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=it) in Experience League.
 
