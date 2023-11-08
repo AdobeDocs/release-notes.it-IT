@@ -1,6 +1,6 @@
 ---
 title: Note sulla versione più recente
-description: Ad Adobe, trova le note sulla versione più recente [!DNL Experience Cloud] prodotti e servizi. Scopri i prossimi eventi e la nuova documentazione su Experience League. Scopri le esercitazioni e i corsi più recenti per applicazioni [!DNL Experience Cloud] .
+description: Leggi le ultime note sulla versione dei prodotti e servizi di Adobe  [!DNL Experience Cloud] . Scopri i prossimi eventi e la nuova documentazione su Experience League. Scopri le esercitazioni e i corsi più recenti per applicazioni [!DNL Experience Cloud] .
 doc-type: release notes
 last-update: November 2023
 author: mfrei
