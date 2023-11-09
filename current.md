@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7fa9fdbba2d8089af11af45ad2dfa4fd2254de28
+source-git-commit: 53e36cf4a14b8917af8ca264eab876d16bac3731
 workflow-type: tm+mt
-source-wordcount: '6959'
+source-wordcount: '6920'
 ht-degree: 96%
 
 ---
@@ -514,7 +514,6 @@ Nuovi video, tutorial o corsi pubblicati per Experience Manager.
 | Ottobre 2023 | AEM CS | [[!DNL AEM as a Cloud Service] Video e tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=it) | Video aggiornato | Guarda un video di panoramica aggiornato con Edge Delivery Services in Adobe Experience Manager as a Cloud Service. |
 | Ottobre 2023 | AEM CS | [Effettuare una chiamata interna API con certificati privati](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/call-internal-apis-having-private-certificate.html?lang=it) | Video | Scopri come effettuare chiamate HTTPS da AEM alle API web utilizzando certificati privati o con firma autonoma. |
 | Ottobre 2023 | AEM CS | [Che cos’è AEM Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/what-is-aem-as-a-cloud-service.html?lang=it) | Video aggiornato | Approfondisci Experience Manager as a Cloud Service e le differenze rispetto all’altra versione di Adobe Experience Manager. |
-| Ottobre 2023 | AEM CS | [Evoluzione di AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/evolution.html?lang=it) | Video aggiornato | Scopri l’evoluzione di AEM e il valore che offre, da AEM 6.5 ad AEM as a Cloud Service, e infine a Edge Delivery Services. |
 | Ottobre 2023 | Frammenti di contenuto | [Video su Console Frammenti di contenuto](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html?lang=it) | Video aggiornato | Descrizione |
 | Ottobre 2023 | Sicurezza | [Autenticazione Mutual Transport Layer Security (mTLS) da AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/mutual-tls-authentication.html?lang=it) | Video | Scopri come effettuare chiamate HTTPS da AEM alle API web che richiedono l’autenticazione Mutual Transport Layer Security (mTLS). |
 
