@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 53e36cf4a14b8917af8ca264eab876d16bac3731
+source-git-commit: 28242010ab0a6583e0fe0b5d9338527bd564a32e
 workflow-type: tm+mt
-source-wordcount: '6920'
-ht-degree: 96%
+source-wordcount: '6902'
+ht-degree: 95%
 
 ---
 
@@ -34,9 +34,9 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 ## Novembre 2023
 
-Ultimo aggiornamento: **27 ottobre 2023**
+Ultimo aggiornamento: **16 novembre 2023**
 
-* [[!DNL Experience League] eventi e aggiornamenti](#events) (aggiornato **27 ottobre**)
+* [[!DNL Experience League] eventi e aggiornamenti](#events) (aggiornato **Novembre 16**)
 * [Certificazione in Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Interfaccia centale e amministrazione di [!DNL Adobe Experience Cloud]](#ecloud)
@@ -71,23 +71,17 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 
 +++Prossimi eventi su Experience League
 
-* **[!DNL WORKFRONT]** | Workshop per i clienti | _Scopri: raccolta delle informazioni più recenti sulla versione Q4-2023 di Adobe Workfront_ | **31 ottobre alle 8:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL JOURNEY OPTIMIZER]** | Webinar | _Ottimizzazione delle campagne multicanale di masterizzazione_ | **28 novembre alle 8:00 PT** | [Registrati](https://adobejourneyoptimizerintegrations2023.experienceleague.adobeevents.com/)
 
-* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Supera le sfide omnicanale nel settore del retail_ | **1 novembre alle 9:00 PT** | [Registrati](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** | Chat domande e risposte | _Ask the Experts: Workfront for Training &amp; Enablement Webinar Follow-up_ | **29 novembre alle 8:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,pbmEfJ_84Uyl4sMSFkTp7Q,MDVrhXnhAkSGge9zSz2BNg,07tf6wlMn0GBGI_LSuvLbQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL CAMPAIGN]** | Webinar | _Adobe Campaign: orchestrare, avviare e misurare in modo semplice le campagne cross-channel_ | **2 novembre alle 09:00 BST** | [Registrati](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** | Evento comunitario | _Connect: chat della community Adobe Workfront_ | **5 dicembre alle 10:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Q476otp5xUiO9ZMtkUcRgQ,u7FGXWt5EUGiSm43A4zXTg,TpNUAD7m4U6tDosCDYTrcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MARKETO]** e **[!DNL MARKETO ENGAGE]** | Impara dai tuoi colleghi | _Gestire i canali e i dati in silos con Marketo Engage e Dynamic Chat_ | **2 novembre alle 8:00 pT** | [Registrati](https://engage.marketo.com/tackling_siloed_channels_register.html?utm_source=exl)
+* **[!DNL WORKFRONT]** | Evento comunitario | _Connect: chat per amministratori strategici di Workfront_ | **11 dicembre alle 6:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL ANALYTICS]** | Impara dai tuoi colleghi | _Arte e scienza delle visualizzazioni di dati di impatto in Adobe Analytics_ | **2 novembre alle 11:00 ET** | [Registrati](https://engage.adobe.com/Impactful_Data_Visualizations_webinar.html)
+* **[!DNL WORKFRONT]** | Workshop per i clienti | _Admin 101 - Porre le tue domande su Workfront_ | **12 dicembre alle 8:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Wva1DB17Sk-4iO-lqe_V_g,bAywbVUch0OGG4WTjwuE_Q,6M7Cm8V6GEutt8-1Hzg_gA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Impara dai tuoi colleghi | _Pannello Ask Customer (Chiedi al cliente) - Guida introduttiva agli amministratori di gruppi_ | **2 novembre alle 10:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,WfmCjhXZYUmNAJ-noEDg9g,dmjkxx2DG06DJQsHegWI0g,Vnx4PzU9W0qE-ldYN2UOqw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Workshop per i clienti | _Connect: Chat con gli amministratori per marketing e creatività_ | **3 novembre alle 9:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,7pgtykoMIUqlZFb7CwXTmA,XPcnsKNUuEaV0VRZ7j1jSg,hCoEu5MMXU6Zo734VOiyGg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL AEM]** e **[!DNL COMMERCE]** | Developers live | _Contenuto e Commerce: sessione di approfondimento su [!UICONTROL Servizi di consegna Edge], funzionalità headless, estensibilità, componibilità e strumenti di produttività_ | **6 novembre alle 8:00 MT** | [Registrati](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
-
-* **[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Maggiore efficienza nella creazione e nella gestione dei contenuti_ | **7 novembre alle 8:00 PT** | [Registrati](https://aemexperiencefragments2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** | Workshop per i clienti | _Scopri: reporting di fine anno_ | **19 dicembre alle 8:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,AGTk8_saLUy8gNI9wD0PPQ,o3Q8HuN-Eka2GNNPPRiffA,Ox_u0YaaOkGanBtcn4E0pg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Visualizza gli altri [prossimi eventi](https://experienceleague.adobe.com/events?lang=it/) o sfoglia le [registrazioni degli eventi](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=it) in Experience League.
 
