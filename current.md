@@ -1,15 +1,15 @@
 ---
 title: Note sulla versione più recente
-description: Leggi le ultime note sulla versione dei prodotti e servizi di Adobe  [!DNL Experience Cloud] . Scopri i prossimi eventi e la nuova documentazione su Experience League. Scopri le esercitazioni e i corsi più recenti per applicazioni [!DNL Experience Cloud] .
+description: Ad Adobe, trova le note sulla versione più recente [!DNL Experience Cloud] prodotti e servizi. Scopri i prossimi eventi e la nuova documentazione su Experience League. Scopri le esercitazioni e i corsi più recenti per applicazioni [!DNL Experience Cloud] .
 doc-type: release notes
 last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 20653cbc6b9ffc851c61b1dbe1508fece4f720fe
+source-git-commit: 0d2bdc559acd32422ad183b28cdbaef4e8c2df27
 workflow-type: tm+mt
-source-wordcount: '6888'
-ht-degree: 95%
+source-wordcount: '5582'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 ## Novembre 2023
 
-Ultimo aggiornamento: **16 novembre 2023**
+Ultimo aggiornamento: **venerdì 16 novembre 2023**
 
 * [[!DNL Experience League] eventi e aggiornamenti](#events) (aggiornato **Novembre 16**)
 * [Certificazione in Adobe](#certification)
@@ -37,7 +37,6 @@ Ultimo aggiornamento: **16 novembre 2023**
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem) (rilasciato **26 ottobre**)
-* [[!DNL Adobe Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -61,12 +60,6 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 ### Eventi su Experience League
 
 +++Prossimi eventi su Experience League
-
-* **[!DNL JOURNEY OPTIMIZER]** | Webinar | _Ottimizzazione delle campagne multicanale di masterizzazione_ | **28 novembre alle 8:00 PT** | [Registrati](https://adobejourneyoptimizerintegrations2023.experienceleague.adobeevents.com/)
-
-* **[!DNL WORKFRONT]** | Chat domande e risposte | _Ask the Experts: Workfront for Training &amp; Enablement Webinar Follow-up_ | **29 novembre alle 8:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,pbmEfJ_84Uyl4sMSFkTp7Q,MDVrhXnhAkSGge9zSz2BNg,07tf6wlMn0GBGI_LSuvLbQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Evento comunitario | _Connect: chat della community Adobe Workfront_ | **5 dicembre alle 10:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Q476otp5xUiO9ZMtkUcRgQ,u7FGXWt5EUGiSm43A4zXTg,TpNUAD7m4U6tDosCDYTrcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Evento comunitario | _Connect: chat per amministratori strategici di Workfront_ | **11 dicembre alle 6:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -415,7 +408,7 @@ Partecipa al programma di accesso anticipato di Adobe per avere la possibilità 
    * La disponibilità del programma di accesso anticipato di questa funzione è limitata.
    * Questa funzione consente di ripristinare i contenuti eliminati accidentalmente e non è destinata a essere utilizzata come rispristino di emergenza.
 
-* **Dashboard di Audit dell’esperienza**: la [dashboard di Audit dell’esperienza di Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html?lang=it?lang=it) include una vista tendenze dei punteggi di prestazioni della pagina, oltre ad approfondimenti e consigli per aiutare a migliorarli. L’Audit dell’esperienza è inclusa come passaggio nella pipeline di produzione di Cloud Manager.
+* **Dashboard di Audit dell’esperienza**: la [dashboard di Audit dell’esperienza di Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html?lang=en) include una vista tendenze dei punteggi di prestazioni della pagina, oltre ad approfondimenti e consigli per aiutare a migliorarli. L’Audit dell’esperienza è inclusa come passaggio nella pipeline di produzione di Cloud Manager.
 
   La dashboard utilizza Google Lighthouse, uno strumento open source automatizzato per migliorare la qualità delle app web. È possibile eseguirla su qualsiasi pagina web pubblica o che richiede l’autenticazione. Sono disponibili audit per le prestazioni, l’accessibilità, le applicazioni web progressive, SEO (Search Engine Optimization) e altro ancora.
 
