@@ -6,7 +6,7 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 031c4bc36905490c421e548c306d810a4d5d23b2
+source-git-commit: 62df401007938e2d84633996957ca98661a2fad8
 workflow-type: tm+mt
 source-wordcount: '5877'
 ht-degree: 92%
@@ -713,7 +713,7 @@ Scopri le note sulla versione più recente e la pianificazione delle versioni di
 
 ### Aggiornamenti principali di Marketo Engage
 
-* Per informazioni aggiornate, consulta le [note sulla versione corrente - ottobre 2023](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=it)
+* Per informazioni aggiornate, consulta le [note sulla versione corrente - gennaio 2024](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=it)
 * Per informazioni aggiornate sulla pianificazione delle versioni e sulle relative note sulla versione, consulta la [pianificazione delle versioni](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=it) di [!DNL Marketo Engage].
 
 ### Nuovi corsi e tutorial su Marketo Engage {#tutorials-marketo}
@@ -746,7 +746,7 @@ Nuovi tutorial su [!DNL Workfront] in Experience League.
 
 | Data di pubblicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
-| Ottobre 2023 | [Novità nei tutorial di Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=it#what%E2%80%99s-new%3F) | Video multipli | Visualizza i tutorial più recenti rilasciati nell’ultimo mese. |
+| Gennaio 2024 | [Novità nei tutorial di Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=it#what%E2%80%99s-new%3F) | Video multipli | Visualizza i tutorial più recenti rilasciati nell’ultimo mese. |
 
 {style="table-layout:auto"}
 
