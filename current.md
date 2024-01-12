@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f207f7f7dc042e0c7d8e3f8248cfbf1f29aa85b6
+source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
 workflow-type: tm+mt
-source-wordcount: '5841'
-ht-degree: 93%
+source-wordcount: '6123'
+ht-degree: 89%
 
 ---
 
@@ -28,6 +28,7 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 Ultimo aggiornamento: **sabato 12 gennaio 2024**
 
 * [[!DNL Experience League] eventi e aggiornamenti](#events) (aggiornato **Gennaio 12**)
+* [[!DNL Adobe GenStudio]](#genstudio) - **Novità!**
 * [Certificazione in Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Interfaccia centale e amministrazione di [!DNL Adobe Experience Cloud]](#ecloud)
@@ -80,6 +81,23 @@ Aggiornato il **sabato 12 gennaio 2024**
 Visualizza gli altri [prossimi eventi](https://experienceleague.adobe.com/events?lang=it/) o sfoglia le [registrazioni degli eventi](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=it) in Experience League.
 
 +++
+
+## ![Icona](/assets/experience-league.png) Adobe GenStudio {#genstudio}
+
+[Adobe GenStudio](https://business.adobe.com/solutions/adobe-genstudio.html) è una soluzione end-to-end per accelerare e semplificare la supply chain dei contenuti con intelligenza artificiale generativa e automazione intelligente.
+
++++Dettagli
+
+| Data di pubblicazione | Nome | Tipo | Descrizione |
+| -----------| ---------- | ---------- | ---------- |
+| Gennaio 2024 | [Tutorials GenStudio](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en) | Video | Visualizza tutorial di Experience League sulla nuova [!DNL Adobe GenStudio]. GenStudio è una soluzione end-to-end che consente di accelerare e semplificare la catena di fornitura dei contenuti grazie all&#39;intelligenza artificiale generativa e all&#39;automazione intelligente. |
+| Gennaio 2024 | [Flusso di lavoro e pianificazione: semplificazione e accelerazione del lavoro](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en) | Video | Per le aziende che hanno difficoltà a collegare e tenere traccia dei propri requisiti di contenuto attraverso il processo di pianificazione, fino alla produzione e al completamento dei contenuti. La mancanza di processi efficaci, pianificazione, approvazioni e coerenza dei dati tra i progetti priva la catena di fornitura dei contenuti di questa azienda di produttività ed efficienza. |
+| Gennaio 2024 | [Produttività creativa: team creativi con prestazioni superiori](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en) | Video | Per l&#39;azienda che ha creativi rock star ma ha bisogno di mostrare la loro creazione di contenuti. GenStudio offre strumenti avanzati di GenAI che consentono al team di migliorare la produzione, la distribuzione e la reperibilità dei contenuti. |
+| Gennaio 2024 | [Agilità di marketing: possibilità di scalare le risorse non creative](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en) | Video | Ad Adobe GenStudio, a volte è possibile indirizzare una richiesta di contenuto senza il trattamento completo del team creativo/studio. Adobe mette gli strumenti nelle mani degli esperti di marketing e di altri potenziali creatori di contenuti. Questi strumenti consentono di attivare rapidamente la creazione di varianti di contenuto. Gli aggiornamenti possono essere eseguiti da un gruppo più ampio di singoli utenti connessi alla supply chain dei contenuti, aumentando notevolmente la velocità effettiva dei contenuti e il time-to-market. |
+| Gennaio 2024 | [Distribuzione e attivazione: esperienze di alimentazione e prestazioni](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en) | Video | Per l&#39;azienda che necessita di supporto per ottenere il contenuto giusto davanti all&#39;utente giusto sul canale giusto. GenStudio rende tale connessione migliore di qualsiasi altra soluzione, fornendo al contempo l&#39;analisi per garantire prestazioni complessive dei contenuti. |
+
+{style="table-layout:auto"}
+
 
 ## ![Icona](/assets/certification-badge.png) Certificazione{#certification}
 
