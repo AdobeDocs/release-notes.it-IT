@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
+source-git-commit: b217f3525129a3c61af864334cc209da4193f242
 workflow-type: tm+mt
-source-wordcount: '6123'
-ht-degree: 89%
+source-wordcount: '6168'
+ht-degree: 88%
 
 ---
 
@@ -64,7 +64,9 @@ Aggiornato il **sabato 12 gennaio 2024**
 
 +++Prossimi eventi su Experience League
 
-* **[!DNL ANALYTICS and CJA]** | EXPERIENCE LEAGUE LIVE | _Come portare al Customer Journey Analytics i dati e le analisi di Adobe Analytics_ | Scopri come utilizzare i processi automatizzati per spostare dati e analisi da Adobe Analytics al Customer Journey Analytics, e quali vantaggi prendere in considerazione lungo il percorso. | **17 gennaio alle 10:00 PT** | [Registrati](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL TARGET]** | Webinar | _Serie sulla maturità della personalizzazione Adobe Target_ | I brand stanno cercando un blueprint sull’ottimizzazione intelligente per stimolare l’impatto aziendale e maturare le loro strategie di personalizzazione. Unisciti a noi mentre esploriamo l’intelligenza artificiale e l’automazione in una serie di webinar in tre parti! | **16 gennaio alle 8:00 PT** | [Registrati](https://adobe-target-personalization-maturity-webinar-series-q1-2024.dxfieldmarketing.adobeevents.com/)
+
+* **[!DNL ANALYTICS]e CJA** | EXPERIENCE LEAGUE LIVE | _Come portare al Customer Journey Analytics i dati e le analisi di Adobe Analytics_ | Scopri come utilizzare i processi automatizzati per spostare dati e analisi da Adobe Analytics al Customer Journey Analytics, e quali vantaggi prendere in considerazione lungo il percorso. | **17 gennaio alle 10:00 PT** | [Registrati](https://engage.adobe.com/ExpLeagueLive-240117.html)
 
 * **[!DNL WORKFRONT]** | Workshop per i clienti | _Admin 101 - Guida introduttiva a Workfront_ | Ti avvicini ora a Workfront? Questo evento fornisce ai nuovi amministratori di sistema un’introduzione alle risorse, un sommario della navigazione del sistema e best practice per la configurazione iniziale. | **17 gennaio alle 8:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
