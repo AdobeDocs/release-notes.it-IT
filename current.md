@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
+source-git-commit: 1928c6799fbc8ee5b11e533475e448c8ab1da80b
 workflow-type: tm+mt
-source-wordcount: '6259'
+source-wordcount: '6298'
 ht-degree: 38%
 
 ---
@@ -827,6 +827,10 @@ Per i tutorial di [!DNL Document Cloud], consulta:
 Nuovi video, tutorial o corsi pubblicati per le applicazioni in [!DNL Adobe Creative Cloud for enterprise].
 
 +++Dettagli
+
+| Data di pubblicazione | Applicazione | Nome | Tipo | Descrizione |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| Gennaio 2024 | Adobe Express | [Tutorials per Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Video | Inizia a creare un lavoro straordinario che si distingue con l’intelligenza artificiale generativa basata su Adobi Firefly. Progettare volantini, TikToks, curriculum e rulli con Adobe Express. |
 
 Per i tutorial più recenti, consulta i [tutorial Creative Cloud for enterprise](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=it).
 
