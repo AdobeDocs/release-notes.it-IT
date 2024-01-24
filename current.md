@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1928c6799fbc8ee5b11e533475e448c8ab1da80b
+source-git-commit: b0ed2e287f72205ce6c0564d778d9a936ee53092
 workflow-type: tm+mt
-source-wordcount: '6298'
+source-wordcount: '6300'
 ht-degree: 38%
 
 ---
@@ -34,7 +34,7 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 Ultimo aggiornamento: **giovedì 24 gennaio 2024**
 
-* [Eventi e aggiornamenti di [!DNL Experience League]](#events)
+* [[!DNL Experience League] eventi e aggiornamenti](#events) (Aggiornato **Gennaio 24**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Novità!**
 * [Certificazione in Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -57,7 +57,7 @@ Ultimo aggiornamento: **giovedì 24 gennaio 2024**
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (Aggiornato **Gennaio 24**)
 * [Customer Data Management - Voices](#voices)
 * [Blueprint di esperienze digitali](#blueprints)
 * [Vulnerabilità di sicurezza del prodotto Adobe](https://helpx.adobe.com/it/security.html)
@@ -826,11 +826,13 @@ Per i tutorial di [!DNL Document Cloud], consulta:
 
 Nuovi video, tutorial o corsi pubblicati per le applicazioni in [!DNL Adobe Creative Cloud for enterprise].
 
+Aggiornato il **giovedì 24 gennaio 2024**
+
 +++Dettagli
 
 | Data di pubblicazione | Applicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Gennaio 2024 | Adobe Express | [Tutorials per Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Video | Inizia a creare un lavoro straordinario che si distingue con l’intelligenza artificiale generativa basata su Adobi Firefly. Progettare volantini, TikToks, curriculum e rulli con Adobe Express. |
+| Gennaio 2024 | [!DNL Adobe Express] | [Tutorials per Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Video | Inizia a creare un lavoro straordinario che si distingue con l’intelligenza artificiale generativa basata su [!DNL Adobe Firefly]. Volantini di progettazione, TikToks, curriculum e rulli con [!DNL Adobe Express]. |
 
 Per i tutorial più recenti, consulta i [tutorial Creative Cloud for enterprise](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=it).
 
