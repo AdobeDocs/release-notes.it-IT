@@ -1,8 +1,8 @@
 ---
 source-git-commit: e14592da81070b0848d2c194c45fef03238c108a
-workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 95%
+workflow-type: ht
+source-wordcount: '402'
+ht-degree: 100%
 
 ---
 # Contribuire agli articoli
@@ -12,7 +12,7 @@ Apprezziamo i contributi dalla community e da dipendenti Adobe esterni ai team d
 ## Codice di condotta open source di Adobe
 
 
-Questo progetto ha adottato il [Codice di condotta open source di Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) o il [Codice di condotta di .NET Foundation](https://dotnetfoundation.org/code-of-conduct). Per ulteriori informazioni, consulta l’articolo [Come contribuire](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html).
+Questo progetto ha adottato il [Codice di condotta open source di Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html?lang=it) o il [Codice di condotta di .NET Foundation](https://dotnetfoundation.org/code-of-conduct). Per ulteriori informazioni, consulta l’articolo [Come contribuire](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html?lang=it).
 
 ## Informazioni sui contributi ai contenuti Adobe
 
@@ -22,7 +22,7 @@ Il modo in cui contribuisci dipende da chi sei e dal tipo di modifiche con le qu
 
 ### Modifiche minori
 
-Se contribuisci con piccoli aggiornamenti, consulta l’articolo e fai clic sul collegamento **Modifica** nell’articolo, per passare alla sorgente dell’articolo su GitHub. Quindi, utilizza l’interfaccia utente GitHub per effettuare gli aggiornamenti. Per ulteriori informazioni, consulta la [Guida collaboratore per i documenti di Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) generale.
+Se contribuisci con piccoli aggiornamenti, consulta l’articolo e fai clic sul collegamento **Modifica** nell’articolo, per passare alla sorgente dell’articolo su GitHub. Quindi, utilizza l’interfaccia utente GitHub per effettuare gli aggiornamenti. Per ulteriori informazioni, consulta la [Guida collaboratore per i documenti di Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=it) generale.
 
 Le correzioni o i chiarimenti minori inviati per la documentazione e gli esempi di codice in questo archivio sono coperti dalle condizioni d’uso di Adobe.
 
@@ -56,6 +56,6 @@ Tutti gli articoli in questo archivio utilizzano GitHub Flavored Markdown. Se no
 Nell’archivio pubblico, le etichette automatizzate vengono assegnate alle richieste di pull per consentire di gestire il flusso di lavoro di richieste di pull e conoscere lo stato della richiesta di pull:
 
 * **Change sent to author**: l’autore ha ricevuto una notifica della richiesta di pull in sospeso.
-* **Ready-to-merge**: pronta per la revisione da parte del team di revisione delle richieste di pull.
+* **ready-to-merge**: pronta per la revisione da parte del team di revisione delle richieste di pull.
 
 
