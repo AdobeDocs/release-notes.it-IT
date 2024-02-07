@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
+source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
 workflow-type: tm+mt
-source-wordcount: '6394'
+source-wordcount: '6393'
 ht-degree: 95%
 
 ---
@@ -32,9 +32,9 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 ## Gennaio 2024
 
-Ultimo aggiornamento: **venerdì 1 febbraio 2024**
+Ultimo aggiornamento: **giovedì 7 febbraio 2024**
 
-* [[!DNL Experience League] eventi e aggiornamenti](#events) (Aggiornato **1 febbraio**)
+* [[!DNL Experience League] eventi e aggiornamenti](#events) (Aggiornato **7 febbraio**)
 * [[!DNL Adobe GenStudio]](#genstudio): **novità!**
 * [Certificazione in Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -68,11 +68,11 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 
 ### Eventi su Experience League
 
-Aggiornato **1 febbraio 2024**
+Aggiornato **7 febbraio 2024**
 
 +++Prossimi eventi su Experience League
 
-* **[!DNL WORKFRONT]** | Workshop per i clienti | _Connect: chat per amministratori di marketing e creatività_ | Sei un amministratore di sistema per un team di marketing o creatività? Questa sessione orientata al cliente ti mette in contatto con altri amministratori per discutere di best practice, suggerimenti e trucchi. | **2 febbraio alle 9:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | EXPERIENCE LEAGUE LIVE | _Playbook di casi d’uso: modelli self-service per distribuire i casi d’uso in pochi clic_ | Scopri come i playbook basati su casi d’uso possono tradurre in pochi clic i tuoi obiettivi di marketing in oggetti di implementazione. | **8 febbraio alle 9:00 PT** | [Registrati](https://engage.adobe.com/ExpLeagueLive-240208.html)
 
 * **[!DNL WORKFRONT]** | Workshop per i clienti | _Connect: conferenza di settore di alta formazione_ | Novità del 2024, questa prima conferenza di settore è una tavola rotonda informale progettata per riunire gli amministratori [!DNL Workfront] in un momento di alta formazione al fine di fare rete, condividere esperienze, apprendimenti e best practice. | **8 febbraio alle 9:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
