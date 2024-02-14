@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
+source-git-commit: a4a69849a5df4dff25467dd89e9e8f563b53a826
 workflow-type: tm+mt
-source-wordcount: '6393'
-ht-degree: 99%
+source-wordcount: '6207'
+ht-degree: 100%
 
 ---
 
@@ -70,17 +70,7 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 
 Aggiornato il **giovedì 7 febbraio 2024**
 
-+++Prossimi eventi su Experience League
-
-* **[!DNL EXPERIENCE PLATFORM]** | EXPERIENCE LEAGUE LIVE | _Playbook di casi d’uso: modelli self-service per distribuire i casi d’uso in pochi clic_ | Scopri come i playbook basati su casi d’uso possono tradurre in pochi clic i tuoi obiettivi di marketing in oggetti di implementazione. | **8 febbraio alle 9:00 PT** | [Registrati](https://engage.adobe.com/ExpLeagueLive-240208.html)
-
-* **[!DNL WORKFRONT]** | Workshop per i clienti | _Connect: conferenza di settore di alta formazione_ | Novità del 2024, questa prima conferenza di settore è una tavola rotonda informale progettata per riunire gli amministratori [!DNL Workfront] in un momento di alta formazione al fine di fare rete, condividere esperienze, apprendimenti e best practice. | **8 febbraio alle 9:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | Webinar | _Data trip: canali di marketing e modellazione dell’attribuzione_ | Conosci l’impatto delle interazioni dei clienti sulle conversioni? Unisciti agli esperti di Adobe che mostrano come configurare i canali di marketing e come sfruttare l’intelligenza artificiale in Adobe Analytics per creare modelli di attribuzione personalizzati. | **8 febbraio alle 13:00 ET** | [Registrati](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | Evento della community | _Sessione collettiva di Workfront_ | Unisciti ad altri clienti Workfront per la nostra sessione mensile collettiva dedicata alla risoluzione dei problemi e alla condivisione dei risultati. | **12 febbraio alle 6:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL DATA COLLECTION]** | Webinar | _Definizione delle priorità del flusso di dati_ | Scopri come gestire l’assegnazione di priorità al flusso di dati per orchestrare le campagne e potenziare la capacità dell’organizzazione di eseguire una personalizzazione basata sui dati. | **13 febbraio alle 9:30 PT** |[Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
++++Dettagli
 
 * **[!DNL WORKFRONT]** | Workshop per i clienti | _Admin 101: utilizzo da parte degli utenti[!DNL Workfront]_ | Nuovo in [!DNL Workfront]? Partecipa all’incontro mensile per i nuovi amministratori! Questo mese discuteremo delle best practice per l’adozione da parte degli utenti. | **14 febbraio alle 8:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
