@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4cb8fce5ba7d00f4462cfaa5c29523a15c3ae0c2
-workflow-type: ht
-source-wordcount: '5528'
+source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
+workflow-type: tm+mt
+source-wordcount: '5447'
 ht-degree: 100%
 
 ---
@@ -70,10 +70,6 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 Aggiornato il **14 febbraio 2024**
 
 +++Dettagli
-
-* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Libera la leadership strategica: il potere della sponsorizzazione esecutiva_ | Acquisisci le tattiche per raggiungere in modo efficace gli obiettivi dell’organizzazione attraverso un’influenza strategica. Questa sessione è progettata per consentire ai dirigenti di elevare la propria sponsorizzazione esecutiva. | **15 febbraio alle 10:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Vantaggi del team snello: sbloccare le funzionalità per un successo semplificato_ | Scopri come le integrazioni di prodotti possono semplificare i flussi di lavoro digitali, migliorare l’efficienza del team e scalare i processi aziendali. Scopri le tecniche per migliorare la collaborazione all’interno di team snelli per la massima produttività. | **20 febbraio alle 10:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Chat domande e risposte | _Contattare l’Assistenza clienti: risoluzione dei problemi relativi al modello di layout comune e visualizzazione dei problemi_ | Unisciti al team di Assistenza clienti di Workfront per una sessione di tipo “Domande agli esperti” per scoprire le best practice e i suggerimenti per la risoluzione dei problemi relativi ai modelli di layout e alle visualizzazioni. | **22 febbraio alle 9:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -257,7 +253,7 @@ Trova le informazioni sulla versione più recente di [!DNL Customer Journey Anal
 
 +++Dettagli
 
-Data di rilascio[!DNL Customer Journey Analytics]: **16 febbraio 2024**
+[!DNL Customer Journey Analytics]Data di rilascio: **16 febbraio 2024**
 
 * [Note sulla versione](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=it) di [!DNL Customer Journey Analytics]
 
