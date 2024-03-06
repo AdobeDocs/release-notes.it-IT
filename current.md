@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e18508b13d1c859f0aa3c3bd50cdad0db30a685f
+source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
 workflow-type: tm+mt
-source-wordcount: '5771'
-ht-degree: 98%
+source-wordcount: '5582'
+ht-degree: 99%
 
 ---
 
@@ -71,17 +71,9 @@ Aggiornato il **28 febbraio 2024**
 
 +++Dettagli
 
-* **EXPERIENCE MANAGER** | Webinar | _Evento della community EMEA AEM_ | Avremo una grande sessione interattiva sulla catena di fornitura dei contenuti per discutere i tuoi obiettivi, i tuoi risultati finora raggiunti e come affrontare le tue sfide. | **29 febbraio alle 15:00 GMT** |[Registrati](https://registration.adobe.com/AdobeAEM24/)
+* **CAMPAIGN (V7, V8)** | Coffee Break | _Coffee Break domande e risposte della community Adobe Campaign_ | Partecipa a una sessione di chat della durata di un’ora sulla nuova interfaccia utente web di Adobe Campaign con il nostro team di prodotto Adobe Campaign. | **7 marzo alle 8:00 PT** | [Registrati](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
-* **ADMIN e CAMPAIGN** | EXPERIENCE LEAGUE LIVE | _La nuova interfaccia utente di Adobe Campaign Web_ | Unisciti a noi il 29 febbraio per scoprire come pianificare, avviare e misurare le strategie cross-channel utilizzando la nuova interfaccia utente web di Adobe Campaign e per ottenere un’anteprima delle nuove funzionalità di intelligenza artificiale generativa. | **29 febbraio alle 8:00 PT** | [Registrati](https://engage.adobe.com/ExpLeagueLive-240229.html)
-
-* **EXPERIENCE MANAGER** | Livestream | _App Builder compie 10,0 anni_ | Unisciti al team di progettazione di App Builder per scoprire le novità dell’ultima versione di CLI e le novità future, inclusi alcuni nuovi approcci per semplificare e aumentare le possibilità di debug. | **29 febbraio alle 9:00 PT** | [Registrati](https://streamyard.com/watch/i7TEbhnR73h9)
-
-* **WORKFRONT** | Workshop per i clienti | _Scopri: Workfront per Legalità e Conformità_ | Unisciti a noi in un workshop per scoprire come la collaborazione con team di Legalità e Conformità può semplificare i processi, espandere la piattaforma Workfront a un pubblico più ampio allinterno della tua organizzazione e aumentare il tasso di adozione. | **29 febbraio alle 9:30 PT** |[Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Evento di community | _Connect: chat per amministratori di marketing e creatività_ | Sei un amministratore di sistema per un team di marketing o creatività? Questa sessione orientata al cliente ti connette con altri amministratori per discutere di best practice, suggerimenti e trucchi. | **1 marzo alle 9:00** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Webinar | _Attivati con Workfront: gestione delle risorse_ | Esplora uno dei casi d’uso più significativi di Workfront, la gestione delle risorse, mentre Workfront Business Advisor di Adobe illustra l’utilizzo dei blueprint per creare facilmente sistemi di gestione del lavoro che si evolvono in base alle tue esigenze. | **7 marzo alle 13:00 ET** | [Registrati](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5653751992/event_landing.html?sco-id=5639062191&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **WORKFRONT** | Webinar | _Attivati con Workfront: gestione delle risorse_ | Esplora uno dei casi d’uso più significativi di Workfront, la gestione delle risorse, mentre Workfront Business Advisor di Adobe illustra l’utilizzo dei blueprint per creare facilmente sistemi di gestione del lavoro che si evolvono in base alle tue esigenze. | **7 marzo alle 13:00 ET** | [Registrati](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **WORKFRONT** | Evento della community | _Connect: sessione collettiva di Workfront_ | Unisciti ad altri clienti Workfront per una sessione collettiva dedicata alla risoluzione dei problemi e alla condivisione dei risultati. | **11 marzo alle 6:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
