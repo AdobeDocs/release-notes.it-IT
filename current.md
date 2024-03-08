@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
+source-git-commit: da61f809f1bdd6ce4f3ac650f40a72a2a0f37c6e
 workflow-type: tm+mt
-source-wordcount: '5499'
-ht-degree: 99%
+source-wordcount: '5572'
+ht-degree: 98%
 
 ---
 
@@ -73,9 +73,11 @@ Aggiornato il **28 febbraio 2024**
 
 * **WORKFRONT** | Evento della community | _Connect: sessione collettiva di Workfront_ | Unisciti ad altri clienti Workfront per una sessione collettiva dedicata alla risoluzione dei problemi e alla condivisione dei risultati. | **11 marzo alle 6:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | Evento della community | _Connect: sessione collettiva di Workfront_ | Unisciti ad altri clienti Workfront per una sessione collettiva dedicata alla risoluzione dei problemi e alla condivisione dei risultati. | **11 marzo alle 6:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Workshop per i clienti | _Admin 101: recupero dati Workfront_ | Ti avvicini ora a Workfront? Partecipa alle riunioni mensili del &quot;nuovo amministratore&quot; per porre domande, ottenere risorse e consigli, incontrare altri nuovi amministratori e, per questa sessione, scopri le best practice per la generazione di rapporti su tutte le cose in Workfront. | **13 marzo alle 8:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **EXPERIENCE MANAGER** | Webinar | _Espressos e Experience Manager: perché AEM è più potente nel cloud_ | Unisciti agli esperti di Adobe per discutere come garantire una transizione fluida al Cloud tramite la valutazione dei contenuti e la pianificazione della migrazione con strumenti come Best Practice Analyzer e Cloud Acceleration Manager. | **14 marzo alle 13:00 ET** | [Registrati](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5621127355/event_landing.html?sco-id=5643219583&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **EXPERIENCE MANAGER** | AEM GEMS | _Guida introduttiva all’authoring e ai Edge Delivery Services AEM_ | Partecipa al webinar AEM GEMs per iniziare a creare AEM con i Edge Delivery Services. Scopri come creare uno sviluppo di progetti abilitato per l’AEM insieme all’authoring WYSIWYG con il servizio cloud AEM. | **13 marzo alle 9:00** | [Registrati](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
+
+* **EXPERIENCE MANAGER** | Webinar | _Espressos e Experience Manager: perché AEM è più potente nel cloud_ | Unisciti agli esperti di Adobe per discutere come garantire una transizione fluida al Cloud tramite la valutazione dei contenuti e la pianificazione della migrazione con strumenti come Best Practice Analyzer e Cloud Acceleration Manager. | **14 marzo alle 13:00 ET** | [Registrati](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
 
 * **ADOBE SUMMIT** | La conferenza sull’esperienza digitale | _Espandi le tue competenze, scopri le ultime tendenze ed esplora il futuro della crescita guidata dall’esperienza_ | Impara dai marchi leader, scopri il futuro dell’intelligenza artificiale generativa e preparati per una crescita guidata dall’esperienza. | **25-28 marzo a Las Vegas e online** | [Registrati](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
