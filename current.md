@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
+source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
 workflow-type: tm+mt
-source-wordcount: '5582'
+source-wordcount: '5499'
 ht-degree: 99%
 
 ---
@@ -70,10 +70,6 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 Aggiornato il **28 febbraio 2024**
 
 +++Dettagli
-
-* **CAMPAIGN (V7, V8)** | Coffee Break | _Coffee Break domande e risposte della community Adobe Campaign_ | Partecipa a una sessione di chat della durata di un’ora sulla nuova interfaccia utente web di Adobe Campaign con il nostro team di prodotto Adobe Campaign. | **7 marzo alle 8:00 PT** | [Registrati](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
-
-* **WORKFRONT** | Webinar | _Attivati con Workfront: gestione delle risorse_ | Esplora uno dei casi d’uso più significativi di Workfront, la gestione delle risorse, mentre Workfront Business Advisor di Adobe illustra l’utilizzo dei blueprint per creare facilmente sistemi di gestione del lavoro che si evolvono in base alle tue esigenze. | **7 marzo alle 13:00 ET** | [Registrati](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **WORKFRONT** | Evento della community | _Connect: sessione collettiva di Workfront_ | Unisciti ad altri clienti Workfront per una sessione collettiva dedicata alla risoluzione dei problemi e alla condivisione dei risultati. | **11 marzo alle 6:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
