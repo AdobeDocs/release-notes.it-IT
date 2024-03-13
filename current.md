@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e4ed429fbc8ecdaa4149c9796c50c57272918613
+source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
 workflow-type: tm+mt
-source-wordcount: '6152'
+source-wordcount: '6115'
 ht-degree: 65%
 
 ---
@@ -605,7 +605,6 @@ Tutorial video nuovi o aggiornati pubblicati per Adobe Campaign.
 | Febbraio 2024 | Interfaccia utente di Campaign Web | [Gestire e creare tipi di pubblico](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/manage-and-build-audiences.html) | Video | Scopri come creare e gestire i tipi di pubblico, come selezionare i tipi di pubblico per una consegna e definire gruppi di controllo. |
 | Febbraio 2024 | Interfaccia utente di Campaign Web | [Creare un flusso di lavoro di targeting](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/workflows/create-a-targeting-workflow.html) | Video | Scopri come funzionano i flussi di lavoro e come creare un flusso di lavoro di targeting. |
 | Febbraio 2024 | Interfaccia utente di Campaign Web | [Creare una consegna e-mail](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-delivery.html) | Video | Scopri come creare una consegna e-mail da zero, definire il pubblico, progettare il contenuto, simulare l’anteprima e inviare una bozza. |
-| Febbraio 2024 | Interfaccia utente di Campaign Web | [Progettare contenuti e-mail da zero](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-email-content-from-scratch.html) | Video | Scopri come navigare in E-mail Designer. Scopri come strutturare e progettare un’e-mail da zero, come personalizzarla e testarla. |
 | Febbraio 2024 | Interfaccia utente web di Campaign, Experience Platform | [Creare un pubblico con Experienci Platform](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-an-audience-with-experience-platform.html) | Video | Scopri come creare una destinazione per utilizzare un pubblico di Experienci Platform in Adobe Campaign. |
 | Febbraio 2024 | Interfaccia utente di Campaign Web | [Creare un’e-mail caricando HTML](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-by-uploading-html.html) | Video | Scopri come creare un’e-mail caricando HTML, come renderla compatibile con E-mail designer e come convertirla in un modello. |
 | Febbraio 2024 | Interfaccia utente di Campaign Web | [Annullamento e non iscrizione](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/unsubscribe-dos-and-do-nots.html) | Articolo | Utilizza un elenco di operazioni e cose da evitare durante la gestione degli annullamenti di abbonamenti. |
