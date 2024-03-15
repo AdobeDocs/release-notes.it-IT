@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
+source-git-commit: 4c1b46ffb7598946d87cd1d61330cf2a694d853e
 workflow-type: tm+mt
-source-wordcount: '6115'
+source-wordcount: '6023'
 ht-degree: 65%
 
 ---
@@ -32,7 +32,7 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 ## Marzo 2024
 
-Ultimo aggiornamento: **giovedì 13 marzo 2024**
+Ultimo aggiornamento: **sabato 15 marzo 2024**
 
 * [Eventi e aggiornamenti di [!DNL Experience League]](#events)
 * [Certificazione in Adobe](#certification)
@@ -40,8 +40,8 @@ Ultimo aggiornamento: **giovedì 13 marzo 2024**
 * [Interfaccia centale e amministrazione di [!DNL Adobe Experience Cloud]](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) (rilasciato **13 marzo**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (rilasciato **13 marzo**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,15 +67,11 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 
 ### Eventi su Experience League
 
-Aggiornato **Marzo 2024**
+Aggiornato il **sabato 15 marzo 2024**
 
 +++Dettagli
 
-* **WORKFRONT** | Workshop per i clienti | _Admin 101: recupero dati Workfront_ | Ti avvicini ora a Workfront? Partecipa alle riunioni mensili del &quot;nuovo amministratore&quot; per porre domande, ottenere risorse e consigli, incontrare altri nuovi amministratori e, per questa sessione, scopri le best practice per la generazione di rapporti su tutte le cose in Workfront. | **13 marzo alle 8:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **EXPERIENCE MANAGER** | AEM GEMS | _Guida introduttiva all’authoring e ai Edge Delivery Services AEM_ | Partecipa al webinar AEM GEMs per iniziare a creare AEM con i Edge Delivery Services. Scopri come creare uno sviluppo di progetti abilitato per l’AEM insieme all’authoring WYSIWYG con il servizio cloud AEM. | **13 marzo alle 9:00** | [Registrati](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
-
-* **EXPERIENCE MANAGER** | Webinar | _Espressos e Experience Manager: perché AEM è più potente nel cloud_ | Unisciti agli esperti di Adobe per discutere come garantire una transizione fluida al Cloud tramite la valutazione dei contenuti e la pianificazione della migrazione con strumenti come Best Practice Analyzer e Cloud Acceleration Manager. | **14 marzo alle 13:00 ET** | [Registrati](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
+* **WORKFRONT** | Workshop per i clienti | _Admin 101 - Porre le tue domande su Workfront_ | Hai saltato le precedenti sessioni di Admin 101 o hai ancora delle domande? Unisciti a noi per un&#39;ora di follow-up della serie dove riassumeremo le sessioni e apriremo per domande e risposte! | **20 marzo alle 8:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,1YdEYKuO-0KE3ermHwWEfg,UN_LlgnRokKfDGTmj7vhVg,XjCFMeclLEmuHQZslDQYHw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | La conferenza sull’esperienza digitale | _Espandi le tue competenze, scopri le ultime tendenze ed esplora il futuro della crescita guidata dall’esperienza_ | Impara dai marchi leader, scopri il futuro dell’intelligenza artificiale generativa e preparati per una crescita guidata dall’esperienza. | **25-28 marzo a Las Vegas e online** | [Registrati](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
