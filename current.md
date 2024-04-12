@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f768519d6c60ae2865ac881126a30d819b3c8846
+source-git-commit: e581a323e92bda30c755d7030c024edb06c6f6a1
 workflow-type: tm+mt
-source-wordcount: '6053'
+source-wordcount: '5962'
 ht-degree: 94%
 
 ---
@@ -71,10 +71,6 @@ Aggiornato il **lunedì 31 marzo 2024**
 
 +++Dettagli
 
-* **WORKFRONT** | Evento di community | _Connect: chat per amministratori di marketing e creatività_ | Sei un amministratore di sistema per un team di marketing o creatività? Questa sessione orientata al cliente metterà in contatto te ad altri amministratori, per discutere di best practice, suggerimenti e strategie. | **5 aprile alle 9:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Workshop per i clienti | _Admin 101: guida introduttiva a Workfront_ | Ti avvicini ora a Workfront? Partecipa ai nostri meeting mensili di Admin 101 per porre domande, ottenere risorse, imparare le best practice e incontrare altri nuovi amministratori. Questa sessione è incentrata sulla configurazione iniziale. | **10 aprile alle 8:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **WORKFRONT** | Workshop per i clienti | _Informazioni: Versione di Adobe Workfront del 2° trimestre 2024 aggiornata_ | Unisciti ad altri amministratori di sistema di Workfront mentre esaminiamo gli ultimi miglioramenti inclusi nella versione del 2° trimestre 2024. Verranno illustrati i vantaggi, i piani di implementazione e la gestione del cambiamento. | **16 aprile alle 8:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **MARKETO ENGAGE** | Impara dai tuoi colleghi | _Sblocco di una potente automazione dei flussi di lavoro: applicazioni pratiche dell’API REST di Marketo Engage_ | Unisciti a noi in diretta e fatti ispirare da casi d’uso reali in cui l’API REST può essere utilizzata per semplificare i flussi di lavoro, ad esempio unendo in blocco i lead, creando programmi di tracciamento UTM e sfruttando ChatGPT per ottimizzare i tempi di invio. | **17 aprile alle 8:00 PT** | [Registrati](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
@@ -91,7 +87,7 @@ Visualizza gli altri [prossimi eventi](https://experienceleague.adobe.com/events
 
 ## ![Icona](/assets/experience-league.png) Catena di fornitura dei contenuti Adobe {#content-supply-chain}
 
-Scopri di più sulla [Catena di fornitura dei contenuti](https://business.adobe.com/solutions/adobe-genstudio.html?lang=it). Adobe dispone di una soluzione end-to-end per accelerare e semplificare i contenuti grazie all’intelligenza artificiale generativa e all’automazione intelligente.
+Informazioni su [Catena di fornitura contenuto](https://business.adobe.com/solutions/adobe-genstudio.html?lang=it), la soluzione end-to-end di Adobe per accelerare e semplificare i contenuti con intelligenza artificiale generativa e automazione intelligente.
 
 +++Dettagli
 
