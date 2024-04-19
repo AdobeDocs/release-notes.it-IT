@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7832bcbd5c8454d0553578b76b7fec79fd1bd453
+source-git-commit: af76851090b09db9cc561e43f12ff735b0e992e8
 workflow-type: tm+mt
-source-wordcount: '6293'
+source-wordcount: '6240'
 ht-degree: 51%
 
 ---
@@ -67,11 +67,9 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 
 ### Eventi su Experience League
 
-Aggiornato il **sabato 12 aprile 2024**
+Aggiornato il **sabato 19 aprile 2024**
 
 +++Dettagli
-
-* **WORKFRONT** | Workshop per i clienti | _Scopri: 10 suggerimenti per la modalità testo in Adobe Workfront_ | Desideri ampliare le tue conoscenze di reporting con la modalità testo? Non guardare oltre! Questo workshop fornirà una breve introduzione alle nozioni di base sulla modalità testo e all’API Explorer, seguita da 10 suggerimenti sulla modalità testo in Adobe Workfront. | **18 aprile alle 9:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Evento community | _Connect: Collettivo Workfront_ | Unisciti ai tuoi colleghi amministratori di sistema Workfront per questa sessione mensile di brainstorming e condivisione collettiva, in cui discutiamo gli ultimi aggiornamenti e le best practice. | **22 aprile alle 06:00 PT** | [Registrati](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -291,7 +289,7 @@ Adobe consiglia di visitare le seguenti risorse per informazioni sempre aggiorna
 
 * [Aggiornamenti e roadmap delle versioni di Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/home): scopri la roadmap delle versioni di Experience Manager, gli aggiornamenti sulle versioni precedenti e quelli sulla documentazione.
 * [Aggiornamenti della versione di Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview): guarda le panoramiche video delle versioni attuali e precedenti di [!DNL Experience Manager as a Cloud Service].
-* [Note sulla versione attuale di Adobe Experience Manager (AEM) as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current): consulta le note sulla versione più recente di [!DNL Experience Manager as a Cloud Service].
+* [Note sulla versione attuale di Adobe Experience Manager (AEM) as a Cloud Service](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current): consulta le note sulla versione più recente di [!DNL Experience Manager as a Cloud Service].
 
 <!-- ### Latest Release Overview video
 
@@ -416,7 +414,7 @@ Nelle pagine seguenti trovi tutte le note sulla versione di [!DNL Experience Man
 
 * [Informazioni sulla versione di Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/home)
 * [Aggiornamenti della versione di Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
-* [Note sulla versione attuale di Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
+* [Note sulla versione attuale di Experience Manager as a Cloud Service](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [Informazioni sulla versione di Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/home)
 * [Note sulla versione di Experience Manager Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Note sulla versione del Servizio di conversione automatica dei moduli](https://experienceleague.adobe.com/en/docs/aem-forms-automated-conversion-service/using/release-notes)
@@ -492,13 +490,13 @@ Nuovi articoli e aggiornamenti ad articoli esistenti per [!DNL Experience Manage
 
 ### Altre risorse di aiuto per [!DNL Experience Manager]
 
-* [Pagina iniziale della guida di Dynamic Media Classic](https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/home)
+* [Pagina iniziale della guida di Dynamic Media Classic](https://experienceleague.adobe.com/it/docs/dynamic-media-classic/using/home)
 * [Guide di Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/overview/introduction)
 * [Guida utente di Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/introduction)
 * [Formazione e supporto per Experience Manager 6.5](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/deploying/introduction/platform)
-* [Formazione e supporto per Experience Manager 6.4](https://experienceleague.adobe.com/en/docs/experience-manager-64)
+* [Formazione e supporto per Experience Manager 6.4](https://experienceleague.adobe.com/it/docs/experience-manager-64)
 * [Documentazione di Experience Manager: ultimi aggiornamenti](https://experienceleague.adobe.com/it/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates)
-* [Documentazione delle versioni precedenti di Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
+* [Documentazione delle versioni precedenti di Experience Manager](https://experienceleague.adobe.com/it/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
 
 +++
 
