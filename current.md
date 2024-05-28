@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7aac2cd48bd037c3f860328e3418d7af6ad58d7d
+source-git-commit: aee0af049df43d0004e8d3b9686731cbb27587b4
 workflow-type: tm+mt
-source-wordcount: '4917'
-ht-degree: 99%
+source-wordcount: '4957'
+ht-degree: 98%
 
 ---
 
@@ -32,7 +32,7 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 ## Maggio 2024
 
-Ultimo aggiornamento: **venerdì 16 maggio 2024**
+Ultimo aggiornamento: **mercoledì 28 maggio 2024**
 
 * [Eventi e aggiornamenti di [!DNL Experience League]](#events)
 * [Certificazione in Adobe](#certification)
@@ -40,8 +40,8 @@ Ultimo aggiornamento: **venerdì 16 maggio 2024**
 * [Interfaccia centale e amministrazione di [!DNL Adobe Experience Cloud]](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (rilascio **15 maggio**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (rilascio **15 maggio**)
+* [[!DNL Adobe Analytics]](#analytics) (rilasciato **Maggio 15**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (rilasciato **Maggio 15**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,10 +67,11 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 
 ### Eventi su Experience League
 
-Aggiornato il **sabato 24 maggio 2024**
+Aggiornato il **mercoledì 28 maggio 2024**
 
 +++Dettagli
 
+* **ESPERIENZE PERSONALIZZATE** | Video | _Esperienze personalizzate_ presenta contenuti creati da utenti quotidiani che hanno raggiunto un livello di esperienza e influenza con le loro soluzioni DX Adobi. trova l’ispirazione necessaria per migliorare le tue competenze di prodotto. | [Disponibile on-demand](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
 * **WORKFRONT** | Coffee Break | _Coffee Break domande e risposte della community di Adobe Workfront: Migrazione alla piattaforma business Adobe_ | Unisciti agli esperti di Workfront nella community e fai qualsiasi domanda sulla piattaforma business Adobe, sulla migrazione della tua organizzazione ad Adobe Admin Console e altro ancora! | **29 maggio, 08:00 PT** | [Registrati](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
 * **WORKFRONT** | Webinar | _Attivati con Workfront: ottimizza e mantieni l’ambiente_ | I consulenti aziendali di Adobe condividono informazioni utili per ottimizzare l’ambiente di gestione del lavoro in Adobe Workfront tramite strategie di pulizia e formazione, piani di implementazione e pratiche di miglioramento continuo. | **6 giugno alle 13:00 ET** | [Registrati](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
