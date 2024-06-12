@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fbb4dc8b9e98de3010799a797da4714952a1700d
+source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
 workflow-type: tm+mt
 source-wordcount: '4006'
 ht-degree: 43%
@@ -652,7 +652,7 @@ Nuovi tutorial pubblicati per le applicazioni in [!DNL Adobe Creative Cloud for 
 | Pubblicato | Applicazione | Nome | Tipo | Descrizione |
 | -----------| -----------|---------- | ---------- | ---------- |
 | Maggio 2024 | [!DNL Firefly] | [Creare scene riutilizzabili per il merchandising](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes) | Video | Scopri come creare scene riutilizzabili per il merchandising come borse e accessori. La creazione di scene riutilizzabili accelera il merchandising digitale consentendo di aggiornare il marchandising sul sito web stagionalmente o ogni volta che lo desideri. |
-| Maggio 2024 | [!DNL Firefly] | [Accelerare idee creative](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | Video | Scopri come visualizzare rapidamente le idee ed esplorare i concetti per le campagne aziendali. L’accelerazione dell’idea creativa consente alle organizzazioni di produrre contenuti di alta qualità a un ritmo rapido. |
+| Maggio 2024 | [!DNL Firefly] | [Accelerare idee creative](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | Video | Scopri come visualizzare le idee ed esplorare i concetti per le campagne aziendali. L’accelerazione dell’idea creativa consente alle organizzazioni di produrre contenuti di alta qualità a un ritmo rapido. |
 
 Per i tutorial più recenti, consulta i [tutorial Creative Cloud for enterprise](https://experienceleague.adobe.com/it/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview).
 
