@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a534185e2781addbf6004cef41a613a6e368c417
+source-git-commit: 73136bb756a8be56a3c265b30a36005911c141d4
 workflow-type: tm+mt
 source-wordcount: '3853'
 ht-degree: 98%
@@ -34,14 +34,14 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 Ultimo aggiornamento: **mercoledì 25 giugno 2024**
 
-* [[!DNL Experience League] events and updates](#events) (**June 25**)
+* [[!DNL Experience League] eventi e aggiornamenti](#events) (**25 giugno**)
 * [Certificazione in Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Interfaccia centale e amministrazione di [!DNL Adobe Experience Cloud]](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (released **June 12**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (released **June 12**)
+* [[!DNL Adobe Analytics]](#analytics) (rilasciato **12 giugno**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (rilasciato **12 giugno**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -71,7 +71,7 @@ Aggiornato il **mercoledì 25 giugno 2024**
 
 +++Dettagli
 
-* **WORKFRONT** | Customer workshop | _Admin 101 - Getting Started with Workfront_ | New to Workfront? Join our &quot;New Admin&quot; monthly meetups to ask questions, get resources and recommendations, meet other new admins, and for this session, learn the best practices for setting up your Workfront environment. | **July 9 @ 9:00 AM MT** | [Register]https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Workshop per i clienti | _Admin 101 - Guida introduttiva a Workfront_ | Ti avvicini ora a Workfront? Partecipa alle riunioni mensili del nuovo amministratore per porre domande, ottenere risorse e consigli, incontrare altri nuovi amministratori e, per questa sessione, scopri le best practice per la configurazione del tuo ambiente Workfront. | **9 luglio alle 09:00 MT** | [Registrati](https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Visualizza tutti i [prossimi eventi](https://experienceleague.adobe.com/events/?lang=it) o sfoglia le [registrazioni degli eventi passati](https://experienceleague.adobe.com/it/docs/events/experience-league-recorded-events/overview) in Experience League.
 +++
