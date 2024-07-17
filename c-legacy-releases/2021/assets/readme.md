@@ -5,4 +5,4 @@ source-wordcount: '4'
 ht-degree: 100%
 
 ---
-# File readme non utilizzati per le risorse
+# File readme non utilizzato per le risorse

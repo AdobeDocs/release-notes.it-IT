@@ -34,7 +34,7 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 Ultimo aggiornamento: **mercoledì 25 giugno 2024**
 
-* [[!DNL Experience League] eventi e aggiornamenti](#events) (**25 giugno**)
+* [[!DNL Experience League] eventi e aggiornamenti](#events) (**25**)
 * [Certificazione in Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Interfaccia centale e amministrazione di [!DNL Adobe Experience Cloud]](#ecloud)
@@ -71,13 +71,13 @@ Aggiornato il **mercoledì 25 giugno 2024**
 
 +++Dettagli
 
-* **WORKFRONT** | Evento di community | _Connect: chat per amministratori di marketing e creatività_ | Sei un amministratore di sistema per un team di marketing o creatività? Questa sessione orientata al cliente metterà in contatto te ad altri amministratori, per discutere di best practice, suggerimenti e strategie. | **12 luglio alle 10:00 MT** | [Registrati](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Evento di community | _Connect: chat per amministratori di marketing e creatività_ | Sei un amministratore di sistema per un team di marketing o creatività? Questa sessione orientata al cliente metterà in contatto te ad altri amministratori, per discutere di best practice, suggerimenti e strategie. | **12 luglio alle 10:00 MT** | [Registra](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | Pausa caffè | _Coffee Break Sweepstakes: ingaggi Creative Briefs e best practice_ | Unisciti a noi per la nostra seconda sessione Coffee Break Sweepstakes sulle best practice di Creative Brief! Scopri nuove strategie e condividi le tue conoscenze. Invia una domanda, un commento o un suggerimento per avere la possibilità di vincere Workfront swag. Non perderti! | **16 luglio alle 11:00 MT** | [Registrati](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
+* **WORKFRONT** | Pausa caffè | _Coffee Break Sweepstakes: Suggerimenti Creativi E Best Practice_ | Unisciti a noi per la nostra seconda sessione Coffee Break Sweepstakes sulle best practice di Creative Brief! Scopri nuove strategie e condividi le tue conoscenze. Invia una domanda, un commento o un suggerimento per avere la possibilità di vincere Workfront swag. Non perderti! | **16 luglio alle 11:00 MT** | [Registra](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
 
-* **WORKFRONT** | Workshop per i clienti | _Informazioni: Aggiornamento sulla versione di Adobe Workfront del 3° trimestre 2024 + Promozione sull’ambiente_ | Unisciti a noi per la sessione di revisione trimestrale delle versioni, in cui discutiamo delle funzioni e dei vantaggi delle ultime versioni. In questa sessione parleremo anche dell&#39;attesissima funzionalità di &quot;Promozione dell&#39;ambiente&quot;. | **18 luglio alle 9:00 MT** | [Registrati](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Workshop per i clienti | _Informazioni: Aggiornamento della versione di Adobe Workfront del 3° trimestre 2024 + Promozione dell&#39;ambiente_ | Unisciti a noi per la sessione di revisione trimestrale delle versioni, in cui discutiamo delle funzioni e dei vantaggi delle ultime versioni. In questa sessione parleremo anche dell&#39;attesissima funzionalità di &quot;Promozione dell&#39;ambiente&quot;. | **18 luglio alle 9:00 MT** | [Registra](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **EXPERIENCE MANAGER, EXPERIENCE MANAGER ASSETS E EXPERIENCE MANAGER SITES** | Webinar | _Espressos &amp; Experience Manager: Agilità digitale con AEM_ | Scopri le innovazioni più recenti di AEM Sites e Assets che rendono l’AEM la soluzione ideale per le sfide più comuni nello spazio CMS. Esploreremo l’editor universale, l’authoring basato su headless e documenti e l’interfaccia utente di Assets. | **18 luglio alle 11:00 MT** | [Registrati](https://adobeevents.adobeconnect.com/ev3w9wtf5th2/event/registration.html?campaign-id=ExL)
+* **EXPERIENCE MANAGER, EXPERIENCE MANAGER ASSETS E EXPERIENCE MANAGER SITES** | Webinar | _Espressos &amp; Experience Manager: Agilità digitale con AEM_ | Scopri le innovazioni più recenti di AEM Sites e Assets che rendono l’AEM la soluzione ideale per le sfide più comuni nello spazio CMS. Esploreremo l’editor universale, l’authoring basato su headless e documenti e l’interfaccia utente di Assets. | **18 luglio alle 11:00 MT** | [Registra](https://adobeevents.adobeconnect.com/ev3w9wtf5th2/event/registration.html?campaign-id=ExL)
 
 E altro ancora! Visualizza tutti i [prossimi eventi](https://experienceleague.adobe.com/events/?lang=it) o sfoglia le [registrazioni degli eventi passati](https://experienceleague.adobe.com/it/docs/events/experience-league-recorded-events/overview) in Experience League.
 +++
