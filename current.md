@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 936f9884f1a75fbd55abdcfbbfa0fdbaa2415e44
+source-git-commit: 2af1f8d226d3fc7e0f1157179444ef2fdd483f1d
 workflow-type: tm+mt
-source-wordcount: '3681'
-ht-degree: 47%
+source-wordcount: '3640'
+ht-degree: 44%
 
 ---
 
@@ -71,17 +71,17 @@ Aggiornato il **giovedì 17 luglio 2024**
 
 +++Dettagli
 
-* **[!DNL WORKFRONT]** | Workshop per i clienti | _Informazioni: Aggiornamento della versione di Adobe Workfront del 3° trimestre 2024 + Promozione ambiente_ | Unisciti a noi per la sessione di revisione trimestrale delle versioni, in cui discutiamo delle funzioni e dei vantaggi delle ultime versioni. In questa sessione parleremo anche dell&#39;attesissima funzionalità di &quot;Promozione dell&#39;ambiente&quot;. | **18 luglio alle 9:00 MT** | [Registra](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Workshop per i clienti | _Informazioni: Adobe [!DNL Workfront], Versione Del 3° Trimestre 2024 + Promozione Dell&#39;Ambiente_ | Unisciti a noi per la sessione di revisione trimestrale delle versioni, in cui discutiamo delle funzioni e dei vantaggi delle ultime versioni. In questa sessione parleremo anche dell&#39;attesissima funzionalità di &quot;Promozione dell&#39;ambiente&quot;. | **18 luglio alle 9:00 MT** | [Registra](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER], [!DNL EXPERIENCE MANAGER ASSETS] E[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Espressos &amp; Experience Manager: Agilità digitale con AEM_ | Scopri le innovazioni più recenti di AEM Sites e Assets che rendono l’AEM la soluzione ideale per le sfide più comuni nello spazio CMS. Esploreremo l’editor universale, l’authoring basato su headless e documenti e l’interfaccia utente di Assets. | **18 luglio alle 11:00 MT** | [Registra](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **[!DNL EXPERIENCE MANAGER], [!DNL EXPERIENCE MANAGER ASSETS] E[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Espressos e [!DNL Experience Manager:]: Agilità digitale con AEM_ | Scopri le innovazioni più recenti di AEM Sites e Assets che rendono l’AEM la soluzione ideale per le sfide più comuni nello spazio CMS. Esploreremo l’editor universale, l’authoring basato su headless e documenti e l’interfaccia utente di Assets. | **18 luglio alle 11:00 MT** | [Registra](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
-* **[!DNL WORKFRONT]** | Evento community | _Connetti: Collettivo Workfront_ | Partecipa ogni mese alle riunioni collettive Workfront di lunedì, progettate per entrare in contatto con altri clienti, discutere le caratteristiche di Workfront, condividere idee e brainstorm insieme per risolvere le problematiche comuni. | **22 luglio alle 7:00 MT** | [Registra](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Evento community | _Connessione: [!DNL Workfront] Collettivo_ | Partecipa alle riunioni collettive del lunedì [!DNL Workfront] mensili, progettate per entrare in contatto con altri clienti, discutere le funzionalità di [!DNL Workfront], condividere idee e discutere insieme per risolvere le problematiche comuni. | **22 luglio alle 7:00 MT** | [Registra](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Workshop per i clienti | _Informazioni sui clienti: utilizzo di Workfront per le organizzazioni_ | Partecipa a una presentazione della durata di un&#39;ora con i clienti e gli ex clienti che condividono la loro esperienza e raccomandazioni su come utilizzare Workfront per assistere i cambiamenti strutturali e di processo dei registri aziendali. | **23 luglio alle 9:00 MT** | [Registra](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Workshop per i clienti | _Scopri con i clienti: utilizzo di [!DNL Workfront] per le organizzazioni_ | Partecipa a una presentazione della durata di un&#39;ora con i clienti e gli ex clienti che condividono la loro esperienza e raccomandazioni sull&#39;utilizzo di [!DNL Workfront] per assistere i cambiamenti strutturali e di processo dei registri organizzativi. | **23 luglio alle 9:00 MT** | [Registra](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL MARKETO AND MARKETO ENGAGE]** | Webinar | _Marketo e Mochas: gettare le basi - Parte 1_ della maturità | Unisciti ai consulenti aziendali di Adobe e scopri come sviluppare al meglio l’utilizzo di Marketo per la tua organizzazione. Esamineremo tutto, dalla governance delle istanze alla libreria dei programmi, che ospita diversi programmi per avviare la creazione del programma. | **25 luglio alle 11:00 MT** | [Registra](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
-* **[!DNL WORKFRONT]** | Webinar | _Chiedi all&#39;Assistenza clienti Workfront - Risoluzione dei problemi relativi alle espressioni calcolate_ | Unisciti al team dell’Assistenza clienti di Workfront per un’ora sulle espressioni calcolate. Tra esempi comuni, suggerimenti per la risoluzione dei problemi, insegnamenti chiave e una demo live, non perderai questa sessione. | **31 luglio alle 9:00 MT** | [Registra](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Webinar | _Chiedi A [!DNL Workfront] Assistenza Clienti - Risoluzione Dei Problemi Relativi Alle Espressioni Calcolate_ | Partecipa al team dell&#39;Assistenza clienti [!DNL Workfront] per un&#39;ora sulle espressioni calcolate. Tra esempi comuni, suggerimenti per la risoluzione dei problemi, insegnamenti chiave e una demo live, non perderai questa sessione. | **31 luglio alle 9:00 MT** | [Registra](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 E altro ancora! Visualizza tutti i [prossimi eventi](https://experienceleague.adobe.com/events/?lang=it) o sfoglia le [registrazioni degli eventi passati](https://experienceleague.adobe.com/it/docs/events/experience-league-recorded-events/overview) in Experience League.
 
@@ -247,9 +247,9 @@ Trova le informazioni sulla versione più recente di [!DNL Streaming Media Analy
 
 +++
 
-## ![Icona](/assets/aem.png) Adobe Experience Manager {#aem}
+## ![Icona](/assets/aem.png) Adobe [!DNL Experience Manager:] {#aem}
 
-Nuove funzioni, correzioni e aggiornamenti di Experience Manager. Ai clienti con implementazioni on-premise, Adobe consiglia di implementare le ultime patch in modo da garantire stabilità, protezione e prestazioni migliori.
+Nuove funzioni, correzioni e aggiornamenti di [!DNL Experience Manager:]. Ai clienti con implementazioni on-premise, Adobe consiglia di implementare le ultime patch in modo da garantire stabilità, protezione e prestazioni migliori.
 
 +++Dettagli
 
@@ -257,19 +257,19 @@ Nuove funzioni, correzioni e aggiornamenti di Experience Manager. Ai clienti con
 
 Nelle pagine seguenti trovi tutte le note sulla versione di [!DNL Experience Manager]
 
-* [Aggiornamenti e roadmap delle versioni di Experience Manager](https://experienceleague.adobe.com/it/docs/experience-manager-release-information/aem-release-updates/home): scopri la roadmap delle versioni di Experience Manager, gli aggiornamenti sulle versioni precedenti e quelli sulla documentazione.
-* [Note sulla versione attuale di Experience Manager as a Cloud Service](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [Note sulla versione di Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes)
-* [Note sulla versione di Experience Manager Cloud Manager](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-manager/content/release-notes/current)
+* [[!DNL Experience Manager:] aggiornamenti e roadmap delle versioni](https://experienceleague.adobe.com/it/docs/experience-manager-release-information/aem-release-updates/home) - Scopri la roadmap delle versioni di [!DNL Experience Manager:], aggiornamenti delle versioni precedenti e aggiornamenti della documentazione.
+* [Note sulla versione corrente per [!DNL Experience Manager:] as a Cloud Service](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
+* [[!DNL Experience Manager:] 6.5 Service Pack - Note sulla versione](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes)
+* [[!DNL Experience Manager:] Note sulla versione di Cloud Manager](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Note sulla versione del Servizio di conversione automatica dei moduli](https://experienceleague.adobe.com/it/docs/aem-forms-automated-conversion-service/using/release-notes)
-* [Note sulla versione di Experience Manager Assets Dynamic Media](https://experienceleague.adobe.com/it/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
-* [Note sulla versione di Experience Manager Brand Portal](https://experienceleague.adobe.com/it/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
-* [Note sulla versione dell’app desktop Experience Manager](https://experienceleague.adobe.com/it/docs/experience-manager-desktop-app/using/release-notes)
-* [Note sulla versione di Experience Manager Dispatcher](https://experienceleague.adobe.com/it/docs/experience-manager-dispatcher/using/getting-started/release-notes)
+* [[!DNL Experience Manager:] Note sulla versione di Assets Dynamic Medie](https://experienceleague.adobe.com/it/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
+* [[!DNL Experience Manager:] Note sulla versione di Brand Portal](https://experienceleague.adobe.com/it/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
+* [[!DNL Experience Manager:] Note sulla versione app desktop](https://experienceleague.adobe.com/it/docs/experience-manager-desktop-app/using/release-notes)
+* [[!DNL Experience Manager:] Note sulla versione di Dispatcher](https://experienceleague.adobe.com/it/docs/experience-manager-dispatcher/using/getting-started/release-notes)
 
-### Nuovi tutorial su [!DNL Experience Manager] {#tutorials-aem}
+### Nuovi tutorial su[!DNL Experience Manager] {#tutorials-aem}
 
-Nuovi tutorial su [!DNL Experience Manager] in Experience Manager.
+Nuovi tutorial pubblicati per [!DNL Experience Manager] il [!DNL Experience Manager:].
 
 | Pubblicato | Applicazioni | Nome | Tipo | Descrizione |
 | ----------| ---------- | ---------- | ---------- |---------- |
@@ -513,9 +513,9 @@ Scopri le note sulla versione più recente di [!DNL Adobe Workfront]. Trova nuov
 
 ### Aggiornamenti su [!DNL Adobe Workfront]
 
-* Consulta la pagina [Versioni dei prodotti Adobe Workfront](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/product-releases) per informazioni sulla pianificazione delle versioni e sulle note sulla versione di Workfront.
+* Per informazioni sulla pianificazione della versione di [!DNL Workfront] e le relative note sulla versione, consulta la pagina [Adobe [!DNL Workfront] release del prodotto](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/product-releases).
 
-* Consulta [Panoramica dell’attività di rilascio di Adobe Workfront Fusion](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) per informazioni aggiornate su Fusion.
+* Per informazioni aggiornate su Fusion, consulta la [panoramica dell&#39;attività di rilascio di Adobe [!DNL Workfront] Fusion](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity).
 
 ### Nuovi tutorial di Adobe [!DNL Workfront] {#tutorials-workfront}
 
@@ -523,13 +523,13 @@ Nuovi tutorial di [!DNL Workfront] ed eventi su Experience League.
 
 | Pubblicato | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
-| Luglio 2024 | [Gestione lavoro non pianificato](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work) | Video | Scopri come gestire il lavoro non pianificato con Adobe Workfront. |
+| Luglio 2024 | [Gestione lavoro non pianificato](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work) | Video | Scopri come gestire il lavoro non pianificato con Adobe [!DNL Workfront]. |
 | Luglio 2024 | [Compilare i dettagli del progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details) | Video | Scopri le impostazioni di progetto più comuni necessarie per creare un progetto. |
 | Luglio 2024 | [Scopri come sequenziare le attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks) | Video | Scopri cos’è un predecessore e come sequenziano le attività in un progetto. Poi scopri come utilizzare le durate e i predecessori per creare una timeline. |
 | Luglio 2024 | [Comprendere le ore pianificate](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours) | Video | Scopri cosa sono le ore pianificate, perché le ore pianificate sono importanti per il tuo progetto e come aggiungere ore pianificate alle attività. |
 | Luglio 2024 | [Fai una richiesta](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/make-a-request) | Video | Scopri come trovare l’area Richieste e effettuare una richiesta. Poi scopri come visualizzare le richieste inviate e le bozze. |
-| Luglio 2024 | [Aggiornare una richiesta](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request) | Video | Scopri come trovare le richieste inviate ed effettuarne un aggiornamento in Workfront. |
-| Luglio 2024 | [Best Practice - Pianificazioni](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/best-practices/schedules-bp) | Video | Esplora le best practice consigliate dagli esperti Adobe Workfront in merito all’impostazione, alla gestione e all’utilizzo delle pianificazioni di Workfront. |
+| Luglio 2024 | [Aggiornare una richiesta](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request) | Video | Scopri come trovare le richieste inviate e aggiornarle in [!DNL Workfront]. |
+| Luglio 2024 | [Best Practice - Pianificazioni](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/best-practices/schedules-bp) | Video | Esplora i consigli sulle best practice forniti dagli esperti Adobe [!DNL Workfront] in merito all&#39;impostazione, alla gestione e all&#39;utilizzo delle pianificazioni di [!DNL Workfront]. |
 
 {style="table-layout:auto"}
 
