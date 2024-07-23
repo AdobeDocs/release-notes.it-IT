@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ef4b1f6c217c9aedcbe2aed16526190bb26fc81e
+source-git-commit: 7f6fded5411ad9eb451cec9529ec3400a9b15e1b
 workflow-type: tm+mt
-source-wordcount: '3577'
-ht-degree: 43%
+source-wordcount: '3536'
+ht-degree: 44%
 
 ---
 
@@ -32,7 +32,7 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 ## Luglio 2024
 
-Ultimo aggiornamento: **giovedì 17 luglio 2024**
+Ultimo aggiornamento: **mercoledì 23 luglio 2024**
 
 * [Eventi e aggiornamenti di [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -71,17 +71,15 @@ Aggiornato il **giovedì 17 luglio 2024**
 
 +++Dettagli
 
-* **[!DNL WORKFRONT]** | Workshop per i clienti | _Informazioni: Adobe [!DNL Workfront], Versione Del 3° Trimestre 2024 + Promozione Dell&#39;Ambiente_ | Unisciti a noi per la sessione di revisione trimestrale delle versioni, in cui discutiamo delle funzioni e dei vantaggi delle ultime versioni. In questa sessione parleremo anche dell&#39;attesissima funzionalità di &quot;Promozione dell&#39;ambiente&quot;. | **18 luglio alle 9:00 MT** | [Registra](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL EXPERIENCE MANAGER], [!DNL EXPERIENCE MANAGER ASSETS] E[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Espressos e [!DNL Experience Manager:]: Agilità digitale con AEM_ | Scopri le innovazioni più recenti di AEM Sites e Assets che rendono l’AEM la soluzione ideale per le sfide più comuni nello spazio CMS. Esploreremo l’editor universale, l’authoring basato su headless e documenti e l’interfaccia utente di Assets. | **18 luglio alle 11:00 MT** | [Registra](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
-* **[!DNL WORKFRONT]** | Evento community | _Connessione: [!DNL Workfront] Collettivo_ | Partecipa alle riunioni collettive del lunedì [!DNL Workfront] mensili, progettate per entrare in contatto con altri clienti, discutere le funzionalità di [!DNL Workfront], condividere idee e discutere insieme per risolvere le problematiche comuni. | **22 luglio alle 7:00 MT** | [Registra](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | Workshop per i clienti | _Scopri con i clienti: utilizzo di [!DNL Workfront] per le organizzazioni_ | Partecipa a una presentazione della durata di un&#39;ora con i clienti e gli ex clienti che condividono la loro esperienza e raccomandazioni sull&#39;utilizzo di [!DNL Workfront] per assistere i cambiamenti strutturali e di processo dei registri organizzativi. | **23 luglio alle 9:00 MT** | [Registra](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL MARKETO AND MARKETO ENGAGE]** | Webinar | _Marketo e Mochas: gettare le basi - Parte 1_ della maturità | Unisciti ai consulenti aziendali di Adobe e scopri come sviluppare al meglio l’utilizzo di Marketo per la tua organizzazione. Esamineremo tutto, dalla governance delle istanze alla libreria dei programmi, che ospita diversi programmi per avviare la creazione del programma. | **25 luglio alle 11:00 MT** | [Registra](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **[!DNL WORKFRONT]** | Webinar | _Chiedi A [!DNL Workfront] Assistenza Clienti - Risoluzione Dei Problemi Relativi Alle Espressioni Calcolate_ | Partecipa al team dell&#39;Assistenza clienti [!DNL Workfront] per un&#39;ora sulle espressioni calcolate. Tra esempi comuni, suggerimenti per la risoluzione dei problemi, insegnamenti chiave e una demo live, non perderai questa sessione. | **31 luglio alle 9:00 MT** | [Registra](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL COMMERCE]** | Webinar | _Commerce e caffè: strategie per il successo dell&#39;eCommerce B2B_ | Corey Gelato, Sr. Commerce Strategy Consultant, illustra alcune delle tendenze e delle strategie di e-commerce B2B più incisive che i clienti possono sfruttare in Adobe Commerce. | **1 agosto alle 11:00 MT** | [Registra](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Evento community | _Connetti: Chat con gli amministratori per marketing e creatività_ | Sei un amministratore di sistema per un team di marketing o creativo? Questa sessione orientata al cliente metterà in contatto te ad altri amministratori, per discutere di best practice, suggerimenti e strategie. | **2 agosto alle 10:00 MT** | [Registra](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 E altro ancora! Visualizza tutti i [prossimi eventi](https://experienceleague.adobe.com/events/?lang=it) o sfoglia le [registrazioni degli eventi passati](https://experienceleague.adobe.com/it/docs/events/experience-league-recorded-events/overview) in Experience League.
 
