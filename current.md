@@ -9,11 +9,11 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: ce3509b0e50a2febbd002d677bf31282c42684dd
 workflow-type: tm+mt
 source-wordcount: '3621'
-ht-degree: 43%
+ht-degree: 93%
 
 ---
 
-# Note sulla versione di Experience Cloud - Luglio 2024
+# Note sulla versione di Experience Cloud, luglio 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,7 +36,7 @@ Ultimo aggiornamento: **mercoledì 23 luglio 2024**
 
 * [Eventi e aggiornamenti di [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
-* [Interfaccia centale e amministrazione di [!DNL Adobe Experience Cloud]](#ecloud)
+* [[!DNL Adobe Experience Cloud]: interfaccia centale e amministrazione](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (17 luglio)
@@ -58,7 +58,7 @@ Ultimo aggiornamento: **mercoledì 23 luglio 2024**
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Customer Data Management - Voices](#voices)
 * [Blueprint di esperienze digitali](#blueprints)
-* [Certificazione all&#39;Adobe](https://experienceleague.adobe.com/it/docs/certification/program/overview)
+* [Certificazione in Adobe](https://https://experienceleague.adobe.com/it/docs/certification/program/overview)
 * [Vulnerabilità di sicurezza del prodotto Adobe](https://helpx.adobe.com/it/security.html)
 
 ## ![Icona](/assets/experience-league.png) [!DNL Experience League] eventi e aggiornamenti {#events}
@@ -71,7 +71,7 @@ Aggiornato il **sabato 26 luglio 2024**
 
 +++Dettagli
 
-* **[!DNL WORKFRONT]** | Webinar | _Chiedi A [!DNL Workfront] Assistenza Clienti - Risoluzione Dei Problemi Relativi Alle Espressioni Calcolate_ | Partecipa al team dell&#39;Assistenza clienti [!DNL Workfront] per un&#39;ora sulle espressioni calcolate. Tra esempi comuni, suggerimenti per la risoluzione dei problemi, insegnamenti chiave e una demo live, non perderai questa sessione. | **31 luglio alle 9:00 MT** | [Registra](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Webinar | _Chiedi A [!DNL Workfront] Assistenza Clienti - Risoluzione Dei Problemi Relativi Alle Espressioni Calcolate_ | Partecipa al team dell&#39;Assistenza clienti [!DNL Workfront] per un&#39;ora sulle espressioni calcolate. Tra esempi comuni, suggerimenti per la risoluzione dei problemi, insegnamenti chiave e una demo live, non perderai questa sessione. | **31 luglio @ 9:00 AM MT** | [Registrati](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL COMMERCE]** | Webinar | _Commerce e caffè: strategie per il successo dell&#39;eCommerce B2B_ | Corey Gelato, Sr. Commerce Strategy Consultant, illustra alcune delle tendenze e delle strategie di e-commerce B2B più incisive che i clienti possono sfruttare in Adobe Commerce. | **1 agosto alle 11:00 MT** | [Registra](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
 
@@ -136,10 +136,10 @@ Nuovi tutorial pubblicati su Adobe [!DNL Experience Platform] in Experience Leag
 
 | Pubblicato | Applicazioni | Nome | Tipo | Descrizione |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| Luglio 2024 | [!DNL Experience Platform], [!DNL Real-Time CDP], [!DNL Journey Optimizer], [!DNL Customer Journey Analytics] | [Assistente IA](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/admin/ai-assistant) | Video | Scopri cosa puoi fare con AI Assistant nelle applicazioni basate su Adobe Experience Platform come Real-time Customer Data Platform, Journey Optimizer e Customer Journey Analytics. |
-| Luglio 2024 | [!DNL Experience Platform] | [Elimina set di dati e batch](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/data-hygiene/delete-datasets-and-batches) | Video | Scopri come eliminare set di dati e batch in Adobe Experience Platform. |
-| Luglio 2024 | [!DNL Experience Platform] | [Elimina profili](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/profiles/delete-profiles) | Video | Scopri come eliminare i dati dall’archivio profili di utilizzando l’API Profilo cliente in tempo reale. |
-| Luglio 2024 | [!DNL Experience Platform] | [Configurare le chiavi gestite dal cliente](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/privacy/set-up-customer-managed-keys) | Video | Gestire la crittografia data-at-rest utilizzando le proprie chiavi di crittografia. |
+| Luglio 2024 | [!DNL Experience Platform], [!DNL Real-Time CDP], [!DNL Journey Optimizer], [!DNL Customer Journey Analytics] | [Assistente IA](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/admin/ai-assistant) | Video | Scopri cosa puoi fare con AI Assistant nelle applicazioni basate su Adobe Experience Platform come Real-time Customer Data Platform, Journey Optimizer e Customer Journey Analytics. |
+| Luglio 2024 | [!DNL Experience Platform] | [Eliminare set di dati e batch](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/data-hygiene/delete-datasets-and-batches) | Video | Scopri come eliminare i set di dati e batch in Adobe Experience Platform. |
+| Luglio 2024 | [!DNL Experience Platform] | [Elimina profili](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/profiles/delete-profiles) | Video | Scopri come eliminare i dati dall’Archivio profili utilizzando l’API Profilo cliente in tempo reale. |
+| Luglio 2024 | [!DNL Experience Platform] | [Configurare le chiavi gestite dal cliente (CMK)](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/privacy/set-up-customer-managed-keys) | Video | Gestire la crittografia data-at-rest utilizzando le proprie chiavi di crittografia. |
 
 {style="table-layout:auto"}
 
@@ -173,7 +173,7 @@ Trova le informazioni sulla versione più recente di [!DNL Adobe Analytics] e [!
 
 +++Dettagli
 
-Data di rilascio di [!DNL Analytics]: **giovedì 17 luglio 2024**
+Data di rilascio di [!DNL Analytics]: **17 luglio 2024**
 
 * [Note sulla versione](https://experienceleague.adobe.com/it/docs/analytics/release-notes/latest) di [!DNL Analytics]
 
@@ -191,10 +191,10 @@ Nuovi tutorial pubblicati su Adobe [!DNL Analytics] in Experience League.
 
 | Pubblicato | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
-| Luglio 2024 | [Creare collegamenti ipertestuali nelle tabelle a forma libera](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables) | Video | Scopri come creare collegamenti ipertestuali per uno o più elementi dimensionali, rendendoli cliccabili all’interno di una tabella a forma libera in Analysis Workspace. |
-| Luglio 2024 | [Utilizzare filtri a discesa a selezione multipla](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters) | Video | Scopri l’opzione di selezione multipla dei campi nei filtri a discesa in Analysis Workspace, che consente agli utenti di visualizzare i dati da qualsiasi campo selezionato. |
-| Luglio 2024 | [Panoramica delle classificazioni in Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/overview-of-classifications) | Video aggiornato | Scopri come utilizzare le classificazioni per aggiungere metadati (attributi descrittivi) ai tuoi prodotti, campagne, pagine, clienti e altro ancora. Questi attributi possono aiutarti a comprendere meglio le tue attività di marketing ed esperienza consentendoti di raggruppare elementi simili e suddividere i dati per immergerti in ciò che è e non funziona per te. |
-| Luglio 2024 | [Creazione di un sommario in Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace) | Video | Scopri il sommario in Analysis Workspace, che fornisce collegamenti che consentono agli utenti di passare a pannelli e visualizzazioni all’interno del progetto. |
+| Luglio 2024 | [Creare collegamenti ipertestuali nelle tabelle a forma libera](https://experienceleague.adobe.com/it/docs/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables) | Video | Scopri come creare collegamenti ipertestuali per uno o più elementi dimensionali, rendendoli cliccabili all’interno di una tabella a forma libera in Analysis Workspace. |
+| Luglio 2024 | [Utilizzare filtri a discesa a selezione multipla](https://experienceleague.adobe.com/it/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters) | Video | Informazioni sull’opzione di selezione multipla dei campi nei filtri a discesa in Analysis Workspace, che consente agli utenti di visualizzare i dati da qualsiasi campo selezionato. |
+| Luglio 2024 | [Panoramica delle classificazioni in Adobe Analytics](https://experienceleague.adobe.com/it/docs/analytics-learn/tutorials/components/classifications/overview-of-classifications) | Video aggiornato | Informazioni su come utilizzare le classificazioni per aggiungere metadati (attributi descrittivi) ai tuoi prodotti, campagne, pagine, clienti e altro ancora. Questi attributi possono aiutarti a comprendere meglio i tuoi sforzi di marketing ed esperienza consentendoti di raggruppare elementi simili e suddividere i dati per immergerti in ciò che funziona e non funziona per te. |
+| Luglio 2024 | [Creazione di un sommario in Analysis Workspace](https://experienceleague.adobe.com/it/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace) | Video | Informazioni sul sommario in Analysis Workspace, che fornisce collegamenti che consentono agli utenti di passare a pannelli e visualizzazioni all’interno del progetto. |
 
 {style="table-layout:auto"}
 
@@ -217,7 +217,7 @@ Trova le informazioni sulla versione più recente di [!DNL Customer Journey Anal
 
 +++Dettagli
 
-Data di rilascio di [!DNL Customer Journey Analytics]: **giovedì 17 luglio 2024**
+Data di rilascio di [!DNL Customer Journey Analytics]: **17 luglio 2024**
 
 * [Note sulla versione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/releases/latest#releases) di [!DNL Customer Journey Analytics]
 
@@ -229,11 +229,11 @@ Nuovi tutorial pubblicati per [!DNL Customer Journey Analytics].
 
 | Pubblicato | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
-| Luglio 2024 | [Generazione rapporti migliorata per Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer) | Video | Scopri le nuove funzioni di reporting e misurazione dell’orchestrazione di Adobe Journey Optimizer. Questi miglioramenti includono anche una maggiore interoperabilità e un valore aggiunto con il Customer Journey Analytics attraverso origini dati aggiuntive, personalizzazione avanzata, manipolazione dei dati, analisi e altro ancora. |
-| Luglio 2024 | [Sblocca informazioni avanzate nei campi derivati](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/use-the-next-previous-function-in-derived-fields) | Video | Scopri come utilizzare la funzione **[!UICONTROL Successivo o Precedente]** nel Customer Journey Analytics per creare campi derivati complessi che migliorano l’analisi dei dati. |
-| Luglio 2024 | [Regolare le metriche utilizzando la funzione matematica nei campi derivati](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/use-the-math-function-in-derived-fields) | Video | Scopri il potenziale dell’utilizzo delle funzioni matematiche per la creazione di campi derivati nel Customer Journey Analytics, in questa esercitazione video. |
-| Luglio 2024 | [Analisi dell&#39;engagement delle funzionalità](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/guided-analysis/feature-matrix/feature-engagement) | Video | Scopri come utilizzare la vista di coinvolgimento delle funzioni in Adobe Product Analytics. Questa analisi fornisce informazioni sulla frequenza di utilizzo delle funzioni del prodotto rispetto al numero di persone che le utilizzano. Confrontare più funzioni contemporaneamente per ottenere vantaggi ottimali. |
-| Luglio 2024 | [Analisi tassi di mantenimento](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/guided-analysis/retention/retention-rates-analysis) | Video | Scopri come utilizzare gli eventi di inizio e ritorno per misurare in modo efficace il coinvolgimento e la fidelizzazione degli utenti. |
+| Luglio 2024 | [Reportistica migliorata per Adobe Journey Optimizer](https://experienceleague.adobe.com/it/docs/customer-journey-analytics-learn/tutorials/experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer) | Video | Informazioni sulle nuove funzioni di reporting e misurazione dell’orchestrazione di Adobe Journey Optimizer. Questi miglioramenti includono anche una maggiore interoperabilità e valore aggiunto con Customer Journey Analytics attraverso origini dati aggiuntive, personalizzazione avanzata, manipolazione dei dati, analisi e altro ancora. |
+| Luglio 2024 | [Sblocca informazioni avanzate nei campi derivati](https://experienceleague.adobe.com/it/docs/customer-journey-analytics-learn/tutorials/data-views/use-the-next-previous-function-in-derived-fields) | Video | Scopri come utilizzare la funzione **[!UICONTROL Successivo o Precedente]** in Customer Journey Analytics per creare campi derivati complessi che migliorano l’analisi dei dati. |
+| Luglio 2024 | [Regolare le metriche utilizzando la funzione matematica nei campi derivati](https://experienceleague.adobe.com/it/docs/customer-journey-analytics-learn/tutorials/data-views/use-the-math-function-in-derived-fields) | Video | In questo video tutorial, scopri il potenziale dell’utilizzo delle funzioni matematiche per la creazione di campi derivati in Customer Journey Analytics. |
+| Luglio 2024 | [Analisi di coinvolgimento delle funzioni](https://experienceleague.adobe.com/it/docs/customer-journey-analytics-learn/tutorials/guided-analysis/feature-matrix/feature-engagement) | Video | Scopri come utilizzare la vista di coinvolgimento delle funzioni in Adobe Product Analytics. Questa analisi fornisce informazioni sulla frequenza di utilizzo delle funzioni del prodotto rispetto al numero di persone che le utilizzano. Confronta più funzioni contemporaneamente per ottenere vantaggi ottimali. |
+| Luglio 2024 | [Analisi tassi di mantenimento](https://experienceleague.adobe.com/it/docs/customer-journey-analytics-learn/tutorials/guided-analysis/retention/retention-rates-analysis) | Video | Scopri come utilizzare gli eventi di inizio e ritorno per misurare in modo efficace il coinvolgimento e la fidelizzazione degli utenti. |
 
 {style="table-layout:auto"}
 +++
@@ -252,7 +252,7 @@ Trova le informazioni sulla versione più recente di [!DNL Streaming Media Analy
 
 ## ![Icona](/assets/aem.png) Adobe [!DNL Experience Manager:] {#aem}
 
-Nuove funzioni, correzioni e aggiornamenti di [!DNL Experience Manager:]. Ai clienti con implementazioni on-premise, Adobe consiglia di implementare le ultime patch in modo da garantire stabilità, protezione e prestazioni migliori.
+Nuove funzioni, correzioni e aggiornamenti di [!DNL Experience Manager:]. Ai clienti con implementazioni On-premise, Adobe consiglia di implementare le ultime patch in modo da garantire stabilità, protezione e prestazioni migliori.
 
 +++Dettagli
 
@@ -260,34 +260,34 @@ Nuove funzioni, correzioni e aggiornamenti di [!DNL Experience Manager:]. Ai cli
 
 Nelle pagine seguenti trovi tutte le note sulla versione di [!DNL Experience Manager]
 
-* [[!DNL Experience Manager:] aggiornamenti e roadmap delle versioni](https://experienceleague.adobe.com/it/docs/experience-manager-release-information/aem-release-updates/home) - Scopri la roadmap delle versioni di [!DNL Experience Manager:], aggiornamenti delle versioni precedenti e aggiornamenti della documentazione.
-* [Note sulla versione corrente per [!DNL Experience Manager:] as a Cloud Service](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [[!DNL Experience Manager:] 6.5 Service Pack - Note sulla versione](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes)
+* [[!DNL Experience Manager:] Aggiornamenti e roadmap della versione](https://experienceleague.adobe.com/it/docs/experience-manager-release-information/aem-release-updates/home): informazioni sulla roadmap della versione, sugli aggiornamenti della versione precedente e sulla documentazione di [!DNL Experience Manager:].
+* [Note sulla versione attuale di  [!DNL Experience Manager:]  as a Cloud Service](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
+* [[!DNL Experience Manager:] Note sulla versione di Service Pack 6.5](https://experienceleague.adobe.com/it/docs/experience-manager-65/content/release-notes/release-notes)
 * [[!DNL Experience Manager:] Note sulla versione di Cloud Manager](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-manager/content/release-notes/current)
-* [Note sulla versione del Servizio di conversione automatica dei moduli](https://experienceleague.adobe.com/it/docs/aem-forms-automated-conversion-service/using/release-notes)
-* [[!DNL Experience Manager:] Note sulla versione di Assets Dynamic Medie](https://experienceleague.adobe.com/it/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
+* [Note sulla versione del Servizio automated forms conversion](https://experienceleague.adobe.com/it/docs/aem-forms-automated-conversion-service/using/release-notes)
+* [[!DNL Experience Manager:] Note sulla versione di di Assets Dynamic Media](https://experienceleague.adobe.com/it/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
 * [[!DNL Experience Manager:] Note sulla versione di Brand Portal](https://experienceleague.adobe.com/it/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
-* [[!DNL Experience Manager:] Note sulla versione app desktop](https://experienceleague.adobe.com/it/docs/experience-manager-desktop-app/using/release-notes)
+* [[!DNL Experience Manager:] Note sulla versione dell’app desktop](https://experienceleague.adobe.com/it/docs/experience-manager-desktop-app/using/release-notes)
 * [[!DNL Experience Manager:] Note sulla versione di Dispatcher](https://experienceleague.adobe.com/it/docs/experience-manager-dispatcher/using/getting-started/release-notes)
 
-### Nuovi tutorial su[!DNL Experience Manager] {#tutorials-aem}
+### Nuovi tutorial su [!DNL Experience Manager] {#tutorials-aem}
 
-Nuovi tutorial pubblicati per [!DNL Experience Manager] il [!DNL Experience Manager:].
+Nuovi tutorial pubblicati per [!DNL Experience Manager] su [!DNL Experience Manager:].
 
 | Pubblicato | Applicazioni | Nome | Tipo | Descrizione |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| Luglio 2024 | AEM CS | [Reindirizzamenti URL](https://experienceleague.adobe.com/en/docs/experience-manager-learn/foundation/administration/url-redirection) | Video | Il reindirizzamento URL è un aspetto comune nell’ambito delle operazioni sul sito web. Gli architetti e gli amministratori devono trovare la soluzione migliore per gestire i reindirizzamenti URL che offrano flessibilità e tempi di reindirizzamento rapidi. |
-| Luglio 2024 | AEM Sites | [Importazione in blocco tramite Importer](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/bulk-importing-using-importer) | Video | Scopri come importare in blocco le pagine web utilizzando lo strumento AEM Importer durante la migrazione del sito. |
-| Luglio 2024 | AEM Sites | [Utilizzo di Dynamic Medie nei Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/using-dynamic-media) | Video | Scopri come utilizzare Dynamic Medie nei Edge Delivery Services per ottimizzare la distribuzione di immagini e video. |
-| Luglio 2024 | AEM Sites | [Personalizzazione dell&#39;importazione](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/customizing-importer) | Video | Scopri come personalizzare la funzione di importazione dell’AEM per massimizzare l’efficienza e l’accuratezza durante la migrazione di un sito all’authoring di documenti con i Edge Delivery Services. |
-| Luglio 2024 | AEM Sites | [Migrazione al servizio Edge Delivery tramite Importer](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/migration-using-importer) | Video | Scopri come utilizzare e configurare lo strumento AEM Importer per migrare i siti creati con documenti in Edge Delivery Services. |
-| Luglio 2024 | AEM Sites | [Esplorazione dell&#39;editor universale](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-exploring-universal-editor) | Video | Dirk Rudolph, ingegnere dell&#39;AEM, è intervistato sul Universal Editor e su come funziona con i Edge Delivery Services e l&#39;AEM. |
-| Luglio 2024 | AEM Sites | [Cloud 5: Real User Monitoring (RUM)](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-rum) | Video | Esplora le nuove funzionalità nel dashboard analitico di Real Use Monitor e come accedervi. |
-| Luglio 2024 | AEM Sites | [Autenticazione autore](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/author-authentication) | Video | Scopri come configurare l’autenticazione dell’autore tramite AEM Sidekick nell’authoring dei documenti con i Edge Delivery Services. |
-| Luglio 2024 | AEM Forms | [Guida introduttiva ad AEM Forms Workbench](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/forms-workbench/workbench-introduction) | Video | Scopri come utilizzare l’interfaccia di AEM Forms Workbench. |
-| Luglio 2024 | AEM Forms | [Creazione di un nuovo componente core in AEM Forms](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/create-address-block/introduction) | Video | Crea un componente blocco di indirizzi. Il componente blocco di indirizzi contiene campi per acquisire l’indirizzo stradale, la città, lo stato e il codice postale. |
-| Luglio 2024 | AEM Forms | [Creazione di un processo di moduli semplici in Workbench](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/forms-workbench/workbench-creating-a-process) | Video | Scopri come creare un semplice processo di modulo in Workbench. |
-| Luglio 2024 | AEM Forms | [Processo Workbench registrazione e riproduzione](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/forms-workbench/workbench-recording-and-testing-process) | Video | Scopri come eseguire il debug del processo Forms in Workbench. |
+| Luglio 2024 | AEM CS | [Reindirizzamenti URL](https://experienceleague.adobe.com/it/docs/experience-manager-learn/foundation/administration/url-redirection) | Video | Il reindirizzamento URL è un aspetto comune come parte delle operazioni sul sito web. Gli architetti e gli amministratori devono trovare la soluzione migliore per gestire i reindirizzamenti URL, inclusa la loro posizione, in modo da offrire flessibilità e tempi di reindirizzamento rapidi. |
+| Luglio 2024 | AEM Sites | [Importazione in blocco tramite Importazione](https://experienceleague.adobe.com/it/docs/experience-manager-learn/sites/document-authoring/how-to/bulk-importing-using-importer) | Video | Scopri come importare in blocco le pagine web utilizzando lo strumento Importazione di AEM durante la migrazione del sito. |
+| Luglio 2024 | AEM Sites | [Utilizzo di Dynamic Media in Edge Delivery Services](https://experienceleague.adobe.com/it/docs/experience-manager-learn/sites/document-authoring/how-to/using-dynamic-media) | Video | Scopri come utilizzare Dynamic Media in Edge Delivery Services per ottimizzare la distribuzione di immagini e video. |
+| Luglio 2024 | AEM Sites | [Personalizzazione dell&#39;importazione](https://experienceleague.adobe.com/it/docs/experience-manager-learn/sites/document-authoring/how-to/customizing-importer) | Video | Scopri come personalizzare la funzione di importazione di AEM per massimizzare l’efficienza e l’accuratezza durante la migrazione di un sito all’authoring di documenti con Edge Delivery Services. |
+| Luglio 2024 | AEM Sites | [Migrazione Edge Delivery Services tramite Importazione](https://experienceleague.adobe.com/it/docs/experience-manager-learn/sites/document-authoring/how-to/migration-using-importer) | Video | Scopri come utilizzare e configurare lo strumento Importazione di AEM per migrare i siti creati con documenti in Edge Delivery Services. |
+| Luglio 2024 | AEM Sites | [Scopri l’Editor universale](https://experienceleague.adobe.com/it/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-exploring-universal-editor) | Video | Dirk Rudolph, ingegnere di AEM, è intervistato in merito all’editor universale e sul suo funzionamento con Edge Delivery Services e AEM. |
+| Luglio 2024 | AEM Sites | [Cloud 5: Real User Monitoring (RUM)](https://experienceleague.adobe.com/it/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-rum) | Video | Esplora le nuove funzionalità nella dashboard analitica di Real Use Monitor e come accedervi. |
+| Luglio 2024 | AEM Sites | [Autenticazione autore](https://experienceleague.adobe.com/it/docs/experience-manager-learn/sites/document-authoring/author-authentication) | Video | Scopri come configurare l’autenticazione dell’autore tramite AEM Sidekick nell’authoring dei documenti con Edge Delivery Services. |
+| Luglio 2024 | AEM Forms | [Guida introduttiva ad AEM Forms Workbench](https://experienceleague.adobe.com/it/docs/experience-manager-learn/forms/forms-workbench/workbench-introduction) | Video | Informazioni su come utilizzare l’interfaccia di AEM Forms Workbench. |
+| Luglio 2024 | AEM Forms | [Creazione di un nuovo componente core in AEM Forms](https://experienceleague.adobe.com/it/docs/experience-manager-learn/cloud-service/forms/create-address-block/introduction) | Video | Crea un componente blocco di indirizzi. Il componente blocco di indirizzi contiene campi per acquisire l’indirizzo stradale, la città, lo stato e il codice postale. |
+| Luglio 2024 | AEM Forms | [Creazione di un processo di moduli semplici in Workbench](https://experienceleague.adobe.com/it/docs/experience-manager-learn/forms/forms-workbench/workbench-creating-a-process) | Video | Scopri come creare un semplice processo di modulo in Workbench. |
+| Luglio 2024 | AEM Forms | [Processo Workbench di registrazione e riproduzione](https://experienceleague.adobe.com/it/docs/experience-manager-learn/forms/forms-workbench/workbench-recording-and-testing-process) | Video | Scopri come eseguire il debug del processo dei moduli in Workbench. |
 
 {style="table-layout:auto"}
 
@@ -297,14 +297,14 @@ Nuovi articoli e aggiornamenti ad articoli esistenti per [!DNL Experience Manage
 
 | Pubblicato | Nome | Tipo | Descrizione |
 |---------|--------|---------|---------|
-| Giugno 2024 | [I gruppi non amministratori non sono in grado di visualizzare  [!DNL Custom Search Rail] in [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24380) | Nuovo articolo | Questo articolo spiega come abilitare i gruppi non amministratori per visualizzare [!DNL Custom Search Rail] in [!DNL Adobe Experience Manager]. Per consentire agli utenti l&#39;accesso a tutti i facet, è necessario l&#39;accesso in lettura a `/conf/global/settings/dam/search/facets`. |
-| Giugno 2024 | [Problema con l&#39;ereditarietà di [!DNL Experience Fragments] modelli consentiti](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-21002) | Nuovo articolo | Si è verificato un problema con l&#39;ereditarietà dei modelli consentiti per [!DNL Experience Fragments] in [!DNL Adobe Experience Manager]. |
-| Giugno 2024 | [[!DNL Copy Content Activity] errore con *[!DNL javax.jcr.AccessDeniedException]* errore](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24424) | Nuovo articolo | Scopri perché il processo di backflow del contenuto non riesce con l&#39;errore *[!DNL javax.jcr.AccessDeniedException]* durante la registrazione dello spazio dei nomi in [!DNL Adobe Experience Manager]. |
-| Giugno 2024 | [[!DNL Dynamic Media URL] risposta [!DNL byte-size]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24461) | Nuovo articolo | Scopri come ottenere la dimensione binaria della risorsa DM durante la visualizzazione del rendering originale da un [!DNL URL] in [!DNL Dynamic Media Classic]. |
-| Giugno 2024 | [[!DNL AEMaaCS]: come accedere al Browser dell&#39;archivio per il livello di anteprima con privilegi di amministratore](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24457) | Nuovo articolo | Scopri come visualizzare tutti i nodi che utilizzano un flusso di lavoro personalizzato. Per impostazione predefinita, il browser dell’archivio per il livello di anteprima non viene visualizzato (ad esempio, i nodi in `/conf`, `/home` e `/var` sono invisibili). tutti i nodi. |
-| Giugno 2024 | [[!DNL SDI] il contenuto viene eliminato, [!DNL Apache] errore, *[!DNL INCLUDES filter removed]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24222) | Nuovo articolo | Scopri come risolvere il problema per cui [!DNL Sling Dynamic Includes (SDI)], il contenuto abbandonato e [!DNL Apache] `error.log` indicano *[!DNL INCLUDES filter removed]*. |
-| Giugno 2024 | [Attiva [!DNL Geo-blocking] con [!DNL Dynamic Media CDN]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24475) | Nuovo articolo | Scopri come abilitare [!DNL Geo-blocking] in [!DNL Dynamic Media CDN] per rendere [!DNL URLs] disponibile solo in alcuni paesi. |
-| Giugno 2024 | [[!DNL Adobe Experience Manager]: come sbloccare una pagina bloccata da un altro utente](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24486) | Nuovo articolo | Scopri come sbloccare una pagina quando né l’utente che l’ha bloccata né l’amministratore possono sbloccarla. |
+| Giugno 2024 | [I gruppi non amministratori non sono in grado di visualizzare  [!DNL Custom Search Rail]  in  [!DNL AEM]](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-24380) | Nuovo articolo | Questo articolo spiega come abilitare i gruppi non amministratori per visualizzare [!DNL Custom Search Rail] in [!DNL Adobe Experience Manager]. Per consentire agli utenti l’accesso a tutti i facet, è necessario l’accesso in lettura a `/conf/global/settings/dam/search/facets`. |
+| Giugno 2024 | [Problema con l’ereditarietà dei modelli consentiti di  [!DNL Experience Fragments] ](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-21002) | Nuovo articolo | Si è verificato un problema con l&#39;ereditarietà dei modelli consentiti per [!DNL Experience Fragments] in [!DNL Adobe Experience Manager]. |
+| Giugno 2024 | Errore di [[!DNL Copy Content Activity]  con l’errore *[!DNL javax.jcr.AccessDeniedException]*](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-24424) | Nuovo articolo | Scopri perché il processo di backflow del contenuto non riesce con l’errore *[!DNL javax.jcr.AccessDeniedException]* durante la registrazione dello spazio dei nomi in [!DNL Adobe Experience Manager]. |
+| Giugno 2024 | Risposta di [[!DNL Dynamic Media URL]  [!DNL byte-size]](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-24461) | Nuovo articolo | Scopri come ottenere la dimensione binaria della risorsa DM durante la visualizzazione del rendering originale da un [!DNL URL] in [!DNL Dynamic Media Classic]. |
+| Giugno 2024 | [[!DNL AEMaaCS]: come accedere al Browser dell’archivio per il livello di anteprima con privilegi di amministratore](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-24457) | Nuovo articolo | Scopri come visualizzare tutti i nodi che utilizzano un flusso di lavoro personalizzato. Per impostazione predefinita, il browser dell’archivio per il livello di anteprima non viene visualizzato (ad esempio, i nodi in `/conf`, `/home` e `/var` sono invisibili). tutti i nodi. |
+| Giugno 2024 | Il contenuto di [[!DNL SDI]  viene eliminato, errore  [!DNL Apache] , *[!DNL INCLUDES filter removed]*](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-24222) | Nuovo articolo | Scopri come risolvere il problema per cui il contenuto di [!DNL Sling Dynamic Includes (SDI)] viene eliminato e [!DNL Apache] `error.log` indica *[!DNL INCLUDES filter removed]*. |
+| Giugno 2024 | [Abilita  [!DNL Geo-blocking]  con  [!DNL Dynamic Media CDN]](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-24475) | Nuovo articolo | Scopri come abilitare [!DNL Geo-blocking] in [!DNL Dynamic Media CDN] per rendere [!DNL URLs] disponibile solo in alcuni paesi. |
+| Giugno 2024 | [[!DNL Adobe Experience Manager]: come sbloccare una pagina bloccata da un altro utente](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-24486) | Nuovo articolo | Scopri come sbloccare una pagina quando né l’utente che l’ha bloccata né l’amministratore possono sbloccarla. |
 
 {style="table-layout:auto"}
 
@@ -326,7 +326,7 @@ Nuovi tutorial su [!DNL Adobe Commerce] in Experience League.
 
 | Pubblicato | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
-| Luglio 2024 | [Connettere ed eseguire query sul database di Adobe Commerce](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/backend-development/remote-db-connection-execute-queries) | Video | Scopri come connettersi a un progetto Adobe Commerce su cloud, creare un’immagine del database per l’utilizzo fuori sede e gestire le informazioni personali (PII, Personally Identifiable Information) mascherandole o rimuovendole. Scopri come accedere ai dati di Adobe Commerce utilizzando le immagini di database locali, le connessioni di database remote con applicazioni come MySQL Workbench o TablesPlus e le connessioni dirette tramite lo strumento Magento Cloud CLI. |
+| Luglio 2024 | [Connettere ed eseguire query sul database di Adobe Commerce](https://experienceleague.adobe.com/it/docs/commerce-learn/tutorials/backend-development/remote-db-connection-execute-queries) | Video | Scopri come connettersi a un progetto Adobe Commerce su cloud, creare un’immagine del database per l’utilizzo esterno e gestire le informazioni personali (PII, Personally Identifiable Information) mascherandole o rimuovendole. Scopri come accedere ai dati di Adobe Commerce utilizzando le immagini di database locali, le connessioni di database remote con applicazioni come MySQL Workbench o TablesPlus e le connessioni dirette tramite lo strumento Magento Cloud CLI. |
 
 {style="table-layout:auto"}
 
@@ -336,10 +336,10 @@ Nuovi articoli e aggiornamenti agli articoli esistenti per Adobe Commerce.
 
 | Pubblicato | Nome | Tipo | Descrizione |
 |---------|--------|---------|---------|
-| Giugno 2024 | [[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview) | Nuovi articoli | Sono stati pubblicati nuovi articoli su come applicare le patch disponibili in [!DNL QPT] 1.1.48, disponibili nelle rispettive sezioni. |
-| Giugno 2024 | [Aggiornamento di sicurezza disponibile per Adobe Commerce - [!DNL APSB24-40] Rivisto per includere la patch isolata per [!DNL CVE-2024-34102]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/security-update-available-for-adobe-commerce-apsb24-40-revised-to-include-isolated-patch-for-cve-2024-34102) | Nuovi articoli | L’11 giugno 2024 Adobe ha rilasciato un aggiornamento di sicurezza per Adobe Commerce, Magento Open Source e Adobe Commerce [!DNL Webhooks Plugin]. Questo aggiornamento risolve vulnerabilità critiche e importanti. Un utilizzo corretto potrebbe causare l’esecuzione arbitraria del codice, il bypass della funzione di sicurezza e l’escalation dei privilegi. |
-| Giugno 2024 | [Patch riviste per [!DNL Google Maps] perdita dell&#39;accesso su tutte le versioni di Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/site-down-or-unresponsive/revised-patches-for-google-maps-access-loss-on-all-adobe-commerce-versions) | Nuovi articoli | Questo articolo fornisce una correzione per i commercianti di Adobe Commerce che non sono compatibili con nessuna versione [!DNL Google Maps] recente dalla versione 3.54+. Questa correzione consente di risolvere il problema per cui i commercianti di Adobe Commerce non hanno più accesso a [!DNL Google Maps] in alcuna versione di Adobe Commerce. |
-| Giugno 2024 | [Migrazione del processo di acquisizione del supporto Adobe Commerce a [!DNL Experience League]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-commerce-support-intake-process-migration) | Nuovi articoli | Siamo entusiasti di annunciare che nel nostro percorso, per essere più connesso alla famiglia di soluzioni Adobe, Adobe Commerce sta eseguendo la migrazione della procedura di assegnazione del supporto dal Centro assistenza Adobe Commerce all’Adobe [!DNL Experience League] il 15 luglio 2024. [!DNL Experience League] ospita attualmente la documentazione di supporto autonomo, le guide utente e le best practice di Adobe Commerce. Diventerà la risorsa principale per tutte le esigenze di supporto, dalla comunicazione self-service a quella basata su agenti. Apprezziamo la tua comprensione e il tuo supporto per questa importante transizione. |
+| Giugno 2024 | [[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview) | Nuovi articoli | Sono stati pubblicati nuovi articoli su come applicare le patch disponibili nella versione 1.1.48 di [!DNL QPT] e sono reperibili nelle rispettive sezioni. |
+| Giugno 2024 | [Aggiornamento di sicurezza disponibile per Adobe Commerce:  [!DNL APSB24-40]  rivisto per includere la patch isolata per  [!DNL CVE-2024-34102]](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/security-update-available-for-adobe-commerce-apsb24-40-revised-to-include-isolated-patch-for-cve-2024-34102) | Nuovi articoli | L’11 giugno 2024 Adobe ha rilasciato un aggiornamento di sicurezza per i [!DNL Webhooks Plugin] di Adobe Commerce, Magento Open Source e Adobe Commerce. Questo aggiornamento risolve vulnerabilità critiche e importanti. Un utilizzo corretto potrebbe causare l’esecuzione arbitraria del codice, il bypass della funzione di sicurezza e l’escalation dei privilegi. |
+| Giugno 2024 | [Patch riviste per perdita dell’accesso a  [!DNL Google Maps]  su tutte le versioni di Adobe Commerce](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/troubleshooting/site-down-or-unresponsive/revised-patches-for-google-maps-access-loss-on-all-adobe-commerce-versions) | Nuovi articoli | Questo articolo fornisce una correzione per i commercianti di Adobe Commerce che non sono compatibili con nessuna versione di [!DNL Google Maps] recente dalla versione 3.54+. Questa correzione consente di risolvere il problema per cui i commercianti di Adobe Commerce non hanno più accesso a [!DNL Google Maps] in alcuna versione di Adobe Commerce. |
+| Giugno 2024 | [Migrazione del processo di acquisizione del supporto Adobe Commerce a  [!DNL Experience League]](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-commerce-support-intake-process-migration) | Nuovi articoli | Siamo entusiasti di annunciare che nel nostro percorso, per essere più connesso alla famiglia di soluzioni Adobe, Adobe Commerce sta eseguendo la migrazione della procedura di assegnazione dal supporto dal Centro assistenza Adobe Commerce a [!DNL Experience League] di Adobe il 15 luglio 2024. [!DNL Experience League] ospita attualmente la documentazione di supporto autonomo, le guide utente e le best practice di Adobe Commerce. Diventerà la risorsa principale per tutte le esigenze di supporto, dalla comunicazione self-service a quella basata su agenti. Apprezziamo la tua comprensione e il tuo supporto per questa importante transizione. |
 
 {style="table-layout:auto"}
 
@@ -398,11 +398,11 @@ Nuovi articoli e aggiornamenti ad articoli esistenti per [!DNL Campaign].
 
 | Pubblicato | Nome | Tipo | Descrizione |
 |---------|----|----|-----------|
-| Giugno 2024 | [Errore *[!DNL JST-310034 Function logonEscalation used by 'Anonymous account' to become 'Interaction account (interaction)']*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24392) | Nuovo articolo | Scopri come risolvere l&#39;errore *[!DNL JST-310034 Function logonEscalation used by 'Anonymous account']* che viene visualizzato più volte nel registro Web. Aggiornare [!DNL Adobe Campaign Classic] alla versione 7.3.2 o successiva per risolvere il problema. |
-| Giugno 2024 | [La verifica del punteggio [!DNL spam] non riesce con errore *[!DNL DLV-490066 Anti-spam checking failed]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24427) | Nuovo articolo | Questo articolo ti aiuta a esplorare i passaggi da seguire per controllare il punteggio [!DNL spam] su una consegna quando l&#39;errore *[!DNL DLV-490066 Anti-spam checking failed]* viene visualizzato in [!DNL Adobe Campaign Classic] v7. |
-| Giugno 2024 | [[!DNL ACS workflow] ha esito negativo con errore *[!DNL The AWS Access Key Id you provided does not exist]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24479) | Nuovo articolo | Scopri come risolvere il problema [!DNL Adobe Campaign Standard] in cui il flusso di lavoro non riesce con errore *[!DNL The AWS Access Key Id you provided does not exist in our records.]* |
-| Giugno 2024 | [L&#39;invio della consegna dell&#39;attività di avviso non riesce con *[!DNL Error while compiling script]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24478) | Nuovo articolo | Scopri come risolvere il problema [!DNL Adobe Campaign Classic] in cui la consegna dell&#39;attività di avviso non riesce con *[!DNL Error while compiling script 'SMTP headers' line XX: recipient is not defined.]* |
-| Giugno 2024 | [Sezione Modifiche ed espressioni mancante nell&#39;attività Modifica schema](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24495) | Nuovo articolo | Scopri come risolvere il problema per cui la sezione Modifiche ed espressioni non è presente nell&#39;attività Modifica schema in [!DNL Adobe Campaign Classic]. |
+| Giugno 2024 | [Errore *[!DNL JST-310034 Function logonEscalation used by 'Anonymous account' to become 'Interaction account (interaction)']*](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-24392) | Nuovo articolo | Scopri come risolvere l&#39;errore *[!DNL JST-310034 Function logonEscalation used by 'Anonymous account']* che viene visualizzato più volte nel registro Web. Aggiorna [!DNL Adobe Campaign Classic] alla versione 7.3.2 o successiva per risolvere il problema. |
+| Giugno 2024 | [La verifica del punteggio  [!DNL spam]  non riesce con errore *[!DNL DLV-490066 Anti-spam checking failed]*](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-24427) | Nuovo articolo | Questo articolo ti aiuta a esplorare i passaggi da seguire per controllare il punteggio [!DNL spam] su una consegna quando l’errore *[!DNL DLV-490066 Anti-spam checking failed]* viene visualizzato in [!DNL Adobe Campaign Classic] v7. |
+| Giugno 2024 | [[!DNL ACS workflow]  non riesce con errore *[!DNL The AWS Access Key Id you provided does not exist]*](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-24479) | Nuovo articolo | Scopri come risolvere il problema [!DNL Adobe Campaign Standard] in cui il flusso di lavoro non riesce con errore *[!DNL The AWS Access Key Id you provided does not exist in our records.]* |
+| Giugno 2024 | [La consegna di invio dell’attività di avviso non riesce con *[!DNL Error while compiling script]*](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-24478) | Nuovo articolo | Scopri come risolvere il problema di [!DNL Adobe Campaign Classic] in cui la consegna dell’attività di avviso non riesce con *[!DNL Error while compiling script 'SMTP headers' line XX: recipient is not defined.]* |
+| Giugno 2024 | [Sezione Modifiche ed espressioni mancante nell’attività Modifica schema](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-24495) | Nuovo articolo | Scopri come risolvere il problema per cui la sezione Modifiche ed espressioni non è presente nell’attività Modifica schema in [!DNL Adobe Campaign Classic]. |
 
 {style="table-layout:auto"}
 
@@ -410,7 +410,7 @@ Nuovi articoli e aggiornamenti ad articoli esistenti per [!DNL Campaign].
 
 * [!DNL Campaign]Interfaccia web:[Novità](https://experienceleague.adobe.com/it/docs/campaign-web/v8/whats-new) | [Documentazione del prodotto](https://experienceleague.adobe.com/it/docs/campaign-web/v8/campaign-web-home)
 * [!DNL Campaign] V8: [Documentazione](https://experienceleague.adobe.com/it/docs/campaign/campaign-v8/campaign-home) - [Note sulla versione](https://experienceleague.adobe.com/it/docs/campaign/campaign-v8/new/whats-new) - [Guide all’implementazione](https://experienceleague.adobe.com/it/docs/campaign/campaign-v8/config/implement/implement)
-* [!DNL Campaign] Standard: [Documentazione Campaign Standard](https://experienceleague.adobe.com/it/docs/campaign-standard/using/campaign-standard-home) - [Note sulla versione](https://experienceleague.adobe.com/it/docs/campaign-standard/using/release-notes/release-notes) - [Video dimostrativi](https://experienceleague.adobe.com/it/docs/campaign-standard-learn/tutorials/overview) - [Pianificazione delle versioni future](https://experienceleague.adobe.com/it/docs/campaign-standard/using/release-notes/release-planning) - [Ultimi aggiornamenti della documentazione](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/documentation-updates)
+* [!DNL Campaign] Standard: [Documentazione Campaign Standard](https://experienceleague.adobe.com/it/docs/campaign-standard/using/campaign-standard-home) - [Note sulla versione](https://experienceleague.adobe.com/it/docs/campaign-standard/using/release-notes/release-notes) - [Video dimostrativi](https://experienceleague.adobe.com/it/docs/campaign-standard-learn/tutorials/overview) - [Pianificazione delle versioni future](https://experienceleague.adobe.com/it/docs/campaign-standard/using/release-notes/release-planning) - [Ultimi aggiornamenti della documentazione](https://experienceleague.adobe.com/it/docs/campaign-standard/using/release-notes/documentation-updates)
 * [!DNL Campaign] Classic: [Documentazione Campaign Classic v7](https://experienceleague.adobe.com/it/docs/campaign-classic/using/campaign-classic-home) - [Note sulla versione](https://experienceleague.adobe.com/it/docs/campaign-classic/using/release-notes/latest-release) - [Video dimostrativi](https://experienceleague.adobe.com/it/docs/campaign-classic-learn/tutorials/overview) - [Ultimi aggiornamenti della documentazione](https://experienceleague.adobe.com/it/docs/campaign-classic/using/release-notes/documentation-updates)
 * [!DNL Campaign] Pannello di controllo: [Documentazione](https://experienceleague.adobe.com/it/docs/control-panel/using/control-panel-home) - [Note sulla versione](https://experienceleague.adobe.com/it/docs/control-panel/using/release-notes/release-notes) - [Video dimostrativi](https://experienceleague.adobe.com/it/docs/control-panel-learn/tutorials/control-panel-overview)
 
@@ -424,7 +424,7 @@ Scopri gli ultimi aggiornamenti sulle versioni di [!DNL Journey Optimizer]. Visu
 
 ### Ultime versioni del prodotto [!DNL Journey Optimizer]
 
-**30 luglio:** Scopri le funzionalità, i miglioramenti e le correzioni più recenti nelle [Note sulla versione di Journey Optimizer](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/whats-new/release-notes).
+**Luglio 30:** informazioni sulle funzionalità, i miglioramenti e le correzioni più recenti nelle [Note sulla versione di Journey Optimiz](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/whats-new/release-notes).
 
 ### Nuovi tutorial su[!DNL Journey Optimizer] {#tutorials-ajo}
 
@@ -432,12 +432,12 @@ Nuovi tutorial pubblicati su Adobe [!DNL Journey Optimizer] in Experience League
 
 | Pubblicato | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
-| Luglio 2024 | [Gestisci frammenti](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/manage-fragments) | Video aggiornato | Scopri come gestire, creare e utilizzare i frammenti in Adobe Journey Optimizer. |
-| Luglio 2024 | [Caso d&#39;uso: evento di business](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-business-event) | Video | Scopri come usare gli eventi di business in Journey Optimizer. Gli eventi di business consentono ai brand di attivare percorsi basati su eventi non correlati alle persone, ad esempio notificare agli abbonati quando una pubblicazione di notizie ha nuovi contenuti o inviare comunicazioni durante un evento sportivo. |
-| Luglio 2024 | [Introduzione alla costruzione di un percorso](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey) | Video | Scopri le basi della costruzione di un percorso nell’area di lavoro del percorso. |
-| Luglio 2024 | [Configura messaggi multilingue](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/set-up-multilingual-messages) | Video | La funzione di messaggistica multilingue di Adobe Journey Optimizer consente di creare facilmente contenuti in più lingue all’interno di una singola campagna o percorso. |
-| Luglio 2024 | [Crea un messaggio multilingue](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/create-multilingual-messages) | Video | Scopri come creare messaggi multilingue in Adobe Journey Optimizer. |
-| Luglio 2024 | [Panoramica dell&#39;area di lavoro del percorso](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/overview-over-the-journey-canvas) | Video | Comprendere le funzionalità dell’area di lavoro del percorso. |
+| Luglio 2024 | [Gestire i frammenti](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/content-management/manage-fragments) | Video aggiornato | Scopri come gestire, creare e utilizzare i frammenti in Adobe Journey Optimizer. |
+| Luglio 2024 | [Caso d’uso: evento di business](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-business-event) | Video | Scopri come utilizzare gli eventi di business in Journey Optimizer. Gli eventi di business consentono ai brand di attivare percorsi basati su eventi non correlati alle persone, ad esempio per informare gli iscritti quando vengono pubblicati nuovi contenuti o inviare comunicazioni durante un evento sportivo. |
+| Luglio 2024 | [Introduzione alla costruzione di un percorso](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey) | Video | Scopri le basi della costruzione di un percorso nell’area di lavoro del percorso. |
+| Luglio 2024 | [Impostare la messaggistica multilingue](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/content-management/set-up-multilingual-messages) | Video | La funzione di messaggistica multilingue di Adobe Journey Optimizer consente di creare facilmente contenuto in più lingue all’interno di una singola campagna o un percorso. |
+| Luglio 2024 | [Creare un messaggio multilingue](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/content-management/create-multilingual-messages) | Video | Scopri come creare messaggi multilingue in Adobe Journey Optimizer. |
+| Luglio 2024 | [Panoramica sull’area di lavoro del percorso](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/tutorials/create-journeys/overview-over-the-journey-canvas) | Video | Comprendere le funzionalità dell’area di lavoro del percorso. |
 
 ### Ulteriori risorse per [!DNL Journey Optimizer]
 
@@ -516,9 +516,9 @@ Scopri le note sulla versione più recente di [!DNL Adobe Workfront]. Trova nuov
 
 ### Aggiornamenti su [!DNL Adobe Workfront]
 
-* Per informazioni sulla pianificazione della versione di [!DNL Workfront] e le relative note sulla versione, consulta la pagina [Adobe [!DNL Workfront] release del prodotto](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/product-releases).
+* Consulta la pagina [Adobe [!DNL Workfront] Versioni dei prodotti](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/product-releases) per informazioni sulla pianificazione delle versioni e sulle note sulla versione di [!DNL Workfront].
 
-* Per informazioni aggiornate su Fusion, consulta la [panoramica dell&#39;attività di rilascio di Adobe [!DNL Workfront] Fusion](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity).
+* Consulta [Adobe [!DNL Workfront] Panoramica dell’attività di rilascio di Fusion](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) per informazioni aggiornate su Fusion.
 
 ### Nuovi tutorial di Adobe [!DNL Workfront] {#tutorials-workfront}
 
@@ -526,13 +526,13 @@ Nuovi tutorial di [!DNL Workfront] ed eventi su Experience League.
 
 | Pubblicato | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |
-| Luglio 2024 | [Gestione lavoro non pianificato](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work) | Video | Scopri come gestire il lavoro non pianificato con Adobe [!DNL Workfront]. |
-| Luglio 2024 | [Compilare i dettagli del progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details) | Video | Scopri le impostazioni di progetto più comuni necessarie per creare un progetto. |
-| Luglio 2024 | [Scopri come sequenziare le attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks) | Video | Scopri cos’è un predecessore e come sequenziano le attività in un progetto. Poi scopri come utilizzare le durate e i predecessori per creare una timeline. |
-| Luglio 2024 | [Comprendere le ore pianificate](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours) | Video | Scopri cosa sono le ore pianificate, perché le ore pianificate sono importanti per il tuo progetto e come aggiungere ore pianificate alle attività. |
-| Luglio 2024 | [Fai una richiesta](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/make-a-request) | Video | Scopri come trovare l’area Richieste e effettuare una richiesta. Poi scopri come visualizzare le richieste inviate e le bozze. |
-| Luglio 2024 | [Aggiornare una richiesta](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request) | Video | Scopri come trovare le richieste inviate e aggiornarle in [!DNL Workfront]. |
-| Luglio 2024 | [Best Practice - Pianificazioni](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/best-practices/schedules-bp) | Video | Esplora i consigli sulle best practice forniti dagli esperti Adobe [!DNL Workfront] in merito all&#39;impostazione, alla gestione e all&#39;utilizzo delle pianificazioni di [!DNL Workfront]. |
+| Luglio 2024 | [Gestire un lavoro non pianificato](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work) | Video | Scopri come gestire il lavoro non pianificato con Adobe [!DNL Workfront]. |
+| Luglio 2024 | [Compilare i dettagli del progetto](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details) | Video | Scopri le impostazioni di progetto più comuni necessarie per la creazione di un progetto. |
+| Luglio 2024 | [Scopri come sequenziare le attività](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks) | Video | Scopri cos’è un predecessore e come sequenzia le attività in un progetto. Poi scopri come utilizzare le durate e i predecessori per creare una timeline. |
+| Luglio 2024 | [Comprendere le ore pianificate](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours) | Video | Scopri cosa sono le ore pianificate, perché sono importanti per il tuo progetto e come aggiungerle alle attività. |
+| Luglio 2024 | [Fare una richiesta](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/make-a-request) | Video | Scopri come trovare l’area Richieste ed effettuare una richiesta. Poi scopri come visualizzare le richieste inviate e quelle in bozza. |
+| Luglio 2024 | [Aggiornare una richiesta](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request) | Video | Scopri come trovare le richieste inviate ed effettuarne un aggiornamento in [!DNL Workfront]. |
+| Luglio 2024 | [Best Practice - Pianificazioni](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/best-practices/schedules-bp) | Video | Esplora i consigli sulle best practice forniti dagli esperti [!DNL Workfront] di Adobe in merito all’impostazione, alla gestione e all’utilizzo delle pianificazioni di [!DNL Workfront]. |
 
 {style="table-layout:auto"}
 
@@ -582,9 +582,9 @@ Consulta [Novità di  [!DNL Advertising DSP]](https://experienceleague.adobe.com
 
 Consulta [Novità di  [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/it/docs/advertising/search-social-commerce/home)
 
-+++## ![Icona](/assets/experience-league.png) Catena di fornitura del contenuto Adobe {#content-supply-chain}
++++## ![Icona](/assets/experience-league.png) Catena di fornitura dei contenuti Adobe {#content-supply-chain}
 
-Consulta [Content Supply Chain](https://experienceleague.adobe.com/it/docs/content-supply-chain-learn/tutorials/overview) per i tutorial più recenti su Experience League.
+Consulta [Content Supply Chain](ttps://experienceleague.adobe.com/it/docs/content-supply-chain-learn/tutorials/overview) per i tutorial più recenti su Experience League.
 
 <!-- +++Details
 
@@ -614,10 +614,10 @@ Nuovi tutorial pubblicati per [!DNL Document Cloud], inclusi [!DNL Acrobat Servi
 
 | Pubblicato | Applicazione | Nome | Tipo | Descrizione |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Luglio 2024 | Acrobat | [Modificare gli elementi grafici in un PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics) | Video aggiornato | Scopri come creare, modificare e migliorare gli elementi grafici nei PDF. La modifica diretta degli elementi grafici in Acrobat consente di aggiornare i contenuti in modo accurato e professionale senza passare da un app all&#39;altra. |
-| Luglio 2024 | Acrobat | [Nuova esperienza in Workspace](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace) | Video aggiornato | Scopri la nuova area di lavoro in Acrobat che consente di individuare rapidamente gli strumenti e completare in modo efficiente le attività di PDF. L’area di lavoro è intuitiva e fluida, e offre esperienze coerenti su tutte le superfici: desktop, web e dispositivi mobili. |
-| Luglio 2024 | Acrobat | [Scopri le informazioni di PDF con l&#39;Assistente AI](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant) | Video | Scopri come ottenere informazioni dai file PDF utilizzando l’Assistente AI per creare rapidamente contenuti di impatto. L’Assistente AI è un motore di conversazione sicuro che migliora i flussi di lavoro dei documenti e l’analisi di dati complessi dei documenti. |
-| Luglio 2024 | Acrobat | [Converti PDF in formati di file diversi](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/export-pdf) | Video | Scopri come convertire i file PDF in diversi formati di file, ad esempio Microsoft Word, PowerPoint ed Excel. Sono inoltre contemplati la conversione dei PDF in Adobi Express per aggiungere elementi di design con marchio. |
+| Luglio 2024 | Acrobat | [Modificare la grafica in un PDF](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics) | Video aggiornato | Scopri come creare, modificare e migliorare la grafica nei PDF. La modifica diretta del testo in Acrobat consente di aggiornare i contenuti in modo accurato e professionale senza passare da un’app all’altra. |
+| Luglio 2024 | Acrobat | [Nuova esperienza in Workspace](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace) | Video aggiornato | Scopri la nuova area di lavoro in Acrobat che consente di individuare rapidamente gli strumenti e completare in modo efficiente le attività di PDF. L’area di lavoro è intuitiva e fluida, e offre esperienze coerenti su tutte le superfici: desktop, web e dispositivi mobili. |
+| Luglio 2024 | Acrobat | [Scopri le informazioni di PDF con l&#39;Assistente AI](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant) | Video | Scopri come ottenere informazioni dai file PDF utilizzando l’Assistente AI per creare rapidamente contenuti di impatto. L’Assistente AI è un motore di conversazione sicuro che migliora i flussi di lavoro dei documenti e l’analisi di dati complessi dei documenti. |
+| Luglio 2024 | Acrobat | [Converti PDF in formati di file diversi](https://experienceleague.adobe.com/it/docs/document-cloud-learn/acrobat-learning/getting-started/export-pdf) | Video | Scopri come convertire i file PDF in diversi formati di file, ad esempio Microsoft Word, PowerPoint ed Excel. Sono inoltre contemplati la conversione dei PDF in Adobi Express per aggiungere elementi di design con marchio. |
 
 Per i tutorial di [!DNL Document Cloud], consulta:
 
