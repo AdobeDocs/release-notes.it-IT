@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
+source-git-commit: 59f082ddef93b5ca415ccc3da5a1220b6aeae88b
 workflow-type: tm+mt
-source-wordcount: '3097'
+source-wordcount: '3099'
 ht-degree: 51%
 
 ---
@@ -32,7 +32,7 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 ## Agosto 2024
 
-Ultimo aggiornamento: **giovedì 14 agosto 2024**
+Ultimo aggiornamento: **sabato 16 agosto 2024**
 
 * [[!DNL Experience League] eventi e aggiornamenti](#events) (aggiornato: **16 agosto**)
 * [[!DNL Adobe System Status]](#status)
@@ -72,7 +72,7 @@ Aggiornamento: **16 agosto 2024**
 
 Le [playlist](https://experienceleague.adobe.com/en/playlists) video sono nuove in Experience League. Una playlist è una raccolta di video curata per aiutarti a acquisire rapidamente le abilità e le conoscenze che cerchi.
 
-Per sfogliare le playlist, passa a **[!UICONTROL Scopri]** > **[!UICONTROL Playlist]**.
+Per sfogliare le playlist, passa a **[!UICONTROL Scopri]** > **[!UICONTROL Sfoglia tutte le playlist]**.
 
 >[!NOTE]
 >
