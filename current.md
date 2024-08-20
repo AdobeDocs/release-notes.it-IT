@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 59f082ddef93b5ca415ccc3da5a1220b6aeae88b
+source-git-commit: 4955798262f3d97c1a7944dbadab05d70cb66c40
 workflow-type: tm+mt
-source-wordcount: '3099'
-ht-degree: 51%
+source-wordcount: '3185'
+ht-degree: 50%
 
 ---
 
@@ -32,9 +32,9 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 ## Agosto 2024
 
-Ultimo aggiornamento: **sabato 16 agosto 2024**
+Ultimo aggiornamento: **mercoledì 20 agosto 2024**
 
-* [[!DNL Experience League] eventi e aggiornamenti](#events) (aggiornato: **16 agosto**)
+* [[!DNL Experience League] eventi e aggiornamenti](#events) (aggiornato: **20**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]: interfaccia centale e amministrazione](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -84,11 +84,15 @@ Se desideri inviare un feedback ad un Experience League sulle playlist o su un q
 
 +++Dettagli
 
-* **[!DNL WORKFRONT]** | Experience Makers | _Lo scambio di competenze per Adobe Workfront_ | Partecipate con noi il 15 agosto per un evento gratuito di formazione digitale per i clienti con contenuti incentrati su Workfront. Riceverai informazioni da esperti e colleghi su come utilizzano Workfront nelle loro attività quotidiane. | **15 agosto alle 10:00 MT** | [Registra](https://adobe.ly/4c7TAqZ)
+* **[!DNL EXPERIENCE CLOUD]** | Evento community | _2025 Adobe Experience Maker Awards_ | Sono aperte le iscrizioni per gli Adobe Experience Maker Awards 2025. Straordinario è solo l&#39;inizio. Visionari audaci. Esperienze cliente eccezionali. | **N/D** | [Applica](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | Evento community | _Connetti: Collettivo Workfront_ | Partecipa agli eventi collettivi Workfront di lunedì, organizzati ogni mese per mettersi in contatto con altri clienti, discutere le funzionalità di Workfront, condividere idee e discutere insieme per risolvere le problematiche comuni. | **19 agosto alle 7:00 MT** | [Registra](https://events.teams.microsoft.com/event/96be978b-7cb2-453d-b8a8-991101596488@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Workshop per i clienti | _Informazioni: utilizzo delle code di richiesta di Workfront per i processi di acquisizione_ | Unisciti a noi per una discussione sui vantaggi e le best practice delle code di richieste di Workfront per il tracciamento, l’organizzazione e il reporting sul lavoro della tua organizzazione. | **21 agosto alle 9:30 MT** | [Registra](https://events.teams.microsoft.com/event/ba631a2b-d656-42ca-99e9-3a78d0229c7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL REAL-TIME CUSTOMER DATA PLATFORM]** | Evento community | _Tempistiche AEP/RTCDP e previsioni_ | Unisciti a noi per un webinar approfondito con Seth Burke, Global Lead di Adobe, mentre esplora le best practice per navigare nel Real-time Customer Data Platform (RTCDP). | **20 agosto alle 12:00 MT** | [Registra](https://adobeevents.adobeconnect.com/tech-sessions/event/registration.html)
+* **[!DNL ANALYTICS]** | Evento community | _Analisi approfondita dei dati: nozioni di base di Adobe Analytics e oltre_ | Unisciti agli esperti di Adobe Analytics mentre ci guidano attraverso le best practice per organizzare l’area di lavoro, navigare nei percorsi di apprendimento di Adobe Analytics per principianti e collegarla con strumenti di visualizzazione dati di terze parti. | **22 agosto alle 11:00 MT** | [Registra](https://adobeevents.adobeconnect.com/et45xd86xdq9/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Workshop per i clienti | _Informazioni: creazione di un caso per Workfront Fusion_ | Unisciti al team Customer Success per un workshop interattivo di 1 ora con Deloitte e Adobe Workfront Integations Consulting per scoprire come quantificare il risparmio di tempo e creare un solido business case per Workfront Fusion. | **27 agosto alle 10:00 MT** | [Registra](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL JOURNEY OPTIMIZER]** | Coffee Break | _Coffee Break domande e risposte della community Adobe Journey Optimizer_ | È una sessione di chat simile all&#39;AMA della durata di un&#39;ora con gli esperti di Journey Optimizer intorno ai 3 devono provare le caratteristiche della sperimentazione Journey Optimizer- percorso, quota limite e messaggistica multilingue. | **4 settembre alle 9:00 MT** | [Registra](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
 
 E altro ancora! Visualizza tutti i [prossimi eventi](https://experienceleague.adobe.com/events/?lang=it) o sfoglia le [registrazioni degli eventi passati](https://experienceleague.adobe.com/it/docs/events/experience-league-recorded-events/overview) in Experience League.
 
