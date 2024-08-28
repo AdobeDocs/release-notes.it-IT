@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
+source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
 workflow-type: tm+mt
-source-wordcount: '3155'
-ht-degree: 92%
+source-wordcount: '3186'
+ht-degree: 90%
 
 ---
 
@@ -28,13 +28,19 @@ Questa pagina consente di individuare le seguenti risorse di supporto autonomo p
 
 Per una migliore esperienza di supporto autonomo, accedi a [Experience League](https://experienceleague.adobe.com/?lang=it#home) e personalizza la tua esperienza di ricerca nella libreria gratuita di Adobe con [documentazione](https://experienceleague.adobe.com/it/docs), [corsi](https://experienceleague.adobe.com/?lang=it#courses), [eventi](https://experienceleague.adobe.com/events/?lang=it), [forum della community](https://experienceleaguecommunities.adobe.com/?profile.language=en), e [supporto](https://experienceleague.adobe.com/?support-tab=home&amp;lang=it#support).
 
+**Lascia un feedback**
+
+Cerca **_Questo contenuto è stato utile?Popup_** nella parte inferiore di ogni pagina. Il tuo feedback viene curato e distribuito agli autori di contenuti.
+
+**Ricevi notifica**
+
 Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento sui prodotti priority Adobe](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## Agosto 2024
 
-Ultimo aggiornamento: **venerdì 22 agosto 2024**
+Ultimo aggiornamento: **giovedì 28 agosto 2024**
 
-* [[!DNL Experience League] eventi e aggiornamenti](#events) (aggiornato: **22**)
+* [[!DNL Experience League] eventi e aggiornamenti](#events) (aggiornato: **28**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]: interfaccia centale e amministrazione](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -91,9 +97,9 @@ Per sfogliare le playlist, passa a **[!UICONTROL Scopri]** > **[!UICONTROL Sfogl
 
 * **[!DNL EXPERIENCE CLOUD]** | Evento community | _2025 Adobe Experience Maker Awards_ | Sono aperte le iscrizioni per gli Adobe Experience Maker Awards 2025. Straordinario è solo l&#39;inizio. Visionari audaci. Esperienze cliente eccezionali. | **N/D** | [Applica](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | Workshop per i clienti | _Informazioni: creazione di un caso per Workfront Fusion_ | Unisciti al team Customer Success per un workshop interattivo di 1 ora con Deloitte e Adobe Workfront Integations Consulting per scoprire come quantificare il risparmio di tempo e creare un solido business case per Workfront Fusion. | **27 agosto @ 10:00 MT** | [Registrati](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL JOURNEY OPTIMIZER]** | Coffee Break | _Coffee Break domande e risposte della community Adobe Journey Optimizer_ | È una sessione di chat simile all&#39;AMA della durata di un&#39;ora con gli esperti di Journey Optimizer intorno ai 3 devono provare le caratteristiche della sperimentazione Journey Optimizer- percorso, quota limite e messaggistica multilingue. | **4 settembre alle 9:00 MT** | [Registra](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _Quali sono le novità negli ambienti di sviluppo rapido per l&#39;AEM?_ | Unisciti a noi per scoprire come utilizzare gli RDE per ridurre i tempi di esecuzione dello sviluppo e ottenere un feedback immediato sulle modifiche al codice. Verranno introdotte le funzioni più recenti, come il miglioramento della registrazione, il supporto front-end e altro ancora. | **4 settembre alle 9:00 MT** | [Registra](https://adobe.ly/4cwc5W4)
 
 * **[!DNL WORKFRONT]** | Evento community | _Connetti: Chat con gli amministratori per marketing e creatività_ | Sei un amministratore di sistema per un team di marketing o creativo? Questa sessione orientata al cliente metterà in contatto te ad altri amministratori, per discutere di best practice, suggerimenti e strategie. | **6 settembre alle 10:00 MT** | [Registra](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
