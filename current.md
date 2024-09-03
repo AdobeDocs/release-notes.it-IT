@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
+source-git-commit: 5999b9ecba0626d515248194beaabc77613ddf2f
 workflow-type: tm+mt
-source-wordcount: '3186'
+source-wordcount: '3215'
 ht-degree: 90%
 
 ---
@@ -38,11 +38,11 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 ## Agosto 2024
 
-Ultimo aggiornamento: **giovedì 28 agosto 2024**
+Ultimo aggiornamento: **mercoledì 3 settembre 2024**
 
-* [[!DNL Experience League] eventi e aggiornamenti](#events) (aggiornato: **28**)
+* Eventi e aggiornamenti di [[!DNL Experience League] ](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud]: interfaccia centale e amministrazione](#ecloud)
+* [[!DNL Adobe Experience Cloud] - interfaccia centrale e amministrazione](#ecloud) (aggiornato: **3**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (Data di rilascio: **14 agosto**)
@@ -132,7 +132,11 @@ Informazioni sui componenti dell’interfaccia centrale e amministrazione di [!D
 
 +++Dettagli
 
-Non aggiornato.
+Versione: **2 settembre 2024**
+
+| Funzione | Descrizione |
+| -----------| ---------- |
+| Notifiche Slack | Puoi configurare le preferenze del tuo account per inviare notifiche di Experience Cloud a Slack. Per ulteriori informazioni, consulta _Notifiche di Slack_ nella [Guida sulle preferenze e le notifiche dell&#39;account](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences). |
 
 Per assistenza sui componenti dell’interfaccia centrale di Experience Cloud, consulta [Guida all’amministrazione e all’interfaccia di Experience Cloud](https://experienceleague.adobe.com/it/docs/core-services/interface/experience-cloud) (include [!UICONTROL Attributi del cliente], [!DNL Experience Cloud Assets] e [!UICONTROL Tipi di pubblico]).
 
