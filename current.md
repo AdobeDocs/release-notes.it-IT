@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f80213edd3db47dd0519beeaaaeb1cbfc9e04883
+source-git-commit: 1c909c2060ac5d838028dcd49def2d5c04e49e9a
 workflow-type: tm+mt
-source-wordcount: '3847'
-ht-degree: 97%
+source-wordcount: '3922'
+ht-degree: 95%
 
 ---
 
@@ -139,9 +139,10 @@ Informazioni sui componenti dell’interfaccia centrale e amministrazione di [!D
 
 Versione: **10 settembre 2024**
 
-| Funzione | Descrizione |
-| -----------| ---------- |
-| [!DNL Slack] notifiche in [!DNL Experience Cloud] | Puoi configurare le preferenze del tuo account per inviare notifiche [!DNL Experience Cloud] a Slack. Per ulteriori informazioni, consulta [Abbonarsi alle notifiche di Slack](https://experienceleague.adobe.com/it/docs/core-services/interface/features/account-preferences). |
+| Data di rilascio | Funzione | Descrizione |
+| -----------| -----------| ---------- |
+| Settembre 10 | [!DNL Slack] notifiche in [!DNL Experience Cloud] | Puoi configurare le preferenze del tuo account per inviare notifiche [!DNL Experience Cloud] a Slack. Per ulteriori informazioni, consulta [Abbonarsi alle notifiche di Slack](https://experienceleague.adobe.com/it/docs/core-services/interface/features/account-preferences). |
+| Ottobre 2 | Home personalizzabile | Nella pagina di destinazione di Experience Cloud, fai clic su **[!UICONTROL Modifica]**. La modalità [!UICONTROL Modifica] ti consente di personalizzare la home page dell&#39;Experience Cloud con l&#39;accesso a una libreria di widget e sfondi personalizzati. La modalità [!UICONTROL Modifica] offre controlli semplici e intuitivi per spostare, ridimensionare e gestire i widget, incluse le azioni in blocco e le regolazioni del layout, offrendo un&#39;esperienza più estetica e personalizzata.Configura la home page di Experience Cloud con l&#39;accesso a una libreria di widget e sfondi personalizzati. |
 
 Per assistenza sui componenti dell’interfaccia centrale di [!DNL Experience Cloud], consulta [Guida all’amministrazione e all’interfaccia di Experience Cloud](https://experienceleague.adobe.com/it/docs/core-services/interface/experience-cloud) (include [!UICONTROL Attributi del cliente], [!DNL Experience Cloud Assets] e [!UICONTROL Tipi di pubblico]).
 
