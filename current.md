@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e87cb9ab004a05e3555eabd29455ad9e8aa5231e
+source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3921'
+ht-degree: 95%
 
 ---
 
@@ -93,11 +93,9 @@ Per sfogliare le playlist, passa a **[!UICONTROL Scopri]** > **[!UICONTROL Sfogl
 
 +++Dettagli
 
-* **[!DNL WORKFRONT]** | Workshop per i clienti | _Scopri: come Cognizant utilizza Adobe Workfront per migliorare l’efficienza_ | Unisciti a Sujatha T S, Creative Operations Senior Manager e Global Brand and Creative, System Admin, mentre racconta come Cognizant ha ottimizzato il proprio sistema e i propri processi per migliorare l’efficienza e l’eccellenza del progetto. | **17 ottobre @ 09:00 MT** | [Registrati](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | Webinar | _Dietro le quinte: ottimizzazione dello store Commerce_ | Cerchi strategie per mantenere e ottimizzare la vetrina in modo efficiente? Scopri come evitare i blocchi di dati comuni, le strategie per mitigare l’attività dei bot e la pianificazione dello spazio su disco e delle dimensioni del database. | **17 ottobre alle 11:00 MT** | [Registra](https://adobeevents.adobeconnect.com/ekboarwqotqv/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | Chat domande e risposte | _Scopri il Percorso di Qualcomm all&#39;adozione di Adobe Workfront_ | Vieni a scoprire l’approccio strategico di Becky Barus, il lead Adobe Workfront tecnico certificato di Qualcomm, utilizzato per promuovere in modo significativo l’adozione da parte degli utenti di Adobe Workfront. | **23 ottobre @ 10:00 MT** | [Registrati](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | Unisciti a noi per Adobe Developers Live di persona alla sede centrale di Adobe a San Jose! Entra in contatto con gli sviluppatori di AEM e Commerce, esplora le ultime innovazioni e scopri le best practice. 12 novembre, di persona o online. Registrati ora! | **12 novembre alle 9:00 MT** | [Registra][(https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 E molte altre ancora! Visualizza tutti i [prossimi eventi](https://experienceleague.adobe.com/events/?lang=it) o sfoglia le [registrazioni degli eventi passati](https://experienceleague.adobe.com/it/docs/events/experience-league-recorded-events/overview) in Experience League.
 
