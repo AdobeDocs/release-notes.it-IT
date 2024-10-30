@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4dc15dc72d06718975ab5179065513265f061dc8
-workflow-type: ht
-source-wordcount: '4668'
+source-git-commit: 1f52efdc0836864a20ea66d286f9cee4d1587b6d
+workflow-type: tm+mt
+source-wordcount: '4532'
 ht-degree: 100%
 
 ---
@@ -38,7 +38,7 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 ## Novembre 2024
 
-Ultimo aggiornamento: **23 ottobre**
+Ultimo aggiornamento: **30 ottobre**
 
 * [Eventi e aggiornamenti di [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -92,12 +92,6 @@ Per sfogliare le playlist, passa a **[!UICONTROL Scopri]** > **[!UICONTROL Sfogl
 ### Eventi su Experience League
 
 +++Dettagli
-
-* **[!DNL Workfront]** | Domande e risposte | _Scopri il Percorso di Qualcomm all’adozione di Adobe Workfront_ | Vieni a scoprire l’approccio strategico di Becky Barus, il lead tecnico di Adobe Workfront certificato di Qualcomm, utilizzato per migliorare in modo significativo l’adozione da parte degli utenti di Adobe Workfront. | **23 ottobre @ 10:00 MT** | [Registrati](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | Experience League LIVE | _Adobe Experience League Live: armonizza i tipi di pubblico negli ecosistemi di esperienze - Composizione di pubblico federato in Experience Platform_ | Scopri come la composizione di pubblico federato offre un approccio completo alla cura e all’attivazione del pubblico con Real-Time CDP e Journey Optimizer. | **24 ottobre alle 09:00 MT** | [Registrati](https://engage.adobe.com/ExpLeagueLive-241024.html)
-
-* **[!DNL Workfront]** | Domande e risposte | _Pannello cliente: lezioni apprese dagli amministratori esperti di Workfront_ | Unisciti a quattro clienti Adobe Workfront esperti per una discussione interattiva di un’ora per scoprire cosa fare (o non fare) durante l’implementazione, l’ereditarietà, la gestione e l’espansione di un’istanza di Workfront. | **29 ottobre @ 09:00 MT** | [Registrati](https://events.teams.microsoft.com/event/bfdd4c24-1a60-447d-a91b-ad52806626a5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Cloud](più prodotti)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Unisciti a noi di persona per Adobe Developers Live alla sede centrale di Adobe a San Jose. Entra in contatto con gli sviluppatori di AEM e Commerce, esplora le ultime innovazioni e scopri le best practice. 12 novembre, di persona o online. Registrati ora. | **12 novembre alle 09:00 MT** | [Registrati](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
@@ -188,7 +182,7 @@ Trova le informazioni sulla versione più recente di [!DNL Adobe Analytics] e [!
 
 +++Dettagli
 
-[!DNL Analytics] data di rilascio: **2 ottobre 2024**
+[!DNL Analytics] data di rilascio: **giovedì 23 ottobre 2024**
 
 * [!DNL Analytics] [note sulla versione](https://experienceleague.adobe.com/it/docs/analytics/release-notes/latest)<!-- (https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
@@ -226,7 +220,7 @@ Trova le informazioni sulla versione più recente di [!DNL Customer Journey Anal
 
 +++Dettagli
 
-[!DNL Customer Journey Analytics] data di rilascio: **2 ottobre 2024**
+[!DNL Customer Journey Analytics] data di rilascio: **giovedì 23 ottobre 2024**
 
 * [!DNL Customer Journey Analytics] [note sulla versione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/releases/latest#releases) <!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
