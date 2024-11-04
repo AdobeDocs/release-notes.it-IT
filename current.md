@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1f52efdc0836864a20ea66d286f9cee4d1587b6d
+source-git-commit: 7b1fc9eb2230cb7779b9253211080933c73cb796
 workflow-type: tm+mt
-source-wordcount: '4532'
-ht-degree: 100%
+source-wordcount: '4608'
+ht-degree: 98%
 
 ---
 
@@ -38,7 +38,7 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 
 ## Novembre 2024
 
-Ultimo aggiornamento: **30 ottobre**
+Ultimo aggiornamento: **4 novembre**
 
 * [Eventi e aggiornamenti di [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -93,7 +93,11 @@ Per sfogliare le playlist, passa a **[!UICONTROL Scopri]** > **[!UICONTROL Sfogl
 
 +++Dettagli
 
-* **[!DNL Experience Cloud] (più prodotti)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Unisciti a noi di persona per Adobe Developers Live alla sede centrale di Adobe a San Jose. Entra in contatto con gli sviluppatori di AEM e Commerce, esplora le ultime innovazioni e scopri le best practice. 12 novembre, di persona o online. Registrati ora. | **12 novembre alle 09:00 MT** | [Registrati](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
+* **[!DNL Workfront]** | Workshop per i clienti | _Informazioni: Applicazione della gestione delle modifiche al Percorso Workfront_ | Keri Amundson, Senior Customer Success Manager, condivide le best practice per la gestione delle modifiche e contribuisce al cambiamento nel percorso Workfront. | **7 novembre alle 09:00 MT** | [Registrati](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workshop per i clienti | _Informazioni: Applicazione della gestione delle modifiche al Percorso Workfront_ | Keri Amundson, Senior Customer Success Manager, condivide le best practice per la gestione delle modifiche e contribuisce al cambiamento nel percorso Workfront. | **7 novembre alle 09:00 MT** | [Registrati](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Cloud](più prodotti)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Unisciti a noi di persona per Adobe Developers Live alla sede centrale di Adobe a San Jose. Entra in contatto con gli sviluppatori di AEM e Commerce, esplora le ultime innovazioni e scopri le best practice. 12 novembre, di persona o online. Registrati ora. | **12 novembre alle 09:00 MT** | [Registrati](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 * **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | Unisciti a noi di persona per Adobe Developers Live alla sede centrale di Adobe a San Jose. Entra in contatto con gli sviluppatori di AEM e Commerce, esplora le ultime innovazioni e scopri le best practice. 12 novembre, di persona o online. Registrati ora. | **12 novembre alle 09:00 MT** | [Registrati](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
