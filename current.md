@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 719336060311e774db7799c3357946dc2568ac67
+source-git-commit: 9231c3a730a0b7167c8c63a7655f08239fd6dee9
 workflow-type: tm+mt
-source-wordcount: '4484'
-ht-degree: 99%
+source-wordcount: '4614'
+ht-degree: 97%
 
 ---
 
@@ -93,7 +93,13 @@ Per sfogliare le playlist, passa a **[!UICONTROL Scopri]** > **[!UICONTROL Sfogl
 
 +++Dettagli
 
+* **[!DNL Workfront]** | Evento community | _Connetti: Collettivo Workfront_ | Partecipa agli eventi collettivi Workfront di lunedì, organizzati ogni mese per comunicare con altri clienti, discutere le funzionalità di Workfront, condividere idee e discutere insieme le problematiche comuni. | **11 novembre alle 7:00 MT** | [Registra](https://events.teams.microsoft.com/event/ffc976b3-a3a9-44d3-bea7-ff315460495a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workshop per i clienti | _Amministratore 101: recupero utenti da utilizzare con Workfront_ | Ti avvicini ora a Workfront? Partecipa alla seconda sessione della serie in tre parti Admin 101 per discutere di tutte le questioni relative all’adozione da parte degli utenti. Venite con le vostre domande! | **12 novembre alle 09:00 MT** | [Registrati](https://events.teams.microsoft.com/event/e9e4e06c-b492-4759-afda-b5d3fb31859e@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL Experience Cloud](più prodotti)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Unisciti a noi di persona per Adobe Developers Live alla sede centrale di Adobe a San Jose. Entra in contatto con gli sviluppatori di AEM e Commerce, esplora le ultime innovazioni e scopri le best practice. 12 novembre, di persona o online. Registrati ora. | **12 novembre alle 09:00 MT** | [Registrati](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
+
+* **[!DNL Experience Platform and Real-Time CDP]** | EXPERIENCE LEAGUE LIVE | _Introduzione all&#39;Assistente all&#39;intelligenza artificiale per il pubblico di Real-Time CDP_ per gli addetti al marketing | Unisciti agli esperti dei prodotti Adobe per uno sguardo da vicino all’Assistente all’intelligenza artificiale per i tipi di pubblico, presto disponibili in Adobe Real-Time CDP, per sovrascrivere approfondimenti e azioni sul pubblico. Ricevi risposte alle tue domande dagli esperti dei prodotti Adobe. | **13 novembre alle 10:00 MT** | [Registra](https://engage.adobe.com/ExpLeagueLive-241113.html)
 
 E molto altro ancora. Visualizza tutti i [prossimi eventi](https://experienceleague.adobe.com/events/?lang=it) o sfoglia le [registrazioni degli eventi passati](https://experienceleague.adobe.com/it/docs/events/experience-league-recorded-events/overview) in Experience League.
 
