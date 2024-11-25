@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
+source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
 workflow-type: tm+mt
-source-wordcount: '4635'
+source-wordcount: '4639'
 ht-degree: 94%
 
 ---
@@ -34,7 +34,7 @@ Per una migliore esperienza di supporto autonomo, accedi a [Experience League](h
 
 **Novembre 2024**
 
-Ultimo aggiornamento: **sabato 22 novembre 2024**
+Ultimo aggiornamento: **lunedì 24 novembre 2024**
 
 * [[!DNL Experience League] eventi e aggiornamenti](#events) (**24**)
 * [[!DNL Adobe System Status]](#status)
@@ -64,17 +64,17 @@ Ultimo aggiornamento: **sabato 22 novembre 2024**
 * [Certificazione in Adobe](https://experienceleague.adobe.com/it/certification-home)
 * [Vulnerabilità di sicurezza del prodotto Adobe](https://helpx.adobe.com/it/security.html)
 
-## Eventi e aggiornamenti di [!DNL Experience League] {#events}
+## [!DNL Experience League] aggiornamenti ed eventi {#events}
 
 Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasione di imparare, interagire e ricevere risposte dagli esperti del prodotto di Adobe.
 
-+++Dettagli
+### Aggiornamenti di Experience League
 
-### Miglioramenti al sommario
++++Dettagli
 
 Aggiornamento: **22 novembre 2024**
 
-In questo Experience League sono stati apportati i seguenti aggiornamenti a ogni sommario:
+**Aggiornamenti del sommario:** Sono stati apportati i seguenti aggiornamenti a ogni sommario nell&#39;Experience League:
 
 * **[!UICONTROL Espandi tutte le sezioni]**: visualizza l&#39;intero sommario in qualsiasi guida di Experience League. (Questa opzione si disattiva dopo il caricamento di una pagina. Questo problema verrà risolto in un aggiornamento futuro.) Le opzioni **[!UICONTROL Visualizza altro]** e **[!UICONTROL Visualizza meno]** sono state rimosse.
 * **Scorrimento**: consente lo scorrimento di un sommario lungo.
