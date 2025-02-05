@@ -6,10 +6,10 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8cbb1bff56f6f664dd2c46c0fc53b04909761992
-workflow-type: ht
-source-wordcount: '4493'
-ht-degree: 100%
+source-git-commit: 03486f88bc94130445325ac63150ecb54c953f48
+workflow-type: tm+mt
+source-wordcount: '4370'
+ht-degree: 95%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 ## Gennaio 2025
 
-Ultimo aggiornamento: **22 gennaio 2025**
+Ultimo aggiornamento: **giovedì 5 febbraio 2025**
 
 Per date di rilascio specifiche dell’applicazione, consulta le note sulla versione del prodotto.
 
@@ -69,35 +69,23 @@ Per date di rilascio specifiche dell’applicazione, consulta le note sulla vers
 
 Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasione di imparare, interagire e ricevere risposte dagli esperti del prodotto di Adobe.
 
-### Aggiornamenti a Experience League
+### Aggiornamenti di Experience League (febbraio 2025)
 
 +++Dettagli
 
-Rilasciato: **Autunno 2024**
+**Home page personalizzata**
 
-**Aggiornamenti sommario:** sono stati apportati i seguenti aggiornamenti a ogni sommario in Experience League:
+Rilasciato: **5 febbraio 2025**
 
-* **[!UICONTROL Espandi tutte le sezioni]**: visualizza l’intero sommario in qualsiasi guida di Experience League. Questa opzione si disattiva dopo il caricamento di una pagina. Il problema verrà risolto in un aggiornamento futuro. Le opzioni **[!UICONTROL Visualizza altro]** e **[!UICONTROL Visualizza meno]** sono state rimosse.
-* **Scorri**: consente lo scorrimento di un sommario lungo.
-* **[!UICONTROL Filtra per parola chiave]**: consente di filtrare le voci del sommario digitando le parole chiave. In un elenco a discesa vengono visualizzati risultati rilevanti ed è possibile cancellare il filtro facendo clic su **[!UICONTROL Cancella]**.
-* **Visibilità pagina attiva**: la pagina attiva viene sempre evidenziata nel sommario.
+La nuova [Home Experience League](https://experienceleague.adobe.com/?lang=en) presenta consigli di apprendimento personalizzati basati su [!DNL Adobe Target].
 
-### Playlist su Experience League
+Funzioni principali:
 
-Sono disponibili nuove [playlist](https://experienceleague.adobe.com/it/playlists) video in Experience League. Una playlist è una raccolta di video curata per aiutarti a acquisire le abilità e le conoscenze che cerchi.
-
-Le funzioni della playlist includono:
-
-* Riproduci automaticamente video
-* Selezione dei capitoli e velocità di riproduzione
-* Riprendi da dove hai interrotto
-* Trascrizioni video
-
-Per sfogliare le playlist, passa a **[!UICONTROL Scopri]** > **[!UICONTROL Sfoglia tutte le playlist]**.
-
->[!NOTE]
->
->Se hai contrassegnato con segnalibro un corso su Experience League, verrai reindirizzato a una playlist corrispondente. In alcuni casi, potrebbe essere necessario selezionare una nuova playlist che includa gli argomenti che stai cercando.
+* Contenuto consigliato in base a ruolo, prodotto e attività recenti
+* Contenuto visualizzato di recente
+* Eventi on-demand e certificazioni consigliati
+* Contenuto pubblicato di recente per il prodotto
+* Interfaccia riprogettata e aggiornata
 
 +++
 
@@ -105,15 +93,17 @@ Per sfogliare le playlist, passa a **[!UICONTROL Scopri]** > **[!UICONTROL Sfogl
 
 +++Dettagli
 
-* **[!DNL Workfront]** | _Attivati con Workfront: chiedimi qualsiasi cosa_ | In questa sessione di “Chiedimi qualsiasi cosa”, i consulenti aziendali di Adobe [!DNL Workfront] Samantha Miller, Aaron Baker e Mary Ann Erickson, risponderanno alle domande in tempo reale e condivideranno le best practice di [!DNL Workfront] per aiutare la clientela ad avere successo nel 2025. | **23 gennaio alle 11:00 MT** | [Registrati](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
-
-* **[!DNL Workfront]** | _Connect: [!DNL Workfront] Sessione collettiva_ | Partecipa agli eventi collettivi mensili del lunedì di [!DNL Workfront], progettati per entrare in contatto con altri clienti, discutere le funzionalità di [!DNL Workfront], condividere idee e riflettere insieme per risolvere le problematiche comuni. | **27 gennaio alle 7:00 MT** | [Registrati](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Informazioni: superamento della resistenza al cambiamento nel percorso in [!DNL Workfront]_ | Unisciti ai nostri esperti in gestione del cambiamento di [!DNL Workfront] per discutere delle best practice per l’identificazione e il superamento delle resistenze con i tuoi utenti. | **30 gennaio alle 10:00 MT** | [Registrati](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Target]** | _Serie di webinar Maturità di Adobe Target_ | Innovazioni Adobe Target, tra cui GenAI, e best practice su personalizzazione e sperimentazione basate sull’intelligenza artificiale su larga scala. | **4 febbraio alle 09:00 MT** | [Registrati](https://event.adobe.com/adobetargetmaturitywebinars)
+* **[!DNL Adobe Summit]** | _Conferenza sull&#39;esperienza digitale_ | Unisciti ai colleghi e ascolta i dirigenti della Coca-Cola Company, JPMorganChase, ServiceNow e altro ancora. | **18 - 19 marzo @ Las Vegas &amp; Online** | [Registra](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 * **[!DNL Target]** | _Marketo e Mochas: 5 funzionalità Marketo da conoscere nel 2025_ | Nella nostra prima sessione di [!DNL Marketo] e Mochas dell’anno, gli esperti [!DNL Marketo] Carly Gaver e Kate Colbert descrivono 5 funzionalità avanzate che possono contribuire a migliorare l’esperienza cliente e stimolare la richiesta nel 2025. | **6 febbraio alle 11:00 MT** | [Registrati](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Workfront]** | _Connetti: Chat con gli amministratori per marketing e creatività_ | Sei un amministratore di sistema di Workfront per un team di marketing o creativo? Partecipa alla nostra discussione interattiva per connetterti con altri amministratori e condividere le best practice. | **7 febbraio alle 10:00 MT** | [Registra](https://events.teams.microsoft.com/event/5c409c21-d39e-4239-9853-5e69569711d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Amministratore 101: recupero utenti da utilizzare con Workfront_ | Ti avvicini ora a Workfront? Partecipa alla seconda sessione della nostra serie in 3 parti, dove offriamo best practice sull’assunzione di progetti e sull’adozione da parte degli utenti. | **11 febbraio alle 09:00 MT** | [Registrati](https://events.teams.microsoft.com/event/66877127-5d68-4f56-aeb6-ca6769551fb3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Chiedi informazioni sulla governance di Workfront_ | Chiedi ai nostri esperti interni come migliorare i processi, le politiche e i controlli Workfront per allinearli meglio agli obiettivi strategici della tua organizzazione. | **12 febbraio alle 09:00 MT** | [Registrati](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-governance/ev-p/729202)
+
+* **[!DNL Marketo and Marketo Engage]** | _Orario Adobe Marketo Engage Champion - Febbraio 2025_ | Unisciti a noi per un Nord America e LATAM time friendly Champion Office Hours guidato dai Campioni del Marketo Engage 2024/25. | **13 febbraio alle 8:00 MT** | [Registra](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
 
 * **[!DNL Commerce]** | _Commerce &amp; Coffee: l’aumento self-service nel B2B_ | Inizia l’anno con i nostri esperti di [!DNL Commerce], Corey Gelato e Agbi Bajrushi, mentre esplorano le ultime tendenze B2B e un approccio per sfruttare le nuove funzionalità di [!DNL Commerce] per restare all’avanguardia rispetto alla concorrenza tutto l’anno. | **13 febbraio alle 11:00 MT** | [Registrati](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
