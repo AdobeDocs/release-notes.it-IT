@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2c335cc0a49915c85d284fdd4de72dfb985dcccb
+source-git-commit: 137dc623cf4b283e8a18e609d6847b72a5f20aa7
 workflow-type: tm+mt
-source-wordcount: '3630'
-ht-degree: 50%
+source-wordcount: '3628'
+ht-degree: 51%
 
 ---
 
@@ -33,7 +33,7 @@ Utilizza questi collegamenti per trovare le note sulla versione dell’applicazi
 
 * [Eventi e aggiornamenti di [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - interfaccia centrale e amministrazione](#ecloud) (aggiornato: **12 febbraio**)
+* [[!DNL Adobe Experience Cloud]: interfaccia centale e amministrazione](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
