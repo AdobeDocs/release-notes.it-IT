@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 137dc623cf4b283e8a18e609d6847b72a5f20aa7
+source-git-commit: 566009aeac5ff30a0368d90226e1fd31583cba5d
 workflow-type: tm+mt
-source-wordcount: '3628'
-ht-degree: 51%
+source-wordcount: '3671'
+ht-degree: 50%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 51%
 
 ## Febbraio 2025
 
-Ultimo aggiornamento: **giovedì 19 febbraio 2025**
+Ultimo aggiornamento: **martedì 24 febbraio 2025**
 
 Utilizza questi collegamenti per trovare le note sulla versione dell’applicazione, gli eventi, i nuovi tutorial e gli articoli più recenti sul supporto della Knowledge Base:
 
@@ -87,11 +87,13 @@ Funzioni principali:
 
 +++Dettagli
 
-* **[!DNL Adobe Summit]** | _Conferenza sull&#39;esperienza digitale_ | Unisciti ai colleghi e ascolta i dirigenti della Coca-Cola Company, JPMorganChase, ServiceNow e altro ancora. | **18 - 19 marzo @ Las Vegas &amp; Online** | [Registra](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Experience Cloud]** | Adobe Summit | _Conferenza sull&#39;esperienza digitale_ | Unisciti ai colleghi e ascolta i dirigenti della Coca-Cola Company, JPMorganChase, ServiceNow e altro ancora. | **18 - 19 marzo @ Las Vegas &amp; Online** | [Registra](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Experience Cloud]** | _Informazioni digitali su Adobe: apertura dei risultati delle festività 2024 e tendenze degli inizi del 2025_ | Un riepilogo completo delle tendenze degli acquisti per le vacanze 2024 e uno sguardo in avanti alla prima metà del 2025. Utilizza queste informazioni per aiutarti a prevedere e superare le aspettative dei clienti nell’anno successivo. | **20 febbraio alle 10:00 ora legale** | [Registra](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
+* **[!DNL Workfront]** | Impara dai tuoi colleghi | _Come misurare e condividere il valore di Workfront_ | Unisciti a noi il 26 febbraio 2025, mentre i tuoi colleghi di Synchrony ed EMMsphere condividono in che modo hanno creato il loro &quot;Workfront Why&quot; definitivo e come comunicano risultati misurabili come risparmi di tempo e costi.| **26 febbraio alle 8:00 PT** | [Registrati](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | _Connetti: Collettivo Workfront_ | Partecipa agli eventi collettivi Workfront di lunedì, organizzati ogni mese per comunicare con altri clienti, discutere le funzionalità di Workfront, condividere idee e discutere insieme le problematiche comuni. | **24 febbraio alle 7:00 ora legale** | [Registra](https://events.teams.microsoft.com/event/d3b3a3c3-9563-4499-a147-8b966d13a30d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | Webinar | _Protezione della sponsorizzazione esecutiva per Adobe Workfront_ | Scopri in che modo l’Assistente AI può sbloccare informazioni operative preziose, aumentare la produttività e ridefinire il lavoro in Adobe Experience Platform e nelle sue applicazioni basate su piattaforma.| **27 febbraio alle 09:00 ora legale** | [Registra](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Sblocco di approfondimenti operativi con l&#39;Assistente all&#39;intelligenza artificiale in Adobe Experience Platform_ | Scopri in che modo l’Assistente AI può sbloccare informazioni operative preziose, aumentare la produttività e ridefinire il lavoro in Adobe Experience Platform e nelle sue applicazioni basate su piattaforma.| **27 febbraio alle 8:30 PST** | [Registra](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
 E molto altro ancora. Visualizza tutti i [prossimi eventi](https://experienceleague.adobe.com/events/?lang=it) o sfoglia le [registrazioni degli eventi passati](https://experienceleague.adobe.com/it/docs/events/experience-league-recorded-events/overview) in Experience League.
 
