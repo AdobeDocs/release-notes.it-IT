@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3a542c8eddc0015672a975dd2b9fcd024a808084
+source-git-commit: f3fadcb8c041692973a902fd3433483592aebf4c
 workflow-type: tm+mt
 source-wordcount: '3671'
-ht-degree: 96%
+ht-degree: 95%
 
 ---
 
@@ -87,13 +87,13 @@ Caratteristiche principali:
 
 +++Dettagli
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _Conferenza sull&#39;esperienza digitale_ | Unisciti ai colleghi e ascolta i dirigenti della Coca-Cola Company, JPMorganChase, ServiceNow e altro ancora. | **18-19 marzo a Las Vegas e online** | [Registrati](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Workfront]** | Impara dai tuoi colleghi | _Come misurare e condividere il valore di Workfront_ | **26 febbraio alle 08:00 PT** | Unisciti a noi il 26 febbraio 2025, mentre i tuoi colleghi di Synchrony ed EMMsphere condividono in che modo hanno creato il loro &quot;Workfront Why&quot; definitivo e come comunicano risultati misurabili come risparmi di tempo e costi. | [Registra](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | Impara dai tuoi colleghi | _Come misurare e condividere il valore di Workfront_ | Unisciti a noi il 26 febbraio 2025, mentre i tuoi colleghi di Synchrony ed EMMsphere condividono in che modo hanno creato il loro &quot;Workfront Why&quot; definitivo e come comunicano risultati misurabili come risparmi di tempo e costi.| **26 febbraio alle 8:00 PT** | [Registrati](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
+* **[!DNL Workfront]** | Webinar | _Protezione della sponsorizzazione esecutiva per Adobe Workfront_ | **27 febbraio alle 09:00 ora legale** | Scopri in che modo l’Assistente AI può sbloccare informazioni operative preziose, aumentare la produttività e ridefinire il lavoro in Adobe Experience Platform e nelle sue applicazioni basate su piattaforma. | [Registra](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | Webinar | _Protezione della sponsorizzazione esecutiva per Adobe Workfront_ | Scopri in che modo l’Assistente AI può sbloccare informazioni operative preziose, aumentare la produttività e ridefinire il lavoro in Adobe Experience Platform e nelle sue applicazioni basate su piattaforma.| **27 febbraio alle 09:00 ora legale** | [Registra](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Sblocco di approfondimenti operativi con l&#39;Assistente all&#39;intelligenza artificiale in Adobe Experience Platform_ | **27 febbraio alle 8:30 PST** | Scopri in che modo l’Assistente AI può sbloccare informazioni operative preziose, aumentare la produttività e ridefinire il lavoro in Adobe Experience Platform e nelle sue applicazioni basate su piattaforma. | [Registra](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
-* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Sblocco di approfondimenti operativi con l&#39;Assistente all&#39;intelligenza artificiale in Adobe Experience Platform_ | Scopri in che modo l’Assistente AI può sbloccare informazioni operative preziose, aumentare la produttività e ridefinire il lavoro in Adobe Experience Platform e nelle sue applicazioni basate su piattaforma.| **27 febbraio alle 8:30 PST** | [Registra](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Cloud]** | Adobe Summit | _Conferenza sull&#39;esperienza digitale_ | **18 - 19 marzo @ Las Vegas &amp; Online**| Unisciti ai colleghi e ascolta i dirigenti della Coca-Cola Company, JPMorganChase, ServiceNow e altro ancora. |  [Registra](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 E molto altro ancora. Visualizza tutti i [prossimi eventi](https://experienceleague.adobe.com/events/?lang=it) o sfoglia le [registrazioni degli eventi passati](https://experienceleague.adobe.com/it/docs/events/experience-league-recorded-events/overview) in Experience League.
 
