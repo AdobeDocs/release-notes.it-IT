@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f3fadcb8c041692973a902fd3433483592aebf4c
+source-git-commit: ec5ef84d81c827c1bb16146f9694c31069023f2e
 workflow-type: tm+mt
-source-wordcount: '3671'
-ht-degree: 95%
+source-wordcount: '3590'
+ht-degree: 97%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 95%
 
 ## Febbraio 2025
 
-Ultimo aggiornamento: **martedì 24 febbraio 2025**
+Ultimo aggiornamento: **venerdì 27 febbraio 2025**
 
 Utilizza questi collegamenti per trovare le note sulla versione dell’applicazione, gli eventi, i nuovi tutorial e gli articoli di supporto più recenti della knowledge base:
 
-* [Eventi e aggiornamenti di [!DNL Experience League]](#events)
+* [[!DNL Experience League] eventi e aggiornamenti](#events) (**26**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]: interfaccia centale e amministrazione](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -69,8 +69,6 @@ Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasio
 
 **Pagina Home personalizzata**
 
-Data di rilascio: **5 febbraio 2025**
-
 La nuova pagina [Home di Experience League](https://experienceleague.adobe.com/?lang=it) include consigli di apprendimento personalizzati basati su [!DNL Adobe Target].
 
 Caratteristiche principali:
@@ -81,15 +79,13 @@ Caratteristiche principali:
 * Contenuti pubblicati di recente per il tuo prodotto
 * Interfaccia riprogettata e aggiornata
 
+[Ulteriori informazioni...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud/discover-smarter-faster-learning-with-experience-league-s-new/td-p/739750)
+
 +++
 
 ### Eventi su Experience League
 
 +++Dettagli
-
-* **[!DNL Workfront]** | Impara dai tuoi colleghi | _Come misurare e condividere il valore di Workfront_ | **26 febbraio alle 08:00 PT** | Unisciti a noi il 26 febbraio 2025, mentre i tuoi colleghi di Synchrony ed EMMsphere condividono in che modo hanno creato il loro &quot;Workfront Why&quot; definitivo e come comunicano risultati misurabili come risparmi di tempo e costi. | [Registra](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
-
-* **[!DNL Workfront]** | Webinar | _Protezione della sponsorizzazione esecutiva per Adobe Workfront_ | **27 febbraio alle 09:00 ora legale** | Scopri in che modo l’Assistente AI può sbloccare informazioni operative preziose, aumentare la produttività e ridefinire il lavoro in Adobe Experience Platform e nelle sue applicazioni basate su piattaforma. | [Registra](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Sblocco di approfondimenti operativi con l&#39;Assistente all&#39;intelligenza artificiale in Adobe Experience Platform_ | **27 febbraio alle 8:30 PST** | Scopri in che modo l’Assistente AI può sbloccare informazioni operative preziose, aumentare la produttività e ridefinire il lavoro in Adobe Experience Platform e nelle sue applicazioni basate su piattaforma. | [Registra](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
