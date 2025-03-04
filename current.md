@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: ec5ef84d81c827c1bb16146f9694c31069023f2e
 workflow-type: tm+mt
 source-wordcount: '3590'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -87,9 +87,9 @@ Caratteristiche principali:
 
 +++Dettagli
 
-* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Sblocco di approfondimenti operativi con l&#39;Assistente all&#39;intelligenza artificiale in Adobe Experience Platform_ | **27 febbraio alle 8:30 PST** | Scopri in che modo l’Assistente AI può sbloccare informazioni operative preziose, aumentare la produttività e ridefinire il lavoro in Adobe Experience Platform e nelle sue applicazioni basate su piattaforma. | [Registra](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Platform]** | Experience League LIVE | _Sbloccare insight operativi con Assistente IA in Adobe Experience Platform_ | **27 febbraio, 08:30 PST** | Scopri in che modo l’Assistente IA può sbloccare insight operativi preziosi, aumentare la produttività e ridefinire il lavoro in Adobe Experience Platform e nelle relative applicazioni basate su questa piattaforma. | [Registrati](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _Conferenza sull&#39;esperienza digitale_ | **18 - 19 marzo @ Las Vegas &amp; Online**| Unisciti ai colleghi e ascolta i dirigenti della Coca-Cola Company, JPMorganChase, ServiceNow e altro ancora. |  [Registra](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Experience Cloud]** | Adobe Summit | _The Digital Experience Conference_ | **18-19 marzo, Las Vegas e online**| Partecipa per fare rete con altri professionisti e ascolta i dirigenti di Coca-Cola Company, JPMorganChase, ServiceNow e altri ancora. |  [Registrati](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 E molto altro ancora. Visualizza tutti i [prossimi eventi](https://experienceleague.adobe.com/events/?lang=it) o sfoglia le [registrazioni degli eventi passati](https://experienceleague.adobe.com/it/docs/events/experience-league-recorded-events/overview) in Experience League.
 
