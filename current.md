@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ec5ef84d81c827c1bb16146f9694c31069023f2e
+source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
 workflow-type: tm+mt
-source-wordcount: '3590'
-ht-degree: 99%
+source-wordcount: '3666'
+ht-degree: 96%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 99%
 
 ## Febbraio 2025
 
-Ultimo aggiornamento: **venerdì 27 febbraio 2025**
+Ultimo aggiornamento: **mercoledì 4 marzo 2025**
 
 Utilizza questi collegamenti per trovare le note sulla versione dell’applicazione, gli eventi, i nuovi tutorial e gli articoli di supporto più recenti della knowledge base:
 
-* [[!DNL Experience League] eventi e aggiornamenti](#events) (**26**)
+* [[!DNL Experience League] eventi e aggiornamenti](#events) (**4 marzo**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]: interfaccia centale e amministrazione](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -87,9 +87,13 @@ Caratteristiche principali:
 
 +++Dettagli
 
-* **[!DNL Experience Platform]** | Experience League LIVE | _Sbloccare insight operativi con Assistente IA in Adobe Experience Platform_ | **27 febbraio, 08:30 PST** | Scopri in che modo l’Assistente IA può sbloccare insight operativi preziosi, aumentare la produttività e ridefinire il lavoro in Adobe Experience Platform e nelle relative applicazioni basate su questa piattaforma. | [Registrati](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Manager Forms]** | _Espressos e Experience Manager: AEM Forms_ | **6 marzo** | Unisciti al team di prodotto AEM di Adobe evidenziando le ultime innovazioni di AEM Forms, tra cui: il nuovo Gen AI Assistant, la composizione unificata con AEM Sites e nuovi modi per distribuire i moduli attraverso le conversazioni. | [Registrati](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _The Digital Experience Conference_ | **18-19 marzo, Las Vegas e online**| Partecipa per fare rete con altri professionisti e ascolta i dirigenti di Coca-Cola Company, JPMorganChase, ServiceNow e altri ancora. |  [Registrati](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Workfront]** | _Connetti: Chat con gli amministratori per Marketing e Creative_ | **7 marzo** | Che tu sia un amministratore di sistema di Workfront per un team di marketing, creativo o di qualsiasi altro tipo, questa discussione interattiva sarà incentrata sulle best practice e sul brainstorming collettivo. | [Registrati](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+
+* **[!DNL Workfront]** | _Amministratore 101: recupero dati Workfront_ | **11 marzo** | Ti avvicini ora a Workfront? Partecipa alla terza sessione della serie Admin 101 per scoprire tutte le funzioni di reporting. Potresti aspettarti una discussione interattiva su blueprint, dashboard, Forms personalizzato e altro ancora. | [Registrati](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Cloud]** | _Adobe Summit - Conferenza sull&#39;esperienza digitale_ | **18 - 19 marzo @ Las Vegas &amp; Online**| Unisciti ai colleghi e ascolta i dirigenti della Coca-Cola Company, JPMorganChase, ServiceNow e altro ancora. |  [Registrati](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 E molto altro ancora. Visualizza tutti i [prossimi eventi](https://experienceleague.adobe.com/events/?lang=it) o sfoglia le [registrazioni degli eventi passati](https://experienceleague.adobe.com/it/docs/events/experience-league-recorded-events/overview) in Experience League.
 
