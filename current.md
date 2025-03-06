@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
+source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
 workflow-type: tm+mt
-source-wordcount: '3666'
-ht-degree: 96%
+source-wordcount: '3696'
+ht-degree: 95%
 
 ---
 
@@ -125,8 +125,9 @@ Informazioni sui componenti dell’interfaccia centrale e amministrazione di [!D
 
 +++Dettagli
 
-| Data | Funzione | Descrizione |
+| Data | Aggiornamento | Descrizione |
 | -----------| -----------| ---------- |
+| venerdì 6 marzo 2025 | Correzione delle opzioni del menu di scelta rapida | Le schede di navigazione dell’intestazione di Experience Cloud ora consentono le funzioni del menu a discesa del browser, accessibili mediante clic con il pulsante destro del mouse. Questo risolve un problema introdotto nella versione di febbraio del sistema di progettazione Spectrum 2. |
 | 13 febbraio | Spectrum 2 | Il frame dell’applicazione [!DNL Experience Cloud], inclusa la barra dell’intestazione e i componenti a cui si accede dalla barra dell’intestazione (e dalla barra di navigazione a sinistra per alcune applicazioni) verrà aggiornato a Spectrum 2. Spectrum è lo standard di progettazione Adobe. Questo design aggiornato include un’iconografia aggiornata, ma le stesse funzionalità. Tuttavia, diversi elementi nell’intestazione vengono riposizionati per allinearli ad altri siti e applicazioni di Adobe. |
 
 Per assistenza sui componenti dell’interfaccia centrale di [!DNL Experience Cloud], consulta [Guida all’amministrazione e all’interfaccia di Experience Cloud](https://experienceleague.adobe.com/it/docs/core-services/interface/experience-cloud) (include [!UICONTROL Attributi del cliente], [!DNL Experience Cloud Assets] e [!UICONTROL Tipi di pubblico]).
