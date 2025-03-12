@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e5fddb62b83ccf53efe0f869af383b823707ec57
+source-git-commit: 3d9970385a93930673e0b95e6de4cedbe235b5fd
 workflow-type: tm+mt
-source-wordcount: '4049'
-ht-degree: 45%
+source-wordcount: '4054'
+ht-degree: 44%
 
 ---
 
@@ -137,7 +137,7 @@ Informazioni sui componenti dell’interfaccia centrale e amministrazione di [!D
 | venerdì 6 marzo 2025 | Correzione delle opzioni del menu di scelta rapida | Le schede di navigazione dell’intestazione di Experience Cloud ora consentono le funzioni del menu a discesa del browser, accessibili mediante clic con il pulsante destro del mouse. Questo risolve un problema introdotto nella versione di febbraio del sistema di progettazione Spectrum 2. |
 | 13 febbraio | Spectrum 2 | Il frame dell’applicazione [!DNL Experience Cloud], inclusa la barra dell’intestazione e i componenti a cui si accede dalla barra dell’intestazione (e dalla barra di navigazione a sinistra per alcune applicazioni) verrà aggiornato a Spectrum 2. Spectrum è lo standard di progettazione Adobe. Questo design aggiornato include un’iconografia aggiornata, ma le stesse funzionalità. Tuttavia, diversi elementi nell’intestazione vengono riposizionati per allinearli ad altri siti e applicazioni di Adobe. |
 
-Per assistenza sui componenti dell’interfaccia centrale di [!DNL Experience Cloud], consulta [Guida all’amministrazione e all’interfaccia di Experience Cloud](https://experienceleague.adobe.com/it/docs/core-services/interface/experience-cloud) (include [!UICONTROL Attributi del cliente], [!DNL Experience Cloud Assets] e [!UICONTROL Tipi di pubblico]).
+Per informazioni sui componenti dell&#39;interfaccia centrale [!DNL Experience Cloud] e sull&#39;amministrazione di utenti e prodotti, vedere la [guida all&#39;interfaccia e all&#39;amministrazione di Experience Cloud](https://experienceleague.adobe.com/it/docs/core-services/interface/experience-cloud). (Include [!UICONTROL Attributi del cliente], [!DNL Experience Cloud Assets] e [!UICONTROL Tipi di pubblico].)
 
 +++
 
