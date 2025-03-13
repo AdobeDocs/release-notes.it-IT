@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9bae2ace4b03080dcb5568d029a7cec530948547
+source-git-commit: 88777fd2d5c5f195b07fc537d25887de5dd68eee
 workflow-type: tm+mt
-source-wordcount: '4056'
-ht-degree: 44%
+source-wordcount: '4011'
+ht-degree: 41%
 
 ---
 
@@ -19,15 +19,19 @@ ht-degree: 44%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/?lang=it#home) consente di saperne di più sulle applicazioni enterprise di Experience Cloud e Adobe. Per una migliore esperienza, accedi e personalizza la ricerca nella libreria di risorse gratuita.
+[Experience League](https://experienceleague.adobe.com/?lang=it#home) è la tua libreria di risorse che ti possono aiutare a conoscere le applicazioni enterprise di Experience Cloud e Adobe. Accedi e:
 
-* **Ricevi notifiche:** per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento prioritario sui prodotti Adobe](https://www.adobe.com/subscription/priority-product-update.html).
+* [Personalizza il tuo apprendimento](https://experienceleague.adobe.com/en/home/profile-settings): aiutaci a personalizzare la tua esperienza di apprendimento. Seleziona il tuo ruolo, il settore e i prodotti che ti interessano.
+* [Sfoglia e individua](https://experienceleague.adobe.com/en/browse): trova contenuti popolari, nuovi tutorial, documentazione, prossimi eventi e altro ancora.
+* [Ottieni prospettive nuove](https://experienceleague.adobe.com/en/perspectives): abbiamo raccolto una serie di casi d&#39;uso reali e best practice, scritti da colleghi ed esperti di prodotti Adobe.
+* [Ottieni la certificazione](https://experienceleague.adobe.com/it/certification-home): il nuovo portale di certificazione Adobe rende semplice il perfezionamento delle tue competenze e la certificazione.
+* [Coinvolgi una community di colleghi](https://experienceleaguecommunities.adobe.com/): unisciti ai gruppi, incontra i nostri Experience League Community Advisors e scopri come diventarlo.
 
-* **Lascia un feedback:** Cerca il pop-up **_Questo contenuto è stato utile?_** nella parte inferiore di ogni articolo o video. Il tuo feedback viene curato e distribuito agli autori di contenuti.
+Per ricevere una notifica e-mail trimestrale sugli aggiornamenti di questa pagina, abbonati ad [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## Marzo 2025
 
-Ultimo aggiornamento: **giovedì 12 marzo 2025**
+Ultimo aggiornamento: **venerdì 13 marzo 2025**
 
 Utilizza questi collegamenti per trovare le note sulla versione dell’applicazione, gli eventi, i nuovi tutorial e gli articoli di supporto più recenti della knowledge base:
 
@@ -58,37 +62,13 @@ Utilizza questi collegamenti per trovare le note sulla versione dell’applicazi
 * [Certificazione in Adobe](https://experienceleague.adobe.com/it/certification-home)
 * [Vulnerabilità di sicurezza del prodotto Adobe](https://helpx.adobe.com/it/security.html)
 
-## [!DNL Experience League] aggiornamenti ed eventi {#events}
+## Eventi su [!DNL Experience League] {#events}
 
-Scopri eventi entusiasmanti su Experience League. Gli eventi offrono l’occasione di imparare, interagire e ricevere risposte dagli esperti del prodotto di Adobe.
+Trova [eventi](https://experienceleague.adobe.com/events/?lang=it) e registrati per quelli che ti interessano.
 
-### Aggiornamenti a Experience League
-
-+++Dettagli
-
-**Pagina Home personalizzata**
-
-La nuova pagina [Home di Experience League](https://experienceleague.adobe.com/?lang=it) include consigli di apprendimento personalizzati basati su [!DNL Adobe Target].
-
-Caratteristiche principali:
-
-* Contenuti consigliati in base a ruolo, prodotto e attività recenti
-* Contenuti visualizzati di recente
-* Eventi on-demand e certificazioni consigliati
-* Contenuti pubblicati di recente per il tuo prodotto
-* Interfaccia riprogettata e aggiornata
-
-[Ulteriori informazioni...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud/discover-smarter-faster-learning-with-experience-league-s-new/td-p/739750)
-
-+++
-
-### Eventi su Experience League
-
-+++Dettagli
++++Eventi
 
 * **[!DNL Adobe Summit]** | _Conferenza sull&#39;esperienza digitale_ | **18 - 19 marzo @ Las Vegas &amp; Online**| Unisciti ai colleghi e ascolta i dirigenti della Coca-Cola Company, JPMorganChase, ServiceNow e altro ancora. |  [Registrati](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _Scopri: crea un grafico del tuo corso con Adobe Workfront Planning_ | **13 marzo** | Unisciti ai nostri Adobe Product Manager per una sessione introduttiva approfondita sulla pianificazione di Workfront, dove condivideranno come questa funzione può fornire una visibilità completa sui dettagli operativi della tua organizzazione. | [Registrati](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Amministratore 101: invia le tue domande su Workfront_ | **25 marzo** | Ti avvicini ora a Workfront? Hai saltato una delle sessioni precedenti di Admin 101? Partecipa alla sessione di riepilogo per porre domande, ottenere risorse e consigli e incontrare altri nuovi amministratori. | [Registrati](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -110,7 +90,9 @@ E molto altro ancora. Visualizza tutti i [prossimi eventi](https://experiencelea
 
 Scopri le funzioni e gli aggiornamenti più recenti in [!DNL Adobe System Status].
 
-+++Dettagli
+Nessun aggiornamento di marzo.
+
++++Note sulla versione
 
 [!DNL Adobe System Status] fornisce informazioni dettagliate, aggiornamenti sullo stato e notifiche e-mail relative ai prodotti e ai servizi Adobe. Ricevi notifiche su sospensioni, interruzioni ed eventi di manutenzione. Consulta [status.adobe.com/it](https://status.adobe.com/it).
 
@@ -130,7 +112,7 @@ Le ultime note sulla versione si trovano qui:
 
 Informazioni sui componenti dell’interfaccia centrale e amministrazione di [!DNL Experience Cloud]. Gestisci prodotti e utenti, configura le impostazioni e le preferenze del profilo, cerca oggetti Experience Cloud e gestisci i cookie.
 
-+++Dettagli
++++Nuove funzioni
 
 | Data | Aggiornamento | Descrizione |
 | -----------| -----------| ---------- |
