@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b650fd69124036dd9e12bdb901467b3c5ab49de7
+source-git-commit: 53b0b8e4d33473fdca0a31307b905f51a49d405a
 workflow-type: tm+mt
-source-wordcount: '4011'
+source-wordcount: '3951'
 ht-degree: 96%
 
 ---
@@ -191,17 +191,15 @@ Data di rilascio [!DNL Analytics]: **12 marzo 2025**
 
 ### AppMeasurement {#appm}
 
-Versione: **2.27.0**
+* [Note sulla versione di AppMeasurement per JavaScript](https://github.com/adobe/appmeasurement/releases)
 
-* [Note sulla versione di AppMeasurement per JavaScript](https://experienceleague.adobe.com/it/docs/analytics/implementation/appmeasurement-updates)
+<!-- ### New [!DNL Analytics] tutorials {#tutorials-analytics}
 
-### Nuovi tutorial su[!DNL Analytics] {#tutorials-analytics}
+New tutorials published for Adobe [!DNL Analytics] on Experience League.
 
-Nuovi tutorial pubblicati su Adobe [!DNL Analytics] in Experience League.
-
-| Pubblicato | Nome | Tipo | Descrizione |
+|Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-| Marzo 2025 | [Migrazione da Adobe Analytics a Web SDK tramite tag](https://experienceleague.adobe.com/it/docs/platform-learn/migrate-analytics-to-websdk/migration-to-websdk-overview) | Video multipli | Scopri i passaggi per effettuare la migrazione di un’implementazione di Adobe [!DNL Analytics] utilizzando l’estensione [!DNL Analytics] nei tag di Experience Platform (precedentemente nota come [!DNL Launch]) in Web SDK, utilizzando l’estensione Web SDK anche nei tag. |
+|March 2025|[Migrate Adobe Analytics to Web SDK using Tags](https://experienceleague.adobe.com/en/docs/platform-learn/migrate-analytics-to-websdk/migration-to-websdk-overview)| Multiple videos |Learn the steps to migrate an Adobe [!DNL Analytics] implementation using the [!DNL Analytics] extension in Experience Platform Tags (formerly known as [!DNL Launch]) to Web SDK, using the Web SDK extension also in Tags. |
 
 <!-- ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
