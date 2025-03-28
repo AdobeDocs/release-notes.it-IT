@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2ee49223680d875489b16b64b541a9e43341f459
+source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
 workflow-type: tm+mt
-source-wordcount: '3951'
-ht-degree: 96%
+source-wordcount: '3867'
+ht-degree: 95%
 
 ---
 
@@ -69,10 +69,6 @@ Trova [eventi](https://experienceleague.adobe.com/events/?lang=it) e registrati 
 +++Eventi
 
 * **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | **18-19 marzo, Las Vegas e online**| Partecipa per fare rete con altri professionisti e ascolta i dirigenti di Coca-Cola Company, JPMorganChase, ServiceNow e altri ancora. |  [Registrati](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _Admin 101: Le tue domande su Workfront_ | **25 marzo** | Utilizzi Workfront per la prima volta? Hai saltato una delle sessioni precedenti di Admin 101? Partecipa alla sessione di riepilogo per porre domande, ottenere risorse e consigli e incontrare altri nuovi amministratori. | [Registrati](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Apprendimento: 10 suggerimenti per la modalità testo in Adobe Workfront_ | **27 marzo** | Desideri ampliare le tue conoscenze di reporting con la modalità testo? Ecco quello che fa per te. Questo workshop presenta le nozioni di base sulla modalità testo e l’API Explorer, seguite da 10 suggerimenti per la modalità testo in Adobe Workfront. | [Registrati](https://events.teams.microsoft.com/event/72b8860b-e330-4fcf-ad71-bb3c94265961@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Connect: sessione collettiva di Workfront_ | **31 marzo** | Partecipa agli eventi collettivi mensili del lunedì di Workfront, progettati per entrare in contatto con altri clienti, discutere le funzionalità di Workfront, condividere le idee e riflettere insieme per risolvere le problematiche comuni. | [Registrati](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
