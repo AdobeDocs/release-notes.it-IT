@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3867'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -19,19 +19,19 @@ ht-degree: 95%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/?lang=it#home) è la tua libreria di risorse che ti possono aiutare a conoscere le applicazioni enterprise di Experience Cloud e Adobe. Accedi e:
+[Experience League](https://experienceleague.adobe.com/?lang=it#home) è la libreria di risorse per aiutarti a conoscere le applicazioni enterprise di Experience Cloud e Adobe. Accedi e:
 
-* [Personalizza il tuo apprendimento](https://experienceleague.adobe.com/en/home/profile-settings): aiutaci a personalizzare la tua esperienza di apprendimento. Seleziona il tuo ruolo, il settore e i prodotti che ti interessano.
-* [Sfoglia e individua](https://experienceleague.adobe.com/en/browse): trova contenuti popolari, nuovi tutorial, documentazione, prossimi eventi e altro ancora.
-* [Ottieni prospettive nuove](https://experienceleague.adobe.com/en/perspectives): abbiamo raccolto una serie di casi d&#39;uso reali e best practice, scritti da colleghi ed esperti di prodotti Adobe.
-* [Ottieni la certificazione](https://experienceleague.adobe.com/it/certification-home): il nuovo portale di certificazione Adobe rende semplice il perfezionamento delle tue competenze e la certificazione.
-* [Coinvolgi una community di colleghi](https://experienceleaguecommunities.adobe.com/): unisciti ai gruppi, incontra i nostri Experience League Community Advisors e scopri come diventarlo.
+* [Personalizza il tuo apprendimento](https://experienceleague.adobe.com/it/home/profile-settings): aiutaci a personalizzare la tua esperienza di apprendimento. Seleziona il tuo ruolo, il settore e i prodotti che ti interessano.
+* [Sfoglia e scopri](https://experienceleague.adobe.com/it/browse): trova contenuti popolari, nuovi tutorial, documentazione, prossimi eventi e altro ancora.
+* [Ottieni prospettive nuove](https://experienceleague.adobe.com/it/perspectives): abbiamo raccolto una serie di casi d’uso reali e best practice, scritti da colleghi ed esperti di prodotti Adobe.
+* [Ottieni la certificazione](https://experienceleague.adobe.com/it/certification-home): il nuovo portale di certificazione Adobe rende semplice il perfezionamento delle tue competenze e l’ottenimento della certificazione.
+* [Contatta una community di colleghi](https://experienceleaguecommunities.adobe.com/): unisciti ai gruppi, incontra i nostri Experience League Community Advisors e scopri come diventarlo.
 
-Per ricevere una notifica e-mail trimestrale sugli aggiornamenti di questa pagina, abbonati ad [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
+Per ricevere una notifica e-mail trimestrale sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento prioritario sui prodotti Adobe](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## Marzo 2025
 
-Ultimo aggiornamento: **venerdì 13 marzo 2025**
+Ultimo aggiornamento: **13 marzo 2025**
 
 Utilizza questi collegamenti per trovare le note sulla versione dell’applicazione, gli eventi, i nuovi tutorial e gli articoli di supporto più recenti della knowledge base:
 
@@ -86,7 +86,7 @@ E molto altro ancora. Visualizza tutti i [prossimi eventi](https://experiencelea
 
 Scopri le funzioni e gli aggiornamenti più recenti in [!DNL Adobe System Status].
 
-Nessun aggiornamento di marzo.
+Nessun aggiornamento a marzo.
 
 +++Note sulla versione
 
