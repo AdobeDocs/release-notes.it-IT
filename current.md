@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ef653e4d57445416cbe6b474948d0eb5e3399c38
+source-git-commit: aa6db19854fe6a00df59aa25a18874bc3a0d72f4
 workflow-type: tm+mt
-source-wordcount: '3876'
+source-wordcount: '3879'
 ht-degree: 94%
 
 ---
@@ -355,7 +355,7 @@ Ottieni gli aggiornamenti più recenti di [!DNL Adobe Campaign]. Trova nuovi tut
 
 * [!DNL Campaign Standard]: [note sulla versione](https://experienceleague.adobe.com/it/docs/campaign-standard/using/release-notes/release-notes) | [Documentazione del prodotto](https://experienceleague.adobe.com/it/docs/campaign-standard/using/campaign-standard-home)
 
-* [!DNL Campaign Classic] 7.4.2: [Note sulla versione](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2)
+* [!DNL Campaign Classic] 7.4.2: [Note sulla versione](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Documentazione del prodotto](https://experienceleague.adobe.com/it/docs/campaign-classic/using/campaign-classic-home)
 
 <!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
