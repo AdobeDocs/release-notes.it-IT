@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
+source-git-commit: 4c6d4a25f4dba2d88fc986eab08b34d7d9a4fa97
 workflow-type: tm+mt
-source-wordcount: '4069'
+source-wordcount: '4067'
 ht-degree: 37%
 
 ---
@@ -96,8 +96,8 @@ Data di rilascio: **20 marzo 2025**
 
 | Funzione | Descrizione |
 | ------- | ------- |
-| **Assistente virtuale beta** | <ul><li>L&#39;assistenza virtuale è una funzionalità che consente a [!DNL Adobe Status] clienti sul Web e sui dispositivi mobili di ottenere risposte alle proprie domande e di eseguire azioni rapide senza uscire dalla home page. Può fungere da unica posizione in cui è possibile risolvere tutte le query. Se desideri partecipare alla versione beta del cliente, invia un&#39;e-mail a [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com). </li></ul> |
-| **Nuova pagina della guida del glossario degli eventi** | <ul><li>Una pagina di aiuto dedicata per guidare gli utenti di [!DNL Adobe Status] su tutti i tipi di eventi, l&#39;iconografia e i relativi stati in modo che sia più semplice navigare nel sito Web.</li><li>Pagina di panoramica Stato Adobe > Menu Aiuto, presenta una nuova voce di menu (Glossario eventi) che punta a questa nuova pagina.</li><li>Una qualsiasi delle superfici di Adobe che fanno riferimento a [!DNL Adobe Status] potrebbe aggiungere collegamenti alla nuova pagina della guida.</li></ul> |
+| **Assistente virtuale beta** | <ul><li>Virtual Assistant è una funzione che consentirà ai clienti Status sul Web e sui dispositivi mobili di ottenere risposte alle loro domande e di eseguire azioni rapide senza uscire dalla home page. Può fungere da unica posizione per risolvere tutte le query. Se desideri partecipare alla versione beta del cliente, invia un&#39;e-mail a [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com). </li></ul> |
+| **Nuovo glossario eventi** | <ul><li>Una pagina di aiuto dedicata per guidare gli utenti di [!DNL Adobe Status] su tutti i tipi di eventi, l&#39;iconografia e i relativi stati in modo che sia più semplice navigare nel sito Web.</li><li>Pagina di panoramica Stato Adobe > Menu Aiuto, presenta una nuova voce di menu (Glossario eventi) che punta a questa nuova pagina.</li><li>Una qualsiasi delle superfici di Adobe che fanno riferimento a [!DNL Adobe Status] potrebbe aggiungere collegamenti alla nuova pagina della guida.</li></ul> |
 | **Correzioni di bug e miglioramenti** | <ul><li>Notifiche Slack - Il messaggio di promemoria viene visualizzato come Pianificato</li><li>Gli eventi relativi ai prodotti ritirati non devono essere visualizzati nella pagina Panoramica</li><li>_Chiuso_ > _CSO ignorato_ messaggio di aggiornamento e notifiche non inviate</li><li>Il caricamento di intestazione e piè di pagina Web di stato richiede molto tempo al momento dell&#39;aggiornamento</li><li>Il menu di localizzazione dello stato nel piè di pagina è interrotto</li></ul> |
 
 Note sulle versioni precedenti di [!DNL Adobe System Status]:
@@ -190,7 +190,7 @@ Trova le informazioni sulla versione più recente di [!DNL Adobe Analytics] e [!
 
 +++Note sulla versione e nuovi tutorial
 
-Data di rilascio di [!DNL Analytics]: **giovedì 16 aprile 2025**
+Data di rilascio [!DNL Analytics] : **giovedì 16 aprile 2025**
 
 * [Note sulla versione](https://experienceleague.adobe.com/it/docs/analytics/release-notes/latest) di [!DNL Analytics]
 
