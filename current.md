@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 461a76bce5aeb1da20b613af4dccbc0ebf1383e0
+source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
 workflow-type: tm+mt
-source-wordcount: '4065'
+source-wordcount: '4069'
 ht-degree: 37%
 
 ---
@@ -30,6 +30,8 @@ Questa pagina consente di trovare le note sulla versione specifiche per l’appl
 Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, abbonati ad [Aggiornamento prodotti Adobe prioritario](https://www.adobe.com/subscription/priority-product-update.html).
 
 Aggiornato il **giovedì 16 aprile 2025**
+
++++Visualizza tutti i prodotti
 
 * [[!DNL Experience League] eventi e aggiornamenti](#events) (aggiornato il **15 aprile**)
 * [[!DNL Adobe System Status]](#status)
@@ -58,11 +60,13 @@ Aggiornato il **giovedì 16 aprile 2025**
 * [Certificazione in Adobe](https://experienceleague.adobe.com/it/certification-home)
 * [Vulnerabilità di sicurezza del prodotto Adobe](https://helpx.adobe.com/it/security.html)
 
++++
+
 ## Eventi su [!DNL Experience League] {#events}
 
 Trova [eventi](https://experienceleague.adobe.com/en/events) e registrati per quelli che ti interessano.
 
-+++Eventi
++++Prossimi eventi
 
 * **[!DNL Marketo]** | _Marketo e Mochas: controllo di un&#39;istanza ereditata o corrente_ | **17 aprile** | Hai ereditato di recente un’istanza di Marketo? O forse stai cercando di eseguire controlli regolari sull’istanza corrente per massimizzarne il potenziale? Unisciti a noi per questo webinar su Marketo e Mochas con i nostri Adobe Business Advisors, Cynthia Chang e Carly Gaver, incentrato su come eseguire un audit approfondito per comprendere lo stato corrente della tua istanza. | [Registrati](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
@@ -186,7 +190,7 @@ Trova le informazioni sulla versione più recente di [!DNL Adobe Analytics] e [!
 
 +++Note sulla versione e nuovi tutorial
 
-Data di rilascio [!DNL Analytics] : **giovedì 16 aprile 2025**
+Data di rilascio di [!DNL Analytics]: **giovedì 16 aprile 2025**
 
 * [Note sulla versione](https://experienceleague.adobe.com/it/docs/analytics/release-notes/latest) di [!DNL Analytics]
 
