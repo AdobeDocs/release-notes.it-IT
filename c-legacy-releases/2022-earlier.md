@@ -1,15 +1,14 @@
 ---
-description: 'Note sulla versione archiviata di prodotti e servizi Experience Cloud. '
-seo-description: New features and fixes in the Adobe Experience Cloud - 2018 and earlier.
-title: Note sulla versione per il 2021 e versioni precedenti
+description: Sono state archiviate le note sulla versione di PDF per i prodotti e i servizi Experience Cloud.
+title: Note sulla versione per il 2022 e versioni precedenti
 solution: Experience Cloud,Analytics,Target,Advertising
 seo-title: Release Notes for 2021 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 980a6e5e-a561-4fb5-b1cc-467ddabf0d01
-source-git-commit: 62cb9a8cd5ed8b54594f7f33f90d344014f74752
+source-git-commit: 7a108dcc0c7d64f27c52fb5afb250bedcb599106
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 100%
+source-wordcount: '66'
+ht-degree: 84%
 
 ---
 
