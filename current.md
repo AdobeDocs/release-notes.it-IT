@@ -33,7 +33,7 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 * [Pianificazione degli eventi](#events)
 * [Risorse per l&#39;utilizzo di IA in [!DNL Experience Cloud]](#ai) (aggiornato: **19 settembre**)
 * [[!DNL Adobe System Status]](#status)
-* Interfaccia centrale e amministrazione di [[!DNL Adobe Experience Cloud]  ](#ecloud)
+* Interfaccia centrale e amministrazione di [[!DNL Adobe Experience Cloud]  &#x200B;](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (Rilasciato il **17**)
@@ -327,7 +327,7 @@ Nuovi articoli e aggiornamenti ad articoli esistenti per [!DNL Experience Manage
 |---------|--------|---------|---------|
 | Agosto 2025 | [Dopo aver utilizzato [!UICONTROL LiveCopy], la pubblicazione in DM non funziona per alcune risorse](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-27254#) | Nuovo articolo | Scopri le soluzioni al problema che si verifica quando le risorse nella posizione di origine vengono sincronizzate con DynamicMedia Scene7, causando conflitti con le risorse nella posizione di destinazione in cui la sincronizzazione non funziona come previsto. |
 | Agosto 2025 | [Disabilitare la cache di Dispatcher per un’istanza specifica di un componente in AEM](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-27185#) | Nuovo articolo | Scopri le soluzioni al problema che si verifica quando, disabilitando la cache di Dispatcher per un’istanza specifica di un componente, si verificano problemi se più componenti su una pagina condividono lo stesso `resourceType`. |
-| Agosto 2025 | Errore di [*[!UICONTROL aggiornamento del browser ]*durante la connessione di Adobe Analytics da Dynamic Media](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-27200#) | Nuovo articolo | Scopri le soluzioni al problema che si verifica quando viene riscontrato l’errore *[!UICONTROL Aggiorna il browser]* durante la connessione ad Adobe Analytics tramite l’app desktop AEM Dynamic Media in [!DNL Windows]. |
+| Agosto 2025 | Errore di [*[!UICONTROL aggiornamento del browser &#x200B;]*&#x200B;durante la connessione di Adobe Analytics da Dynamic Media](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-27200#) | Nuovo articolo | Scopri le soluzioni al problema che si verifica quando viene riscontrato l’errore *[!UICONTROL Aggiorna il browser]* durante la connessione ad Adobe Analytics tramite l’app desktop AEM Dynamic Media in [!DNL Windows]. |
 | Agosto 2025 | [Adobe Experience Manager: errore 404 per la consegna dell’immagine locale di Dynamic Media Hybrid nella versione 6.5.23](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-27297#) | Nuovo articolo | Scopri le soluzioni al problema che si verifica quando Dynamic Media Hybrid non consegna le immagini locali su AEM 6.5.23. |
 | Agosto 2025 | [Adobe Experience Manager: la modifica delle pagine non è più disponibile dopo il passaggio alla modalità [!UICONTROL Sviluppatore] in AEM 6.5.23](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-27405#) | Nuovo articolo | Scopri le soluzioni ai problemi che si verificano passando alla modalità [!UICONTROL Sviluppatore] nell’editor di pagine. |
 | Agosto 2025 | [Pulsante di invio del modulo adattivo disabilitato nella pagina del sito AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27075#) | Nuovo articolo | Scopri le soluzioni al problema che si verifica quando, durante l’incorporamento di un [!UICONTROL modulo adattivo] in una pagina del sito AEM, il pulsante **Invia** rimane disabilitato a causa di dipendenze JavaScript mancanti o non inizializzate. |
@@ -363,7 +363,7 @@ Accedi alle note sulla versione, ai nuovi tutorial e agli articoli di supporto d
 +++Note sulla versione, nuovi tutorial e articoli di supporto
 
 * Consulta [Note sulla versione di [!DNL Adobe Commerce] e  [!DNL Magento Open Source]](https://experienceleague.adobe.com/it/docs/commerce-operations/release/notes/overview) per restare al corrente.
-* Consulta le [Guide ai servizi di Adobe  [!DNL Commerce] ](https://experienceleague.adobe.com/it/docs/commerce/user-guides/home) per visualizzare le informazioni e la documentazione sulla versione dei servizi di Commerce.
+* Consulta le [Guide ai servizi di Adobe  [!DNL Commerce] &#x200B;](https://experienceleague.adobe.com/it/docs/commerce/user-guides/home) per visualizzare le informazioni e la documentazione sulla versione dei servizi di Commerce.
 * Consulta la [Disponibilità del prodotto](https://experienceleague.adobe.com/it/docs/commerce-operations/release/product-availability) per accedere alle note sulla versione dei singoli prodotti e verificare la disponibilità.
 
 ### Nuovi tutorial per [!DNL Adobe Commerce] {#tutorials-commerce}
@@ -403,7 +403,7 @@ Data di rilascio: **23 settembre 2025**
 -->
 
 * Per informazioni pre-release, consulta [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/it/docs/target/using/release-notes/target-release-notes)
-* Per informazioni sulla versione attuale, consulta Note sulla versione di [[!DNL Adobe Target] ](https://experienceleague.adobe.com/it/docs/target/using/release-notes/release-notes)
+* Per informazioni sulla versione attuale, consulta Note sulla versione di [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/it/docs/target/using/release-notes/release-notes)
 
 +++
 
@@ -603,7 +603,7 @@ Nuovi articoli e aggiornamenti ad articoli esistenti per [!DNL Workfront].
 | Agosto 2025 | [Impossibile creare rapporti sulle azioni specifiche dell’approvatore n Adobe Workfront](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-27298) | Nuovo articolo | Scopri le soluzioni al problema che si verifica quando i rapporti di Adobe Workfront non supportano in modo nativo l’isolamento delle azioni eseguite da approvatori specifici nei flussi di lavoro di approvazione in più fasi. |
 | Agosto 2025 | [Impossibile allegare il modello a un progetto esistente in Workfront](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-27305) | Nuovo articolo | Scopri le soluzioni al problema che si verifica quando, allegando un modello a un progetto esistente in Adobe Workfront, viene restituito un errore relativo alle impostazioni delle autorizzazioni di condivisione a livello di sistema. |
 
-Per la documentazione più recente sul prodotto, consulta la pagina home della documentazione di [Adobe [!DNL Workfront] ](https://experienceleague.adobe.com/it/docs/workfront/using/home).
+Per la documentazione più recente sul prodotto, consulta la pagina home della documentazione di [Adobe [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/it/docs/workfront/using/home).
 
 +++
 
