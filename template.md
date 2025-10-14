@@ -4,9 +4,9 @@ description: Note sulla versione di Experience Cloud
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
-workflow-type: ht
-source-wordcount: '716'
+source-git-commit: 6ee325d5194c99b4d828f8d335dfd8583077d1e9
+workflow-type: tm+mt
+source-wordcount: '713'
 ht-degree: 100%
 
 ---
@@ -52,7 +52,7 @@ Funzioni e problemi risolti.
 
 Vedi [Stato di Adobe](https://status.adobe.com/it).
 
-## ![Icona](/assets/ec_appicon_24.png) Componenti dell’interfaccia centrale di Experience Cloud {#ecloud}
+## Componenti dell’interfaccia utente centrale di Experience Cloud {#ecloud}
 
 Experience Cloud Central Interface Components include aggiornamenti a cui è possibile accedere dall’intestazione del prodotto unificata, ad esempio Aiuto, Ricerca e preferenze dell’account utente. Qui trovi gli aggiornamenti ai servizi People, Places (Posizione) e alla gestione dei prodotti.
 
@@ -64,7 +64,7 @@ Funzioni e problemi risolti.
 
 Funzioni e problemi risolti.
 
-## ![Icona](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+## Experience Platform {#platform}
 
 Note sulla versione per [!DNL Experience Platform,] che includono [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offerte], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services] e bollettini sulla sicurezza.
 
@@ -257,7 +257,7 @@ Marketo Engage è una soluzione completa per chi lavora nell’ambito della gest
 
 Data di rilascio: 21 febbraio 2020
 
-* **Azione di flusso _Change Owner in Microsoft®_ di Microsoft® Dynamics:** cambia il proprietario di lead o contatti direttamente da Marketo Engage.
+* **Azione di flusso _Change Owner in Microsoft®_ di Microsoft® Dynamics:** cambia il proprietario di lead o contatti direttamente da Marketo Engage.
 * **Miglioramenti alle chiamate API:**
    * API per gestione utenti
    * API per schemi di oggetti personalizzati
