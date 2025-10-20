@@ -35,7 +35,7 @@ Per ricevere una notifica e-mail mensile sugli aggiornamenti di questa pagina, a
 * [Pianificazione degli eventi](#events)
 * [Risorse per l’utilizzo dell’IA in  [!DNL Experience Cloud]](#ai)
 * [[!DNL Adobe System Status]](#status)
-* Interfaccia centrale e amministrazione di [[!DNL Adobe Experience Cloud]  ](#ecloud)
+* Interfaccia centrale e amministrazione di [[!DNL Adobe Experience Cloud]  &#x200B;](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
@@ -321,7 +321,7 @@ Nuovi articoli e aggiornamenti ad articoli esistenti per [!DNL Experience Manage
 | Settembre 2025 | [Configurazione di un dominio personalizzato per la distribuzione di risorse Dynamic Media in AEM Cloud](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27330) | Nuovo articolo | Scopri come configurare un dominio personalizzato per la consegna Dynamic Media in Adobe AEM Cloud. |
 | Settembre 2025 | [Il caricamento di immagini in blocco in AEM Dynamic Media non riesce con *Errore di formato file non supportato*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27467) | Nuovo articolo | Scopri le soluzioni al problema quando i caricamenti di immagini in massa in Dynamic Media o Scene7 di Adobe Experience Manager (AEM) non riescono, con errori come *un formato di file non supportato* o *un formato non valido*, anche quando le immagini sono file JPG/JPEG validi. |
 | Settembre 2025 | [Impossibile caricare o scaricare video e rappresentazioni in AEM Brand Portal](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27490) | Nuovo articolo | Scopri le soluzioni al problema quando i video pubblicati da Adobe Experience Manager (AEM) in Brand Portal attivano un errore *Impossibile caricare i dati* quando si accede a oppure quando le rappresentazioni dinamiche vengono scaricate come file corrotti o incompleti. |
-| Settembre 2025 | Pulsante [**[!UICONTROL Pubblicazione rapida ]**mancante in AEM Cloud Service a causa del profilo amministratore rinominato](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27545) | Nuovo articolo | Scopri le soluzioni al problema quando gli utenti assegnati al profilo di prodotto Amministratore perdono l&#39;accesso ai pulsanti **[!UICONTROL Pubblicazione rapida]** e **[!UICONTROL Gestisci pubblicazione]** se il nome del profilo predefinito viene modificato in Admin Console in Adobe Experience Manager (AEM) as a Cloud Service - Sites. |
+| Settembre 2025 | Pulsante [**[!UICONTROL Pubblicazione rapida &#x200B;]**&#x200B;mancante in AEM Cloud Service a causa del profilo amministratore rinominato](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27545) | Nuovo articolo | Scopri le soluzioni al problema quando gli utenti assegnati al profilo di prodotto Amministratore perdono l&#39;accesso ai pulsanti **[!UICONTROL Pubblicazione rapida]** e **[!UICONTROL Gestisci pubblicazione]** se il nome del profilo predefinito viene modificato in Admin Console in Adobe Experience Manager (AEM) as a Cloud Service - Sites. |
 | Settembre 2025 | [Errore HTTP 503 a causa di un connettore S3 non compatibile in AEM SP22/SP23](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27567) | Nuovo articolo | Scopri le soluzioni al problema quando AEM diventa inaccessibile dopo l’aggiornamento a Service Pack 22 o 23 con l’archivio dati S3 abilitato. |
 | Settembre 2025 | [Adobe Experience Manager: se si copia e incolla un contenitore, vengono visualizzati i componenti duplicati](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27594) | Nuovo articolo | Scopri le soluzioni al problema in AEM 6.5.20 e AEM 6.5.21: quando copi un componente contenitore e lo incolla nell’editor pagina, è possibile che i componenti interni del contenitore incollato siano duplicati. |
 | Settembre 2025 | [Accesso negato quando si utilizza il comando `aio app use` in AEM tramite Adobe I/O](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27689) | Nuovo articolo | Scopri le soluzioni al problema in Adobe Experience Manager (AEM) integrato con Adobe I/O. Viene visualizzato un errore *403 Forbidden* durante il tentativo di utilizzo del comando `aio app use`. |
@@ -370,7 +370,7 @@ Nuovi articoli e aggiornamenti ad articoli esistenti per [!DNL Experience Manage
 | Settembre 2025 | [Correggi l&#39;errore *403* durante la trasmissione dei frammenti di contenuto tramite API AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27438) | Nuovo articolo | Scopri le soluzioni al problema in AEMaaCS quando si verifica un errore *403 Forbidden* durante il push dei frammenti di contenuto all’API `/sites/cf/fragments`. |
 | Settembre 2025 | [Il modulo del report di download delle risorse non riesce a causa di un campo data vuoto in AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27540) | Nuovo articolo | Scopri le soluzioni al problema in AEMaaCS - Assets quando il campo **[!UICONTROL Regola data]** non è contrassegnato come obbligatorio nel [!UICONTROL Rapporto download risorse], causando errori di invio. |
 | Settembre 2025 | [Impossibile rimuovere gli utenti inattivi dai gruppi di utenti e dai flussi di lavoro di AEM Cloud](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27541) | Nuovo articolo | Scopri le soluzioni al problema in AEMaaCS: i siti quando gli utenti vengono disattivati nel sistema Identity Management (IMS) continuano a ricevere notifiche e-mail del flusso di lavoro. |
-| Settembre 2025 | [**[!UICONTROL Aggiungi al carrello ]**non funziona per i prodotti configurabili nel [!DNL Venia] sito Web](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27554) | Nuovo articolo | Scopri le soluzioni al problema quando la funzione **[!UICONTROL Aggiungi al carrello]** per i prodotti configurabili non riesce nel sito demo [!DNL Venia] creato con AEMaaCS quando si utilizza [!DNL AEM Reference Demos Add-on]. |
+| Settembre 2025 | [**[!UICONTROL Aggiungi al carrello &#x200B;]**&#x200B;non funziona per i prodotti configurabili nel [!DNL Venia] sito Web](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27554) | Nuovo articolo | Scopri le soluzioni al problema quando la funzione **[!UICONTROL Aggiungi al carrello]** per i prodotti configurabili non riesce nel sito demo [!DNL Venia] creato con AEMaaCS quando si utilizza [!DNL AEM Reference Demos Add-on]. |
 | Settembre 2025 | [Risoluzione dei problemi relativi agli errori di precisione nei calcoli su un numero elevato tramite Adaptive Forms in Adobe Experience Manager 6.5](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27642) | Nuovo articolo | Scopri le soluzioni al problema quando Adaptive Forms in AEM 6.5 non produce risultati precisi per calcoli con numero elevato e precisione al quarto decimale. |
 | Settembre 2025 | [Offerta frammento esperienza con percorso di dominio indesiderato in Adobe Target](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27491) | Nuovo articolo | Scopri le soluzioni al problema durante l’integrazione di [!UICONTROL Frammenti di esperienza] da Adobe Experience Manager (AEM) con Adobe Target. L’URL [!UICONTROL Visualizza contenuto offerta] mostrato in Adobe Target mostra un percorso di dominio indesiderato. |
 
@@ -395,7 +395,7 @@ Accedi alle note sulla versione, ai nuovi tutorial e agli articoli di supporto d
 +++Note sulla versione, nuovi tutorial e articoli di supporto
 
 * Consulta [Note sulla versione di [!DNL Adobe Commerce] e  [!DNL Magento Open Source]](https://experienceleague.adobe.com/it/docs/commerce-operations/release/notes/overview) per restare al corrente.
-* Consulta le [Guide ai servizi di Adobe  [!DNL Commerce] ](https://experienceleague.adobe.com/it/docs/commerce/user-guides/home) per visualizzare le informazioni e la documentazione sulla versione dei servizi di Commerce.
+* Consulta le [Guide ai servizi di Adobe  [!DNL Commerce] &#x200B;](https://experienceleague.adobe.com/it/docs/commerce/user-guides/home) per visualizzare le informazioni e la documentazione sulla versione dei servizi di Commerce.
 * Consulta la [Disponibilità del prodotto](https://experienceleague.adobe.com/it/docs/commerce-operations/release/product-availability) per accedere alle note sulla versione dei singoli prodotti e verificare la disponibilità.
 
 ### Nuovi tutorial per [!DNL Adobe Commerce] {#tutorials-commerce}
@@ -445,7 +445,7 @@ Rilasciato il **sabato 10 ottobre 2025**
 -->
 
 * Per informazioni pre-release, consulta [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/it/docs/target/using/release-notes/target-release-notes)
-* Per informazioni sulla versione attuale, consulta Note sulla versione di [[!DNL Adobe Target] ](https://experienceleague.adobe.com/it/docs/target/using/release-notes/release-notes)
+* Per informazioni sulla versione attuale, consulta Note sulla versione di [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/it/docs/target/using/release-notes/release-notes)
 
 +++
 
@@ -569,7 +569,7 @@ Versione: **settembre 2025**
 
 * [Note sulla versione corrente](https://experienceleague.adobe.com/it/docs/marketo/using/release-notes/current)
 * [Pianificazione delle versioni](https://experienceleague.adobe.com/it/docs/marketo/using/release-notes/release-schedule) di [!DNL Marketo Engage]
-* Note sulla versione di Dynamic Chat [1} (30 giugno 2025)](https://experienceleague.adobe.com/it/docs/marketo/using/release-notes/dynamic-chat)
+* Note sulla versione di Dynamic Chat [1&rbrace; (30 giugno 2025)](https://experienceleague.adobe.com/it/docs/marketo/using/release-notes/dynamic-chat)
 
 <!-- ### New Marketo tutorials {#tutorials-marketo}
 
