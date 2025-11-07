@@ -35,7 +35,7 @@ Questa pagina consente di:
 * [Pianificazione degli eventi](#events)
 * [Risorse per l’utilizzo dell’IA in  [!DNL Experience Cloud]](#ai)
 * [[!DNL Adobe System Status]](#status)
-* Interfaccia centrale e amministrazione di [[!DNL Adobe Experience Cloud]  ](#ecloud)
+* Interfaccia centrale e amministrazione di [[!DNL Adobe Experience Cloud]  &#x200B;](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
@@ -310,7 +310,7 @@ Nuovi articoli e aggiornamenti ad articoli esistenti per [!DNL Experience Manage
 | Ottobre 2025 | [Domande e risposte relative alle prestazioni con Dynamic Media con API aperte](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27825) | Nuovo articolo | Scopri le soluzioni al problema quando le immagini DMwOA vengono distribuite con un tempo di ritardo più lungo del previsto. |
 | Ottobre 2025 | [Problema in DM con OpenAPI - Video Player Container API](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27804) | Nuovo articolo | Scopri le soluzioni al problema quando, utilizzando la funzione DynamicMedia con API aperte e il codice restituito per visualizzare il visualizzatore da un sito Web esterno senza modifiche, il codice genera URL non validi per recuperare i dettagli video e non funziona come previsto. |
 | Ottobre 2025 | [Errore 401 durante l&#39;utilizzo del token di sviluppo locale in AEM Forms as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27706) | Nuovo articolo | Scopri le soluzioni al problema quando si utilizza un token di sviluppo locale di Adobe Developer Console (ADC) in AEM Forms as a Cloud Service, si verifica un errore 401. |
-| Ottobre 2025 | [**[!UICONTROL Il flusso di lavoro Richiesta eliminazione ]**non funziona in AEM Sites](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27558) | Nuovo articolo | Scopri le soluzioni al problema in AEM Sites quando elimini le pagine di contenuto senza l&#39;autorizzazione **[!UICONTROL Replica]**, viene attivato il flusso di lavoro **[!UICONTROL Richiesta eliminazione]**. |
+| Ottobre 2025 | [**[!UICONTROL Il flusso di lavoro Richiesta eliminazione &#x200B;]**&#x200B;non funziona in AEM Sites](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27558) | Nuovo articolo | Scopri le soluzioni al problema in AEM Sites quando elimini le pagine di contenuto senza l&#39;autorizzazione **[!UICONTROL Replica]**, viene attivato il flusso di lavoro **[!UICONTROL Richiesta eliminazione]**. |
 | Ottobre 2025 | [AEMaaCS: i dispositivi mobili mostrano due pulsanti di riproduzione nei video Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27477) | Nuovo articolo | Scopri le soluzioni al problema quando i video Dynamic Media in Adobe Experience Manager (AEM) as a Cloud Service mostrano due pulsanti di riproduzione sovrapposti quando vengono visualizzati su dispositivi mobili. |
 | Ottobre 2025 | [Il dashboard di New Relic mostra solo le macchine virtuali (VM) AMS anziché le VM AEMaaCS in AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27864) | Nuovo articolo | Scopri le soluzioni al problema in AEMaaCS quando la dashboard di New Relic mostra solo macchine virtuali (VM) AMS anziché macchine virtuali AEMaaCS. |
 | Ottobre 2025 | [L&#39;API Querybuilder ignora i filtri del dispatcher ed espone informazioni riservate](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27832) | Nuovo articolo | Scopri le soluzioni al problema quando si verifica un problema di controllo degli accessi in Adobe Experience Manager as a Cloud Service (AEMaaCS), in cui l’API Querybuilder può ignorare i filtri del dispatcher ed esporre potenzialmente informazioni riservate. |
@@ -340,7 +340,7 @@ Accedi alle note sulla versione, ai nuovi tutorial e agli articoli di supporto d
 +++Note sulla versione, nuovi tutorial e articoli di supporto
 
 * Consulta [Note sulla versione di [!DNL Adobe Commerce] e  [!DNL Magento Open Source]](https://experienceleague.adobe.com/it/docs/commerce-operations/release/notes/overview) per restare al corrente.
-* Consulta le [Guide ai servizi di Adobe  [!DNL Commerce] ](https://experienceleague.adobe.com/it/docs/commerce/user-guides/home) per visualizzare le informazioni e la documentazione sulla versione dei servizi di Commerce.
+* Consulta le [Guide ai servizi di Adobe  [!DNL Commerce] &#x200B;](https://experienceleague.adobe.com/it/docs/commerce/user-guides/home) per visualizzare le informazioni e la documentazione sulla versione dei servizi di Commerce.
 * Consulta la [Disponibilità del prodotto](https://experienceleague.adobe.com/it/docs/commerce-operations/release/product-availability) per accedere alle note sulla versione dei singoli prodotti e verificare la disponibilità.
 
 ### Nuovi tutorial per [!DNL Adobe Commerce] {#tutorials-commerce}
@@ -388,7 +388,7 @@ Data di rilascio: **giovedì 22 ottobre 2025**
 -->
 
 * Per informazioni pre-release, consulta [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/it/docs/target/using/release-notes/target-release-notes)
-* Per informazioni sulla versione attuale, consulta Note sulla versione di [[!DNL Adobe Target] ](https://experienceleague.adobe.com/it/docs/target/using/release-notes/release-notes)
+* Per informazioni sulla versione attuale, consulta Note sulla versione di [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/it/docs/target/using/release-notes/release-notes)
 
 +++
 
