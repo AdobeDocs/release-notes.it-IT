@@ -5,10 +5,10 @@ user-guide-title: Note sulla versione di Adobe Experience Cloud
 breadcrumb-title: Note sulla versione centrale
 user-guide-description: Scopri le nuove funzioni, le correzioni e gli avvisi importanti di Adobe Experience Cloud ed Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: f289f67c5c33414a4d7e93a62456528056b99347
+source-git-commit: 1b8c6243341f33b80a99fc81d24cf8b78a48b7dc
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 98%
+source-wordcount: '109'
+ht-degree: 100%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 
 + [Note sulla versione corrente](current.md)
 + Note sulla versione precedente {#previous}
+   + 2026 {#2026}
+      + [Gennaio 2026](c-legacy-releases/2026/01142026.md)
    + 2025 {#2025}
       + [Ottobre 2025](c-legacy-releases/2025/10152025.md)
       + [Settembre 2025](c-legacy-releases/2025/09112025.md)
@@ -32,7 +34,7 @@ ht-degree: 98%
       + [Novembre 2024](c-legacy-releases/2024/10232024.md)
       + [Settembre 2024](c-legacy-releases/2024/09122024.md)
       + [Agosto 2024](c-legacy-releases/2024/08142024.md)
-      + [luglio 2024](c-legacy-releases/2024/07172024.md)
+      + [Luglio 2024](c-legacy-releases/2024/07172024.md)
       + [Giugno 2024](c-legacy-releases/2024/06122024.md)
       + [Maggio 2024](c-legacy-releases/2024/05152024.md)
       + [Aprile 2024](c-legacy-releases/2024/04172024.md)
@@ -51,5 +53,5 @@ ht-degree: 98%
       + [Marzo 2023](c-legacy-releases/2023/03082023.md)
       + [Febbraio 2023](c-legacy-releases/2023/02082023.md)
       + [Gennaio 2023](c-legacy-releases/2023/01112023.md)
-<!--   + 2022 and earlier {#legacy-rns}
-    + [2022 and earlier](c-legacy-releases/2022-earlier.md) -->
+   + 2022 e versioni precedenti {#legacy-rns}
+      + [2022 e versioni precedenti](c-legacy-releases/2022-earlier.md)
