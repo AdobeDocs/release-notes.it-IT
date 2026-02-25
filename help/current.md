@@ -6,9 +6,9 @@ last-update: February 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 64b154860d7bfac342798232aa90460a6d68ef56
+source-git-commit: b769f4e91b64c5cc4afae5183459a39758f1b0ca
 workflow-type: tm+mt
-source-wordcount: '4063'
+source-wordcount: '4066'
 ht-degree: 50%
 
 ---
@@ -24,7 +24,7 @@ Questa pagina consente di:
 * Visualizzare nuovi tutorial video per applicazione
 * Consultare gli articoli di supporto più recenti
 
-Ultimo aggiornamento: **sabato 20 febbraio 2026**
+Ultimo aggiornamento: **giovedì 25 febbraio 2026**
 
 ## Corsi su Experience League
 
@@ -118,7 +118,8 @@ Trova le risorse di apprendimento più recenti pubblicate per l’IA generativa 
 
 Note sulla versione precedente di [!DNL Adobe System Status]:
 
-* [Dicembre 2025](https://experienceleague.adobe.com/it/docs/release-notes/experience-cloud/previous/2025/01222025#status)
+* [Dicembre 2025](https://experienceleague.adobe.com/it/docs/release-notes/experience-cloud/previous/2026/01142026#status)
+* [Agosto 2025](https://experienceleague.adobe.com/it/docs/release-notes/experience-cloud/previous/2025/08132025#status)
 * [Aprile 2025](https://experienceleague.adobe.com/it/docs/release-notes/experience-cloud/previous/2025/04162025#status)
 * [Agosto 2024](https://experienceleague.adobe.com/it/docs/release-notes/experience-cloud/previous/2024/09122024#status)
 * [Maggio 2024](https://experienceleague.adobe.com/it/docs/release-notes/experience-cloud/previous/2024/05152024#status)
