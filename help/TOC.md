@@ -5,10 +5,10 @@ user-guide-title: Note sulla versione di Adobe Experience Cloud
 breadcrumb-title: Note sulla versione centrale
 user-guide-description: Scopri le nuove funzioni, le correzioni e gli avvisi importanti di Adobe Experience Cloud ed Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: e40d2dd3a1d11e5ac45c86cebeffabb0de17f631
+source-git-commit: 1b82750191ee50e2dfec8d2f4d1602bf463dc33a
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 92%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 100%
 + [Note sulla versione corrente](current.md)
 + Note sulla versione precedente {#previous}
    + 2026 {#2026}
+      + [Febbraio 2026](c-legacy-releases/2026/02112026.md)
       + [Gennaio 2026](c-legacy-releases/2026/01142026.md)
    + 2025 {#2025}
       + [Ottobre 2025](c-legacy-releases/2025/10152025.md)
