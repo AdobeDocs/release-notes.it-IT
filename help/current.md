@@ -6,10 +6,12 @@ last-update: March 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d5fdcb1d2d561318122a5941bbd04050b537559c
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: c26c54047c0399effc03e12a7ced1b1c4d3ac4ba
 workflow-type: tm+mt
-source-wordcount: '6872'
-ht-degree: 30%
+source-wordcount: 6872
+ht-degree: 100%
 
 ---
 
@@ -413,7 +415,7 @@ Nuovi articoli e aggiornamenti ad articoli esistenti per [!DNL Campaign].
 | Febbraio 2026 | Il report [Adobe Campaign [!UICONTROL Throughput di consegna] mostra un numero di elaborazioni superiore](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-29878){target="_blank"} | Nuovo articolo | Scopri le soluzioni al problema quando nel [!UICONTROL report Throughput di consegna] vengono visualizzati valori più elevati, elaborati o inviati all&#39;ora, che non sono allineati con le metriche di successo visualizzate nel riepilogo della consegna. |
 | Febbraio 2026 | [[!UICONTROL ID Broadlog] non inviato ad Adobe Analytics tramite l&#39;integrazione di Campaign Managed Cloud](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-27962){target="_blank"} | Nuovo articolo | Scopri le soluzioni al problema quando Adobe Campaign Managed Cloud non invia [!UICONTROL ID Broadlog] ad Adobe Analytics quando utilizza il flusso di lavoro standard `webAnalyticsSendMetrics`. |
 | Febbraio 2026 | [Dati sulla versione del sistema operativo e del dispositivo mancanti nei registri di tracciamento di Adobe Campaign Managed Cloud](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-28131){target="_blank"} | Nuovo articolo | Scopri le soluzioni al problema quando i registri di tracciamento in Adobe Campaign Managed Cloud mostrano solo il dispositivo e la famiglia di sistemi operativi e il prodotto non include campi per la versione del sistema operativo o il modello o la versione del dispositivo. |
-| Febbraio 2026 | Pulsante [**[!UICONTROL Aggiungi lingua &#x200B;]**&#x200B;mancante nel generatore di e-mail dell&#39;interfaccia utente Web di Campaign](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-29770){target="_blank"} | Nuovo articolo | Scopri le soluzioni al problema quando il pulsante **[!UICONTROL Aggiungi lingua]** non è presente nel generatore di e-mail dell’interfaccia utente web di Adobe Campaign v8 durante la modifica di una consegna e-mail. |
+| Febbraio 2026 | Pulsante [**[!UICONTROL Aggiungi lingua ]**mancante nel generatore di e-mail dell&#39;interfaccia utente Web di Campaign](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-29770){target="_blank"} | Nuovo articolo | Scopri le soluzioni al problema quando il pulsante **[!UICONTROL Aggiungi lingua]** non è presente nel generatore di e-mail dell’interfaccia utente web di Adobe Campaign v8 durante la modifica di una consegna e-mail. |
 | Febbraio 2026 | [Limite di consegna per le varianti di lingua in Adobe Campaign v8](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-29785){target="_blank"} | Nuovo articolo | Scopri le soluzioni al problema quando una consegna è configurata con più di 40 varianti di lingua in Adobe Campaign v8, il che non è supportato. |
 | Febbraio 2026 | [La consegna push non riesce durante l&#39;esecuzione del flusso di lavoro in Adobe Campaign Classic v8](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-29871){target="_blank"} | Nuovo articolo | Scopri le soluzioni al problema quando la consegna push non riesce durante l’esecuzione del flusso di lavoro nella fase di preparazione della destinazione perché in Postgres vengono create tabelle temporanee del flusso di lavoro mentre la preparazione della consegna viene eseguita in [!DNL Snowflake]. |
 | Febbraio 2026 | [Errori di autorizzazione durante l&#39;invio di consegne in Adobe Campaign v8](https://experienceleague.adobe.com/it/docs/experience-cloud-kcs/kbarticles/ka-30003){target="_blank"} | Nuovo articolo | Scopri le soluzioni al problema quando gli utenti non amministratori ricevono errori di autorizzazione durante il tentativo di inviare o confermare consegne collegate a una campagna in Adobe Campaign v8, anche quando le autorizzazioni della cartella sono assegnate correttamente. |
@@ -518,7 +520,7 @@ Scopri le note sulla versione più recente di [!DNL Adobe Workfront]. Trova nuov
 
 Per tutte le informazioni sulla versione:
 
-* [Rilasci di prodotti Adobe [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
+* [Rilasci di prodotti Adobe [!DNL Workfront] ](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
 
 * [Adobe [!DNL Workfront] Panoramica attività rilascio Fusion](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
 
