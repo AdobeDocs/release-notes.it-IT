@@ -1,6 +1,6 @@
 ---
 title: Note centrali sulla versione
-description: Trova collegamenti alle note sulla versione dell’applicazione Experience Cloud. Guarda i nuovi video tutorial, leggi gli articoli sull’assistenza e individua le risorse di supporto autonomo su Experience League.
+description: Trova i collegamenti alle note sulla versione per tutte le applicazioni Adobe CX Enterprise (precedentemente Experience Cloud). Scopri i nuovi video, gli eventi e individua le risorse di supporto autonomo.
 doc-type: release notes
 last-update: April 2026
 author: mfrei
@@ -8,31 +8,33 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 3b12ac9312a38290356a4c80d01e3deaf3fcccf2
+source-git-commit: 7911b9606a2247f7b6427f14c1d1a88e53f755f4
 workflow-type: tm+mt
-source-wordcount: 6867
-ht-degree: 97%
+source-wordcount: 6909
+ht-degree: 95%
 
 ---
 
-# Note centrali sulla versione di Experience Cloud - Aprile 2026
+# Note sulla versione centrale di Adobe CX Enterprise
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
 Questa pagina consente di:
 
-* Trovare collegamenti alle note sulla versione specifiche per l’applicazione
-* Individuare eventi e nuove risorse
-* Visualizzare nuovi tutorial video per applicazione
+* Trova tutti i collegamenti alle note sulla versione specifiche per l’applicazione
+* Trova le ultime opportunità di apprendimento disponibili su Experience League (sito di assistenza CX Enterprise di Adobe)
+* Ricevi informazioni sui nuovi eventi
 * Consultare gli articoli di supporto più recenti
 
-Ultimo aggiornamento: **15 aprile 2026**
+Ultimo aggiornamento: **23 aprile 2026**
+
+**Annuncio di Adobe CX Enterprise:** Experience Cloud è ora [Adobe CX Enterprise](https://business.adobe.com/it/). Continuerai a visualizzare _Experience Cloud_ nella documentazione del prodotto, nei corsi e nei video fino a quando non completeremo gli aggiornamenti in Experience League.
 
 In questa pagina:
 
 * [Webinar ed eventi di apprendimento](#events)
-* [[!DNL Adobe Experience Cloud] interfaccia utente e amministrazione centrale](#ecloud)
-* [IA in Experience Cloud](#ai)
+* [[!DNL Adobe CX Enterprise] interfaccia utente e amministrazione centrale](#ecloud)
+* [IA in CX Enterprise](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
@@ -64,26 +66,26 @@ In questa pagina:
 
 Visualizza la pianificazione completa di [prossimi](https://experienceleague.adobe.com/it/events){target="_blank"} e [eventi on-demand](https://experienceleague.adobe.com/it/docs/events/experience-league-recorded-events/overview){target="_blank"}.
 
-## [!DNL Adobe Experience Cloud] interfaccia utente e amministrazione centrale {#ecloud}
+## [!DNL Adobe CX Enterprise] interfaccia utente e amministrazione centrale {#ecloud}
 
 | Funzione | Data di rilascio | Descrizione |
 | ------- | ------- | ------- |
 | Home page aggiornata | 20 aprile 2026 | Aspetto aggiornato della home page in `https://experience.adobe.com/home`. Con questa versione, tutte le funzionalità rimangono invariate, con l&#39;interfaccia utente aggiornata, il supporto per la _modalità scura_ completa e una migliore accessibilità. |
 
-Per la documentazione, consulta [Amministrazione e interfaccia di Experience Cloud](https://experienceleague.adobe.com/it/docs/core-services/interface/experience-cloud){target="_blank"}.
+Consulta [Interfaccia e amministrazione di CX Enterprise](https://experienceleague.adobe.com/it/docs/core-services/interface/experience-cloud){target="_blank"} per la documentazione.
 
-## IA in Experience Cloud {#ai}
+## IA in CX Enterprise {#ai}
 
-Trova risorse di apprendimento nuove e recenti pubblicate per l’IA in Experience Cloud.
+Trova risorse di apprendimento nuove e recenti pubblicate per l’intelligenza artificiale in CX Enterprise.
 
 | Prodotto | Risorsa | Descrizione | Aggiornata |
 | ------- | ------- | ------- | ------- |
-| [!DNL Experience Cloud] | [Hub IA](https://experienceleague.adobe.com/it/ai-training){target="_blank"} | L’hub di intelligenza artificiale di Experience League consente ai professionisti del marketing di creare competenze di intelligenza artificiale pratiche per le attività di marketing quotidiane. Impara dai colleghi a navigare tra le stesse sfide e scopri cosa funziona effettivamente. | **15 aprile 2026** |
-| [!DNL Experience Cloud] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/it/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Scopri come Adobe Marketing Agent for Microsoft 365 Copilot connette Experience Platform direttamente a Microsoft 365 Copilot. | 6 aprile 2026 |
+| [!DNL CX Enterprise] | [Hub IA](https://experienceleague.adobe.com/it/ai-training){target="_blank"} | L’hub di intelligenza artificiale di Experience League consente ai professionisti del marketing di creare competenze di intelligenza artificiale pratiche per le attività di marketing quotidiane. Impara dai colleghi a navigare tra le stesse sfide e scopri cosa funziona effettivamente. | **15 aprile 2026** |
+| [!DNL CX Enterprise] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/it/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Scopri come Adobe Marketing Agent for Microsoft 365 Copilot connette Experience Platform direttamente a Microsoft 365 Copilot. | 6 aprile 2026 |
 | [!DNL AEM CS] | [Server MCP di Cloud Manager](https://experienceleague.adobe.com/it/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Scopri come il server MCP di Cloud Manager consente agli strumenti IA di interagire con AEM as a Cloud Service per gestire programmi, ambienti, archivi e pipeline. | 6 aprile 2026 |
 | [!DNL Acrobat Services] | [Acrobat Analyzer](https://experienceleague.adobe.com/it/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Esplora i webinar di Adobe Acrobat Analyzer per scoprire come Generative AI estrae informazioni strutturate e verificabili dai documenti per automatizzare i flussi di lavoro, ridurre i rischi e accelerare il processo decisionale aziendale su larga scala. | 10 marzo 2026 |
-| [!DNL Experience Cloud] | [Agenti Adobe Experience Platform per una maggiore efficienza marketing e migliori risultati aziendali](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | Questa sessione esclusiva presenta una sessione di domande e risposte approfondita con Anjul Bhambhri, Senior Vice President di Adobe Experience Cloud. Scopri il percorso e la visione audace di Adobe per fornire funzionalità innovative di intelligenza artificiale agente che consentano ai professionisti del marketing e creativi di automatizzare passaggi complessi, accelerare il processo decisionale ed espandere la capacità dei loro team senza compromettere il controllo o la supervisione. | 3 marzo 2026 |
-| [!DNL Experience Cloud] | [Processi agente e consumo crediti IA](https://experienceleague.adobe.com/it/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Scopri i processi degli agenti e i tassi di consumo di credito AI nelle applicazioni Experience Cloud. | 3 marzo 2026 |
+| [!DNL CX Enterprise] | [Agenti Adobe Experience Platform per una maggiore efficienza marketing e migliori risultati aziendali](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | Questa sessione esclusiva presenta una sessione di domande e risposte approfondita con Anjul Bhambhri, Senior Vice President di Adobe CX Enterprise. Scopri il percorso e la visione audace di Adobe per fornire funzionalità innovative di intelligenza artificiale agente che consentano ai professionisti del marketing e creativi di automatizzare passaggi complessi, accelerare il processo decisionale ed espandere la capacità dei loro team senza compromettere il controllo o la supervisione. | 3 marzo 2026 |
+| [!DNL CX Enterprise] | [Processi agente e consumo crediti IA](https://experienceleague.adobe.com/it/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Scopri i processi degli agenti e i tassi di consumo di credito AI nelle applicazioni CX Enterprise. | 3 marzo 2026 |
 
 ## [!DNL Adobe System Status] {#status}
 
