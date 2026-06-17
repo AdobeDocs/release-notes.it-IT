@@ -6,8 +6,8 @@ last-update: June 2021
 author: mfrei
 source-git-commit: 40afb853a97a270e594a1b84562ed53c8ba66b9a
 workflow-type: tm+mt
-source-wordcount: '713'
-ht-degree: 100%
+source-wordcount: '732'
+ht-degree: 65%
 
 ---
 
@@ -20,7 +20,7 @@ Nuove funzioni e correzioni in Adobe Experience Cloud.
 
 >[!IMPORTANT]
 >
->Questa pagina contiene informazioni pre-release ed è soggetta a modifiche fino alle date di distribuzione.
+>Questa pagina contiene informazioni precedenti al rilascio soggette a modifiche fino alle date di rilascio.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ Ultimo aggiornamento: **settembre 2021**
 * [Componenti dell’interfaccia centrale di Experience Cloud](#ecloud)
 * [Stato di Adobe](#status)
 * [Experience Platform](#platform)
-* [Servizi applicazione Experience Platform](#services)
+* [Servizi applicativi Experience Platform](#services)
 * [Journey Optimizer](#journey-opt)
 * [[!DNL Analytics]](#analytics) e [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
@@ -50,7 +50,7 @@ Ultimo aggiornamento: **settembre 2021**
 
 Funzioni e problemi risolti.
 
-Vedi [Stato di Adobe](https://status.adobe.com/it).
+Consulta [Stato del sistema di Adobe](https://status.adobe.com/it).
 
 ## Componenti dell’interfaccia utente centrale di Experience Cloud {#ecloud}
 
@@ -60,7 +60,7 @@ Experience Cloud Central Interface Components include aggiornamenti a cui è pos
 
 Funzioni e problemi risolti.
 
-### Amministrazione e sviluppatore {#admin}
+### Amministrazione e sviluppatori {#admin}
 
 Funzioni e problemi risolti.
 
@@ -84,7 +84,7 @@ Consulta
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Usando Adobe [!UICONTROL Experience Platform], coordina i percorsi dei singoli clienti su vasta scala attraverso i vari canali dell’esperienza, anticipando in modo intelligente e in tempo reale le esigenze di ciascuno di essi, ovunque li porti il loro percorso.
+Con Adobe [!UICONTROL Experience Platform,] puoi coordinare i singoli percorsi di clienti su vasta scala attraverso i vari canali dell&#39;esperienza, anticipando in modo intelligente e in tempo reale le esigenze di ciascuno di essi, ovunque li porti il percorso.
 
 #### Risorse aggiuntive per [!UICONTROL Journey Orchestration]
 
@@ -94,14 +94,14 @@ testo
 
 **Funzioni**
 
-Descrizione delle nuove funzioni. Utilizza titoli o tabelle.
+Descrizione delle nuove funzioni. Utilizza le intestazioni o una tabella.
 
-**Correzioni**
+**Problemi risolti**
 
-* Correzione
-* Correzione
-* Correzione
-* Correzione
+* Correggi
+* Correggi
+* Correggi
+* Correggi
 
 ## Analytics {#analytics}
 
@@ -135,12 +135,12 @@ Testo.
 | Funzione B | Testo |
 | Funzione C | Testo |
 
-**Correzioni**
+**Problemi risolti**
 
-* Correzione
-* Correzione
-* Correzione
-* Correzione
+* Correggi
+* Correggi
+* Correggi
+* Correggi
 
 ## Audience Manager {#aam}
 
@@ -150,12 +150,12 @@ Testo.
 | Funzione B | Testo |
 | Funzione C | Testo |
 
-**Correzioni**
+**Problemi risolti**
 
-* Correzione
-* Correzione
-* Correzione
-* Correzione
+* Correggi
+* Correggi
+* Correggi
+* Correggi
 
 ## Experience Manager {#aem}
 
@@ -163,15 +163,15 @@ Nuove funzioni, problemi risolti e aggiornamenti di Adobe Experience Manager (AE
 
 ### Versioni dei prodotti
 
-**Nome della funzione**
+**Nome funzionalità**
 
 Descrizione delle funzioni.
 
-**Nome della funzione**
+**Nome funzionalità**
 
 Descrizione
 
-**Nome della funzione**
+**Nome funzionalità**
 
 Descrizione
 
@@ -183,7 +183,7 @@ Descrizione
 
 **Documentazione collaborativa**
 
-I seguenti set di documentazione AEM sono stati migrati a una nuova piattaforma di documentazione collaborativa.
+I seguenti set di documentazione di AEM sono stati migrati a una nuova piattaforma di documentazione collaborativa.
 
 * Nome documento
 * Nome documento
@@ -200,12 +200,12 @@ Testo
 | Funzione B | Testo |
 | Funzione C | Testo |
 
-**Correzioni**
+**Problemi risolti**
 
-* Correzione
-* Correzione
-* Correzione
-* Correzione
+* Correggi
+* Correggi
+* Correggi
+* Correggi
 
 ## Social {#soc}
 
@@ -215,12 +215,12 @@ Testo
 | Funzione B | Testo |
 | Funzione C | Testo |
 
-**Correzioni**
+**Problemi risolti**
 
-* Correzione
-* Correzione
-* Correzione
-* Correzione
+* Correggi
+* Correggi
+* Correggi
+* Correggi
 
 ## Campaign {#ac}
 
@@ -238,12 +238,12 @@ Testo
 | Funzione B | Testo |
 | Funzione C | Testo |
 
-**Correzioni**
+**Problemi risolti**
 
-* Correzione
-* Correzione
-* Correzione
-* Correzione
+* Correggi
+* Correggi
+* Correggi
+* Correggi
 
 ## Magento {#magento}
 
@@ -251,7 +251,7 @@ Per le note sulla versione, consulta:
 
 ## Marketo {#marketo}
 
-Marketo Engage è una soluzione completa per chi lavora nell’ambito della gestione dei lead e del B2B, per trasformare l’esperienza dei clienti seguendo tutte le fasi dei complessi processi di acquisto.
+Marketo Engage è una soluzione completa per chi si occupa di lead management e B2B e intende trasformare l&#39;esperienza dei clienti seguendo tutte le fasi dei percorsi di acquisto più complessi.
 
 ### Aggiornamenti principali di Marketo Engage
 
@@ -276,7 +276,7 @@ Nel corso del trimestre verranno presentate le seguenti funzionalità:
 
 ### Annunci
 
-**Success Center di Marketo Engage:** lancio a febbraio 2020. Success Center è un centro di assistenza interno al prodotto che consente di effettuare ricerche nei documenti sui prodotti e nella community, avviare guide informative, accedere a contenuti sull’adozione e altro ancora. Nota: questa funzionalità verrà lanciata come versione beta in Nuova Zelanda e verrà implementata nel Nord America in un secondo momento nel corso del trimestre.
+**Success Center di Marketo Engage:** lancio a febbraio 2020. Success Center è un centro di assistenza interno al prodotto che consente di effettuare ricerche nei documenti sui prodotti e nella community, avviare guide informative, accedere a contenuti sull’adozione e altro ancora. Nota: questa funzione viene lanciata come versione beta in Australia e Nuova Zelanda e verrà implementata in Nord America in un secondo momento nel corso del trimestre.
 
 ### Funzionalità deprecate
 
