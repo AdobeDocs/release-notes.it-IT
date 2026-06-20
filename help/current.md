@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: cb1d954668ee47f2414313cb624c7662b3aef1e4
+source-git-commit: fee1ea6a1eee833f040e73e5fa19ef25be81043c
 workflow-type: tm+mt
-source-wordcount: '7116'
-ht-degree: 28%
+source-wordcount: '7175'
+ht-degree: 27%
 
 ---
 
@@ -28,14 +28,22 @@ Questa pagina consente di:
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-Ultimo aggiornamento: **16 giugno 2026**
+Ultimo aggiornamento: **19 giugno 2026**
 
 ## Novità
 
+* [Nuovi eventi e webinar](#events)
 * [Nuove funzioni di intelligenza artificiale in CX Enterprise](#ai)
 * [Note sulla nuova versione - Tutte le applicazioni](#application-release-notes)
-* [Webinar ed eventi futuri](#events)
 * [Nuovi tutorial e articoli di supporto](#articles)
+
+## Nuovi eventi e webinar {#events}
+
+| Data | Evento | Descrizione |
+| ------- | ------- | ------- |
+| 17 giugno 2026 | [Experience League LIVE - Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26#how-to-efficiently-test-simulate-and-validate-journeys-before-going-live) | Test e convalida dei percorsi prima del lancio per scoprire come procedere con la nuova simulazione del Percorso. |
+
+Per visualizzare tutti gli eventi, visita [Eventi Experience League](https://experienceleague.adobe.com/it/events).
 
 ## Nuove funzioni di intelligenza artificiale in CX Enterprise {#ai}
 
@@ -92,10 +100,6 @@ Utilizzare questa tabella per informazioni sugli aggiornamenti evidenziati per l
 | [!DNL Adobe Workfront Fusion] | Giugno 2026 | [Attività sulla versione di Adobe Workfront Fusion](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"} | <ul><li>Riattiva esecuzioni di scenari specifici</li><li>Aggiornamenti alla funzionalità Run Once (Esegui una volta)</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | Marzo 2026 | [Note sulla versione di GenStudio for Performance Marketing](https://experienceleague.adobe.com/it/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Modelli Express per Meta, LinkedIn e Display su Horizon Canvas</li><li>Creazione, approvazione e attivazione di annunci video in-feed TikTok</li></ul> |
 | [!DNL Adobe Pass] | Maggio 2026 (3.7.0.2) | [Note sulla versione di Adobe Pass 3.7.0](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>Supporto PKCE per l’autenticazione MVPD basata su OAuth2</li><li>Dashboard TVE 1.5.1</li><li>Correzione errori di configurazione SSO di Apple</li><li>HTTP 500 - Correzione negazione autorizzazione</li></ul> |
-
-## Prossimi webinar ed eventi {#events}
-
-Per visualizzare tutti gli eventi, visita [Eventi Experience League](https://experienceleague.adobe.com/it/events).
 
 ## Nuovi tutorial e articoli di supporto {#articles}
 
