@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: dedb338724c4970578fa8cff358485eb1196c3ae
+source-git-commit: 2dcd5bb15f6b27756d4f1f0b5993976b008d0c07
 workflow-type: tm+mt
-source-wordcount: '14824'
+source-wordcount: '14809'
 ht-degree: 26%
 
 ---
@@ -467,11 +467,7 @@ Nuovi articoli e aggiornamenti ad articoli esistenti per [!DNL Campaign].
 
 ### [!DNL Adobe Journey Optimizer] {#journey-opt}
 
-Visualizza le esercitazioni più recenti e gli articoli di supporto della Knowledge Base su Experience League.
-
-#### Aggiornamenti sulla versione del prodotto [!DNL Journey Optimizer]
-
-Trova i tutorial e gli articoli di supporto più recenti per Journey Optimizer.
+Ultimi tutorial e articoli di supporto su Experience League.
 
 #### Nuovi tutorial su [!DNL Journey Optimizer] {#tutorials-ajo}
 
