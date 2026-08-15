@@ -5,63 +5,54 @@ doc-type: release notes
 last-update: August 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 88b5cfa43e3009397577565bfa7bf120d83ed39f
+source-git-commit: 655ebfa1efb1b1365c247f9f0105467351a4e702
 workflow-type: tm+mt
-source-wordcount: '21040'
-ht-degree: 12%
+source-wordcount: '20806'
+ht-degree: 11%
 
 ---
 
-# Note sulla versione di CX Enterprise Central - agosto 2026
+# Note sulla versione di CX Enterprise Central — agosto 2026
 
-Questa pagina consente di:
+Questa pagina ti aiuta a trovare:
 
-* Scopri le nuove funzioni di intelligenza artificiale generativa e di intelligenza artificiale dinamica in CX Enterprise
-* Trovare tutti i collegamenti alle note sulla versione delle specifiche applicazioni
-* Trovare le ultime opportunità di apprendimento disponibili su Experience League (sito di assistenza Adobe per CX Enterprise)
-* Ricevere informazioni sui nuovi eventi in Experience League
-* Consultare gli articoli di supporto più recenti
+* Novità di [Experience League](#events)
+* Nuova guida su [AI e CX Enterprise Coworker](#ai)
+* Nuove note sulla versione del prodotto [&#128279;](#application-release-notes) per tutte le applicazioni CX Enterprise
+* Nuovi [tutorial e articoli di supporto](#articles) disponibili su Experience League
 
 <!--
 >[!TIP]
 >
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
-
+<!--
 >[!TIP]
 >
->Per ricevere una notifica e-mail sugli aggiornamenti di questa pagina, abilita [[!UICONTROL Aggiornamento prodotto prioritario]](https://account.adobe.com/magazines) nella pagina [!UICONTROL Newsletter].
+>To receive an email notification about updates to this page, enable the [[!UICONTROL Priority Product Update]](https://account.adobe.com/magazines) on the [!UICONTROL Newsletters] page.  
+-->
 
-Ultimo aggiornamento: **12 agosto 2026**
+Ultimo aggiornamento: **14 agosto 2026**
 
-## Novità
+## Novità di Experience League{#events}
 
-* [Nuovi eventi e webinar](#events)
-* [Nuove funzioni di IA in CX Enterprise](#ai)
-* [Note sulla nuova versione - Tutte le applicazioni](#application-release-notes) (aggiornato il **10 agosto 2026**)
-* [Nuovi tutorial e articoli di supporto](#articles)
+* [Eventi Experience League v2](https://experienceleague.adobe.com/it/events): la nuova pagina Eventi combina gli eventi in programma e quelli on demand in una ricerca centralizzata.
+* [Formazione sull&#39;intelligenza artificiale](https://experienceleague.adobe.com/it/ai-training): l&#39;hub di intelligenza artificiale di Experience League ti consente di creare competenze pratiche in materia di intelligenza artificiale per le attività di marketing quotidiane.
 
-## Nuovi eventi e webinar {#events}
+## Nuove risorse di [!DNL CX Enterprise Coworker] e AI {#ai}
 
-Per visualizzare tutti gli eventi, visita la pagina in cui sono presentati gli [eventi Experience League](https://experienceleague.adobe.com/it/events).
-
-## Risorse CX Enterprise [!DNL Coworker] e AI più recenti {#ai}
-
-Trova le risorse di apprendimento più recenti pubblicate per le funzioni di [!DNL Coworkder] e AI nelle applicazioni CX Enterprise.
+Trova le risorse di apprendimento più recenti pubblicate per le funzionalità di [!DNL Coworker] e AI nelle applicazioni [!DNL CX Enterprise].
 
 | Applicazione | Aggiornamento | Descrizione | Aggiornata |
 | ------- | ------- | ------- | ------- |
-| CX Enterprise Coworker | **[!DNL Coworker use cases]** | [Nuovi casi d&#39;uso per CX Enterprise Coworker](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview) forniscono esempi di prompt utilizzati dai professionisti in CX Enterprise Coworker Chat, organizzato per area di lavoro. Ogni prompt viene creato per essere copiato, adattato con i propri dati e contesto e perfezionato attraverso la conversazione. | 10 agosto 2026 |
-| CX Enterprise | **[!DNL Coworker documentation]** | [CX Enterprise Coworker](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview) è un&#39;applicazione di IA per l&#39;agente che automatizza i flussi di lavoro di customer experience end-to-end. Rileva i segnali, crea tipi di pubblico e avvia campagne con governance incorporata in poche ore. | 11 giugno 2026 |
-| CX Enterprise | **Catalogo funzionalità IA agente** | Scopri quali processi di IA agentica sono disponibili nelle app di CX Enterprise con licenza. Trova il collegamento in [Processi dell’agente Adobe Experience Platform e consumo di crediti AI](https://experienceleague.adobe.com/it/docs/core-services/interface/features/ai-credit-consumption). | 11 giugno 2026 |
-| [!DNL CX Enterprise] | **[!UICONTROL Monitoraggio]** | CX Enterprise fornisce ora [dashboard di monitoraggio AI](https://experienceleague.adobe.com/it/docs/core-services/interface/features/monitoring){target="_blank"} per monitorare l&#39;utilizzo di IA per l&#39;agente nelle applicazioni esistenti. Tieni traccia dell’adozione, rivedi le conversazioni e i feedback e gestisci il consumo di crediti IA per gli agenti Experience Platform a cui si accede tramite l’Assistente IA e altre superfici conversazionali. Le viste Panoramica, Utenti, Feedback e Crediti IA aiutano gli stakeholder della governance a guidare l’adozione con i dati. | 2 giugno 2026 |
+| CX Enterprise [!DNL Coworker Chat] | **Risorse per casi d&#39;uso** | Trovare i prompt di esempio utilizzabili in [!DNL Coworker Chat]. Ogni prompt viene creato per essere copiato, adattato con i propri dati e contesto e perfezionato attraverso la conversazione. [Ulteriori informazioni...](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview). | 10 agosto 2026 |
+| CX Enterprise | **Catalogo funzionalità IA agente** | Scopri quali processi di IA agentica sono disponibili nelle app di CX Enterprise con licenza. Trova il collegamento su [Consumo crediti AI](https://experienceleague.adobe.com/it/docs/core-services/interface/features/ai-credit-consumption). | 11 giugno 2026 |
+| [!DNL CX Enterprise] | **[!UICONTROL Monitoraggio]** | CX Enterprise fornisce ora [dashboard di monitoraggio AI](https://experienceleague.adobe.com/it/docs/core-services/interface/features/monitoring){target="_blank"} per monitorare l&#39;utilizzo di IA per l&#39;agente nelle applicazioni esistenti. | 2 giugno 2026 |
 | [!DNL CX Enterprise] - Experience League | **Formazione IA** | L&#39;[AI Hub](https://experienceleague.adobe.com/it/ai-training){target="_blank"} di Experience League aiuta gli addetti al marketing a creare competenze IA pratiche per le attività di marketing quotidiane. Impara da altri utenti che affrontano le tue stesse sfide e scopri cosa funziona effettivamente. | 15 aprile 2026 |
-| [!DNL CX Enterprise] | **Agente di marketing per Microsoft 365 Copilot** | Scopri come [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/it/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} connette Experience Platform direttamente a Microsoft 365 Copilot. | 6 aprile 2026 |
-| [!DNL AEM CS] | **Server MCP di Cloud Manager** | Scopri come il server MCP [Cloud Manager](https://experienceleague.adobe.com/it/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} consente agli strumenti di intelligenza artificiale di interagire con AEM as a Cloud Service per gestire programmi, ambienti, archivi e pipeline. | 6 aprile 2026 |
 
-## Note sulla nuova versione - Tutte le applicazioni {#application-release-notes}
+## Note sulla versione di CX Enterprise {#application-release-notes}
 
-Scopri gli aggiornamenti evidenziati per le applicazioni CX Enterprise. Vengono forniti collegamenti alle note sulla versione specifiche per le applicazioni.
+Scopri gli aggiornamenti evidenziati per tutte le applicazioni CX Enterprise. Vengono forniti collegamenti alle note sulla versione specifiche per le applicazioni.
 
 **Nota:** diverse applicazioni CX Enterprise vengono rilasciate settimanalmente. Visita spesso le pagine delle note sulla versione dell’applicazione per consultare tutti gli aggiornamenti.
 
@@ -70,7 +61,7 @@ Ultimo aggiornamento: **12 agosto 2026**
 | Applicazione | Data di rilascio | URL delle note sulla versione | Aggiornamenti |
 | ------------- | ------------- | ------------- | ------------- |
 | [!DNL Adobe Experience Manager] as a Cloud Service | 10 agosto 2026 | [Note sulla versione attuale di Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>È stato migliorato il rollout del selettore dei riferimenti ai contenuti in tutti gli ambienti RDE e di sviluppo per il nuovo Editor frammenti di contenuto</li><li>Versione 2026.7.0 ora corrente; 2026.8.0 pianificata per il 27 agosto 2026</li><li>Frammenti di contenuto visivi (esegui il rendering dell’output dei frammenti di contenuto come HTML formattato)</li><li>Aprire le risorse Photoshop (.psd) nell’editor incorporato di Adobe Express</li></ul> |
-| [!DNL Adobe Customer Journey Analytics] | 10 agosto 2026 | [Note sulla versione di Customer Journey Analytics](https://experienceleague.adobe.com/it/docs/analytics-platform/using/releases/latest?lang=it#releases){target="_blank"} | <ul><li>Guida alle &quot;prime chiamate&quot; dell’API di rapporto di CJA (configurazione di base della richiesta di rapporto)</li><li>Analisi dei sottoeventi (segmento su singoli contenitori all’interno di un evento)</li><li>Supporto di B2B edition per set di dati ad hoc e relazionali</li><li>CX Enterprise Collaborator: analisi dei dati Customer Journey Analytics</li><li>CX Enterprise Collaborator: convalida dei dati durante la migrazione da Adobe Analytics</li></ul> |
+| [!DNL Adobe Customer Journey Analytics] | 10 agosto 2026 | [Note sulla versione di Customer Journey Analytics](https://experienceleague.adobe.com/it/docs/analytics-platform/using/releases/latest?lang=it#releases){target="_blank"} | <ul><li>Guida alle &quot;prime chiamate&quot; dell’API di rapporto di CJA (configurazione di base della richiesta di rapporto)</li><li>Analisi dei sottoeventi (segmento su singoli contenitori all’interno di un evento)</li><li>Supporto di B2B edition per set di dati ad hoc e relazionali</li><li>CX Enterprise [!DNL Coworker]: analisi dei dati Customer Journey Analytics</li><li>CX Enterprise [!DNL Coworker]: convalida dei dati durante la migrazione da Adobe Analytics</li></ul> |
 | [!DNL Adobe Analytics] | 10 agosto 2026 | Note sulla versione di [[!DNL Analytics] &#x200B;](https://experienceleague.adobe.com/it/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>Domande frequenti sui clienti relative alla fine del ciclo di vita delle API di Analytics 1.4 pubblicate</li><li>Riferimento ed endpoint per i canali di marketing aggiunti all’API 2.0</li><li>Analisi degli hit secondari</li><li>Aggiornamento dell&#39;interfaccia utente dell&#39;estensione Activity Map</li><li>Funzioni di ricerca API di AA 2.0</li></ul> |
 | [!DNL Adobe Journey Optimizer] | 5 agosto 2026 | Note sulla versione di [[!DNL Journey Optimizer] &#x200B;](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Origine immagine flessibile per la generazione di contenuti AI (modalità di intelligenza artificiale bilanciata, solo Assets o Creative che richiamano da AEM Assets Essentials)</li><li>Sfide relative alla fedeltà: iniziative di fedeltà gamified con reporting basato sull’intelligenza artificiale</li><li>Ottimizzazione dei canali: selezione automatica dei canali migliori per percorsi e campagne</li><li>Moduli Designer per e-mail: trascina la libreria dei componenti di layout</li><li>Nuova interfaccia utente Percorsi Canvas (per passare da nuova a precedente)</li></ul> |
 | [!DNL Adobe Brand Visibility] (precedentemente [!DNL Adobe LLM Optimizer]) | 4 agosto 2026 | [Visibilità dei brand note sulla versione](https://abv.adobe.com/articles/release-notes){target="_blank"} | <ul><li>Disponibilità generale: misurazione, ottimizzazione e tracciamento dell’impatto dell’intelligenza artificiale unificati in Brand Visibility (con rebranding da LLM Optimizer)</li><li>Nuova dashboard di visibilità AI tramite dati di Semrush</li><li>Onboarding self-service di marchi e domini</li><li>Funzione Prompt Strategy (Strategia richiesta) per individuare i prompt ad alto impatto</li><li>Copertura più ampia della piattaforma LLM ([!DNL Claude], Grok, DeepSeek)</li></ul> |
@@ -81,7 +72,7 @@ Ultimo aggiornamento: **12 agosto 2026**
 | Interfaccia utente web di [!DNL Adobe Campaign] | 28 luglio 2026 | [Note sulla versione dell’interfaccia utente web di Campaign](https://experienceleague.adobe.com/it/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>Gestione delle offerte direttamente nell’interfaccia utente web (creazione di cataloghi, regole di idoneità, distribuzione)</li><li>Configurazione del marchio senza Client Console</li><li>Risorse pubbliche in E-mail Designer</li><li>Attività del flusso di lavoro di caricamento dati (RDBMS)</li><li>Creazione e gestione di pagine Dynamic JavaScript (JSSP) nell’interfaccia utente Web</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | 16 luglio 2026 | [Note sulla versione di GenStudio for Performance Marketing](https://experienceleague.adobe.com/it/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Modifica in blocco nell’area di lavoro Orizzonte (i campi di testo/immagine collegati propagano le modifiche tra dimensioni e pagine)</li><li>Visualizzazione e attivazione al Trade Desk</li><li>Scambio di frammenti di contenuto: sostituisci i blocchi di testo con frammenti di contenuto preapprovati e riutilizzabili da AEM</li></ul> |
 | [!DNL Experience Platform] Mobile SDK | 16 luglio 2026 | Note sulla versione di Mobile SDK di [[!DNL Experience Platform] &#x200B;](https://developer.adobe.com/client-sdks/documentation/release-notes){target="_blank"} | <ul><li>React Native Optimize 7.2.0: supporto del modulo React Native Turbo</li><li>iOS EdgeIdentity 5.1.0: sincronizza l’attributo di profilo fuso orario con Edge (richiede AEPCore 5.10.0+)</li><li>iOS Core 5.10.0: nuova API updateProfileAttributes</li><li>Android Core 3.8.0: aggiornamento dell’API degli attributi del profilo per la sincronizzazione del fuso orario</li><li>Android BOM 3.20.0: estensioni Core, EdgeIdentity e Optimize aggiornate</li></ul> |
-| [!DNL CX Enterprise] | 10 luglio 2026 | [Amministrazione e interfaccia utente centrale di CX Enterprise](https://experienceleague.adobe.com/it/docs/core-services/interface/more-resources/release-notes){target="_blank"} | <ul><li>Supporto di CX Enterprise per gli account Federated Guest (10 luglio)</li><li>CX Enterprise Coworker: applicazione di intelligenza artificiale per flussi di lavoro CX (11 giugno)</li><li>Dashboard di monitoraggio dell’utilizzo di IA per l’agente (1° giugno)</li><li>Aggiornamento dell&#39;interfaccia di Adobe CX Enterprise (modalità scura, accessibilità migliorata) (20 aprile)</li></ul> |
+| [!DNL CX Enterprise] | 10 luglio 2026 | [Amministrazione e interfaccia utente centrale di CX Enterprise](https://experienceleague.adobe.com/it/docs/core-services/interface/more-resources/release-notes){target="_blank"} | <ul><li>Supporto di CX Enterprise per gli account Federated Guest (10 luglio)</li><li>CX Enterprise [!DNL Coworker]: applicazione di IA per l&#39;agente per i flussi di lavoro CX (11 giugno)</li><li>Dashboard di monitoraggio dell’utilizzo di IA per l’agente (1° giugno)</li><li>Aggiornamento dell&#39;interfaccia di Adobe CX Enterprise (modalità scura, accessibilità migliorata) (20 aprile)</li></ul> |
 | [!DNL Adobe Journey Optimizer B2B Edition] | 10 luglio 2026 | [Note sulla versione di Journey Optimizer B2B Edition](https://experienceleague.adobe.com/it/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} | <ul><li>Dividi nodi di percorso di percorsi con varianti (Beta) per test A/B</li><li>Nodi &quot;Ascolta un evento&quot; migliorati che supportano più trigger</li><li>Azioni per nuove persone: aggiungi/rimuovi dal percorso di persone</li><li>Pagine di destinazione e moduli per percorsi (disponibilità generale)</li><li>Avvio dashboard prestazioni e-mail</li></ul> |
 | [!DNL Adobe Marketo Engage] | 10 luglio 2026 | [Note sulla versione attuale di Marketo Engage](https://experienceleague.adobe.com/it/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>Marketo AI Skill - Conoscenza del prodotto (open beta)</li><li>Marketo AI Skill - Indagine sui lead (open beta)</li><li>Menu contestuale dell’Assistente di IA per l’e-mail di Designer (disponibile a breve)</li><li>Parametro access_token API REST obsoleto (31 agosto 2026)</li><li>Fine del ciclo di vita dell’API di SOAP (31 luglio 2026)</li></ul> |
 | [!DNL Adobe Experience Manager] [!DNL Cloud Manager] | 9 luglio 2026 | [Note sulla versione di Experience Manager Cloud Manager](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-manager/content/release-notes/current){target="_blank"} | <ul><li>Prestazioni di build migliorate con il caching a livello di modulo di Smart Build</li><li>Pipeline a livello web per AEM Managed Services (Beta)</li><li>Self-service delle chiavi gestite dal cliente (CMK)</li></ul> |
@@ -165,7 +156,7 @@ Visualizza le esercitazioni video e gli articoli di supporto più recenti per [!
 
 | Pubblicato | Applicazioni | Nome | Tipo | Descrizione |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Agosto 2026 | CX Enterprise Coworker | [Valuta lo stato di Experience Platform e crea tipi di pubblico dal linguaggio naturale](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/audiences/create-audience-from-natural-language){target="_blank"} | Video | Scopri in che modo CX Enterprise Collaborator consente di valutare l’ambiente Experience Platform e generare tipi di pubblico attraverso comandi conversazionali e in linguaggio naturale, eliminando le attività di configurazione manuali. |
+| Agosto 2026 | CX Enterprise [!DNL Coworker] | [Valuta lo stato di Experience Platform e crea tipi di pubblico dal linguaggio naturale](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/audiences/create-audience-from-natural-language){target="_blank"} | Video | Scopri in che modo CX Enterprise [!DNL Coworker] ti aiuta a valutare l&#39;ambiente Experience Platform e a generare tipi di pubblico tramite comandi conversazionali e in linguaggio naturale, eliminando le attività di configurazione manuali. |
 
 <!-- 
 #### New [!DNL Experience Platform] support knowledge base articles{#kb-aep}
@@ -185,7 +176,7 @@ Scopri i video tutorial e gli articoli di supporto più recenti per Real-Time CD
 
 | Pubblicato | Nome | Tipo | Descrizione |
 | ----------- | ---------- | ---------- | ---------- |
-| Agosto 2026 | [Comprendere il pubblico e dove è attivato](https://experienceleague.adobe.com/it/docs/cx-enterprise-agentic-tools/using/in-action/query-audiences){target="_blank"} | Articolo | Scopri come utilizzare un client di intelligenza artificiale connesso a Real-Time CDP tramite il gateway di lavoro CX per valutare lo stato del pubblico, individuare le lacune nelle attivazioni e ottenere consigli strategici per i segmenti senza dover navigare su più schermate della piattaforma. |
+| Agosto 2026 | [Comprendere il pubblico e dove è attivato](https://experienceleague.adobe.com/it/docs/cx-enterprise-agentic-tools/using/in-action/query-audiences){target="_blank"} | Articolo | Scopri come utilizzare un client di intelligenza artificiale connesso a Real-Time CDP tramite il gateway CX [!DNL Coworker] per valutare lo stato del pubblico, individuare le lacune nelle attivazioni e ottenere consigli strategici per i segmenti senza dover navigare tra le schermate di più piattaforme. |
 | Luglio 2026 | [Segmenti Source Audience Manager per tipi di pubblico Real-Time CDP Collaboration](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/collaboration/source-audience-manager-segments-for-collaboration){target="_blank"} | Video | Scopri come fare riferimento ai segmenti di Adobe Audience Manager all’interno di Real-Time CDP Collaboration in modo da poterli utilizzare nei progetti con i partner. |
 | Luglio 2026 | [Real-Time CDP Collaboration Starter: configurazione iniziale di accesso e autorizzazioni](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/collaboration/rtcdp-collaboration-starter-initial-access-and-permissions-setup){target="_blank"} | Video | Scopri come aggiungere il profilo di prodotto Collaboration Starter al tuo account e configurare le autorizzazioni necessarie agli utenti per accedere alle funzioni di Collaboration. |
 
@@ -219,8 +210,8 @@ Nuovi tutorial pubblicati per [!DNL Customer Journey Analytics].
 
 | Pubblicato | Nome | Tipo | Descrizione |
 | ----------- | ---------- | ---------- | ---------- |
-| Agosto 2026 | [Convalida dati da Adobe Analytics a Customer Journey Analytics con Coworker](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aa-cja){target="_blank"} | Articolo | Scopri in che modo l’abilità di convalida di CX Enterprise Collaborator confronta le suite di rapporti di Adobe Analytics con le visualizzazioni dati di Customer Journey Analytics, evidenziando discrepanze e consigli basati sull’intelligenza artificiale per supportare una migrazione fluida. |
-| Agosto 2026 | [Esplora tendenze e cause principali con Coworker](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/root-cause-analysis){target="_blank"} | Video | Scopri in che modo CX Enterprise Coworker combina l’intelligenza artificiale conversazionale con Customer Journey Analytics per porre domande in linguaggio naturale, visualizzare i risultati e identificare le cause di un cambiamento di metrica. |
+| Agosto 2026 | [Convalida dati da Adobe Analytics a Customer Journey Analytics con [!DNL Coworker]](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aa-cja){target="_blank"} | Articolo | Scopri in che modo l’abilità di convalida di CX Enterprise [!DNL Coworker] confronta le suite di rapporti di Adobe Analytics con le visualizzazioni dati di Customer Journey Analytics, riscontrando discrepanze e consigli basati sull’intelligenza artificiale per supportare una migrazione fluida. |
+| Agosto 2026 | [Esplora tendenze e cause principali con [!DNL Coworker]](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/root-cause-analysis){target="_blank"} | Video | Scopri come CX Enterprise [!DNL Coworker] combina IA per la conversazione con Customer Journey Analytics in modo da poter porre domande in linguaggio naturale, visualizzare i risultati e identificare ciò che sta determinando un cambiamento di metrica. |
 | Agosto 2026 | [Utilizza calendari e date in Analysis Workspace](https://experienceleague.adobe.com/it/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/calendar-and-date-ranges/cja-calendar-and-dates-in-analysis-workspace){target="_blank"} | Video | Ottieni una panoramica dell’utilizzo di calendari e date per le visualizzazioni in Analysis Workspace. |
 | Agosto 2026 | [Approfondimenti campagna superficie senza generare rapporti](https://experienceleague.adobe.com/it/docs/cx-enterprise-agentic-tools/using/in-action/analyze-campaign-performance){target="_blank"} | Articolo | Scopri come collegare un client di intelligenza artificiale a Customer Journey Analytics con CX Enterprise Agentic Tools e analizzare le prestazioni delle campagne attraverso una conversazione in linguaggio naturale anziché creare manualmente i rapporti. |
 | Luglio 2026 | [Utilizzare le classificazioni in linea per Customer Journey Analytics](https://experienceleague.adobe.com/it/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/freeform-tables/in-line-classifications-for-cja){target="_blank"} | Video | Scopri come le classificazioni in linea ti consentono di apportare modifiche istantanee direttamente in Analysis Workspace aggiornando un valore in una tabella o raggruppando più valori. |
@@ -245,7 +236,7 @@ Nuovi articoli e aggiornamenti ad articoli esistenti per [!DNL Customer Journey 
 
 Video tutorial e articoli di supporto più recenti per Experience Manager as a Cloud Service
 
-* [Video introduttivo sulla versione più recente di AEM CS](https://experienceleague.adobe.com/it/docs/events/aemcs-release-update-recordings/overview){target="_blank"}
+* [Video introduttivo sulla versione più recente di AEM CS](https://experienceleague.adobe.com/it/events#f-el_product=Experience%20Manager%20as%20a%20Cloud%20Service){target="_blank"}
 
 Nuovo video e tutorial scritti (articoli) pubblicati per [!DNL Experience Manager as a Cloud Service].
 
@@ -550,10 +541,10 @@ Ultimi tutorial e articoli di supporto su Experience League.
 
 | Pubblicato | Applicazioni | Nome | Tipo | Descrizione |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Agosto 2026 | [!DNL Journey Optimizer] | [Crea percorsi dal linguaggio naturale con Coworker](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/journeys/create-journey-from-natural-language){target="_blank"} | Video | Scopri come CX Enterprise Coworker trasforma una descrizione in linguaggio semplice in un percorso completamente progettato in Journey Optimizer, in modo da accelerare la creazione del percorso e concentrarsi sull’ottimizzazione anziché sulla configurazione manuale. |
-| Agosto 2026 | [!DNL Journey Optimizer] | [Rileva i problemi di percorso prima che interessino i clienti](https://experienceleague.adobe.com/it/docs/cx-enterprise-agentic-tools/using/in-action/manage-ajo-journeys){target="_blank"} | Articolo | Scopri come monitorare in modo proattivo i percorsi e le campagne Journey Optimizer tramite un client di intelligenza artificiale connesso tramite il gateway di lavoro CX, in modo da individuare problemi e opportunità operative senza aprire l’interfaccia utente di Journey Optimizer. |
+| Agosto 2026 | [!DNL Journey Optimizer] | [Crea percorsi dal linguaggio naturale con [!DNL Coworker]](https://experienceleague.adobe.com/it/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/journeys/create-journey-from-natural-language){target="_blank"} | Video | Scopri come CX Enterprise [!DNL Coworker] trasforma una descrizione in linguaggio semplice in un percorso completamente progettato in Journey Optimizer, in modo da accelerare la creazione del percorso e concentrarsi sull’ottimizzazione invece che sulla configurazione manuale. |
+| Agosto 2026 | [!DNL Journey Optimizer] | [Rileva i problemi di percorso prima che interessino i clienti](https://experienceleague.adobe.com/it/docs/cx-enterprise-agentic-tools/using/in-action/manage-ajo-journeys){target="_blank"} | Articolo | Scopri come monitorare in modo proattivo i percorsi e le campagne Journey Optimizer tramite un client di intelligenza artificiale connesso tramite il gateway CX [!DNL Coworker], per individuare problemi e opportunità operative senza aprire l’interfaccia utente di Journey Optimizer. |
 | Luglio 2026 | [!DNL Journey Optimizer] | [Crea una scheda di contenuti della sfida](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/apply-and-display-your-challenge/build-a-challenge-content-card){target="_blank"} | Video | Scopri come creare una scheda di contenuti per la sfida della fedeltà utilizzando modelli, immagini e pulsanti predefiniti per promuovere le sfide e mostrare i progressi dei partecipanti nell’app. |
-| Luglio 2026 | [!DNL Journey Optimizer] | [Crea una sfida di fidelizzazione e approfondimenti superficiali con CX Enterprise Coworker](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker){target="_blank"} | Video | Scopri come utilizzare CX Enterprise Collaborator per creare, configurare e avviare le sfide di fidelizzazione utilizzando il linguaggio naturale, inclusi audience, premi, pianificazioni e configurazione automatica del percorso. |
+| Luglio 2026 | [!DNL Journey Optimizer] | [Crea una sfida fedeltà e approfondimenti superficiali con CX Enterprise [!DNL Coworker]](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker){target="_blank"} | Video | Scopri come utilizzare CX Enterprise [!DNL Coworker] per creare, configurare e avviare le sfide di fidelizzazione utilizzando il linguaggio naturale, inclusi tipi di pubblico, premi, pianificazioni e configurazione automatica del percorso. |
 | Luglio 2026 | [!DNL Journey Optimizer] | [Configurare i premi per una sfida fedeltà](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/configure-your-challenge/configure-rewards){target="_blank"} | Video | Scopri come configurare i premi per le sfide selezionando i tipi di premio, definendo i metodi di consegna e premiando i partecipanti in base alle tappe principali o al completamento della sfida. |
 | Luglio 2026 | [!DNL Journey Optimizer] | [Imposta una sfida fedeltà](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/configure-your-challenge/set-up-a-loyalty-challenge){target="_blank"} | Video | Scopri come impostare una sfida di fidelizzazione selezionando il tipo di sfida corretto, configurando tipi di pubblico e pianificazioni, definendo regole di partecipazione e controllando come l’avanzamento viene tracciato e premiato. |
 | Luglio 2026 | [!DNL Journey Optimizer] | [Crea attività per la tua sfida fedeltà](https://experienceleague.adobe.com/it/docs/journey-optimizer-learn/loyalty/configure-your-challenge/create-tasks){target="_blank"} | Video | Scopri come creare e configurare le attività di sfida della fedeltà utilizzando attività di acquisto, spesa ed evento personalizzato, incluse le regole di idoneità e le esclusioni. |
@@ -716,7 +707,7 @@ Visualizza nuove esercitazioni per [!DNL Adobe Brand Concierge].
 | Agosto 2026 | [Vocale e preferenza visiva del marchio](https://experienceleague.adobe.com/it/docs/brand-concierge/content/go-live-guide/voice-and-visuals){target="_blank"} | Video | Scopri come personalizzare la personalità e l’aspetto del Brand Concierge definendo la voce del brand, configurando impostazioni del widget come posizionamento e colore e creando messaggi di saluto e messaggi di avvio. |
 | Agosto 2026 | [Prepara il contenuto e il percorso di visitatori](https://experienceleague.adobe.com/it/docs/brand-concierge/content/go-live-guide/content-and-journey){target="_blank"} | Video | Scopri come preparare le origini di conoscenza e definire il percorso di visitatori prima di lanciare Brand Concierge, compresi i tipi di contenuto che puoi condividere e come descrivere l’esperienza a cui stai mirando. |
 | Agosto 2026 | [Elenco di controllo per la pubblicazione: cosa aspettarsi dal percorso di pubblicazione](https://experienceleague.adobe.com/it/docs/brand-concierge/content/go-live-guide/welcome){target="_blank"} | Video | Scopri come navigare tra le quattro fasi del lancio di Brand Concierge: preparare, configurare, convalidare e implementare; scopri inoltre le tempistiche e le responsabilità tipiche della pubblicazione. |
-| Luglio 2026 | [Demo per Brand Concierge](https://experienceleague.adobe.com/it/docs/brand-concierge/content/demo-for-brand-concierge-value-video){target="_blank"} | Video | Scopri come creare e gestire un Brand Concierge direttamente da CX Enterprise Collaborator utilizzando prompt in linguaggio naturale, inclusi l’avanzamento della creazione in tempo reale e la dashboard Rapporti di Brand Concierge. |
+| Luglio 2026 | [Demo per Brand Concierge](https://experienceleague.adobe.com/it/docs/brand-concierge/content/demo-for-brand-concierge-value-video){target="_blank"} | Video | Scopri come creare e gestire un Brand Concierge direttamente da CX Enterprise [!DNL Coworker] utilizzando prompt in linguaggio naturale, inclusi l&#39;avanzamento della creazione in tempo reale e la dashboard dei report di Brand Concierge. |
 | Luglio 2026 | [Integrazione con Marketo](https://experienceleague.adobe.com/it/docs/brand-concierge/content/getting-started/integration-with-marketo){target="_blank"} | Video | Scopri come Brand Concierge si integra con Marketo Engage. Scopri in che modo i lead acquisiti tramite le conversazioni Concierge fluiscono automaticamente in Marketo come attività native che puoi utilizzare in Campagne avanzate. |
 
 ### [!DNL Adobe Brand Visibility] (precedentemente [!DNL Adobe LLM Optimizer]) {#tutorials-llm-optimizer}
@@ -730,7 +721,7 @@ Visualizza nuove esercitazioni per [!DNL Adobe Brand Visibility].
 
 ### Customer Data Management - Voices {#tutorials-voices}
 
-[Customer Data Management Voices](https://experienceleague.adobe.com/it/docs/events/customer-data-management-voices-recordings/overview){target="_blank"} raccoglie contenuti di interesse sulla gestione dei dati cliente per tutti i leader e specialisti tecnici e di marketing. Questa raccolta di tutorial rappresenta una risorsa completa dove potrai sentire cosa dicono altri professionisti come te, trarre spunti e scoprire le novità in ambito MarTech. Nessuna registrazione richiesta.
+[Customer Data Management Voices](https://experienceleague.adobe.com/it/events#f-el_event_series=Customer%20Data%20Management%20Voices){target="_blank"} raccoglie contenuti di interesse sulla gestione dei dati cliente per tutti i leader e specialisti tecnici e di marketing. Questa raccolta di tutorial rappresenta una risorsa completa dove potrai sentire cosa dicono altri professionisti come te, trarre spunti e scoprire le novità in ambito MarTech. Nessuna registrazione richiesta.
 
 ### Blueprint per l’orchestrazione della customer experience {#tutorials-blueprints}
 
