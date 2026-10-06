@@ -2,12 +2,12 @@
 title: Note sulla versione di Adobe System Status
 description: Cronologia delle versioni di Adobe System Status (status.adobe.com).
 doc-type: release notes
-last-update: September 2026
+last-update: October 2026
 author: mfrei
-source-git-commit: 012ac83c9545c3ed9a008affe497d866162085dd
+source-git-commit: 079ad317870716d5ca3d5c5cdd42267a86ab62e6
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 30%
+source-wordcount: '306'
+ht-degree: 27%
 ---
 
 # Note sulla versione di [!DNL Adobe System Status] {#status-release-notes}
@@ -18,6 +18,7 @@ Questa pagina tiene traccia di [!DNL Adobe System Status] aggiornamenti nel temp
 
 | Data | Aggiornamenti |
 | ------- | ------- |
+| 1 ottobre 2026 | <ul><li>È stata corretta una sezione Cloud vuota in cui non si dispone di abbonamenti o diritti e **Eventi personali** è attivato</li><li>Maggiore disponibilità con il failover dell&#39;origine Akamai</li><li>Recupero del profilo aggiornato per utilizzare l’ambito di identità richiesto</li></ul> |
 | Marzo 2026 | <ul><li>Assistente virtuale IA - Beta</li><li>Correzioni di bug e miglioramenti</li></ul> |
 | 8 dicembre 2025 | <ul><li>Miglioramenti al feedback dell’Assistente virtuale (flussi di lavoro guidati semplificati, icone intuitive)</li><li>Correzioni di bug e miglioramenti</li></ul> |
 | 16 luglio 2025 | <ul><li>Disponibilità generale dell’assistente virtuale</li><li>Ricerca ID evento nelle pagine di prodotto e cloud e in Virtual Assistant</li><li>Aggiornamento dell’impostazione delle notifiche Slack</li><li>Correzioni di bug e miglioramenti</li></ul> |
