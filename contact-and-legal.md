@@ -1,5 +1,5 @@
 ---
-description: Informazioni utili su come contattare Adobe e sulle questioni legali riguardanti l'utilizzo di questo prodotto e di questa documentazione.
+description: Informazioni utili su come contattare Adobe e sulle questioni legali riguardanti l’utilizzo di questo prodotto e di questa documentazione.
 keywords: dynamic tag management;note sulla versione
 seo-description: Information to help you contact Adobe and understand the legal issues concerning your use of this product and documentation.
 seo-title: Contact and Legal Information
@@ -8,27 +8,25 @@ uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
-workflow-type: ht
-source-wordcount: '219'
-ht-degree: 100%
-
+workflow-type: tm+mt
+source-wordcount: '235'
+ht-degree: 37%
 ---
-
 
 # Contatti e informazioni legali
 
-Informazioni utili su come contattare Adobe e sulle questioni legali riguardanti l&#39;utilizzo di questo prodotto e di questa documentazione.
+Informazioni utili su come contattare Adobe e sulle questioni legali riguardanti l’utilizzo di questo prodotto e di questa documentazione.
 
 
 ## Aiuto e supporto tecnico {#section_354AC2658BA84A2A96E64C5B2C43B73B}
 
-Il team di assistenza clienti di Adobe Experience Cloud è a tua disposizione e può essere contattato in vari modi:
+Il team di assistenza clienti Adobe Marketing Cloud è a tua disposizione e può essere contattato in vari modi:
 
-Consulta [Contattare il supporto di Adobe Enterprise](https://helpx.adobe.com/it/contact/enterprise-support.ec.html)
+Vedi [Contatta il supporto Adobe Enterprise](https://helpx.adobe.com/it/contact/enterprise-support.ec.html)
 
 ## Servizio, capacità e fatturazione {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
-In base alla configurazione della soluzione, alcune opzioni descritte in questa documentazione potrebbero non essere disponibili. Poiché ogni account è univoco, consulta il tuo contratto per tariffe, date di scadenza, termini e condizioni. Se desideri aggiungere o modificare il livello di servizio o se hai delle domande sul servizio corrente, contatta il tuo Account Manager.
+In base alla configurazione della soluzione, alcune opzioni descritte in questa documentazione potrebbero non essere disponibili. Poiché ogni account è univoco, consulta il tuo contratto per tariffe, date di scadenza, termini e condizioni. Se desideri aggiungere o modificare il livello di servizio o se hai domande sul servizio corrente, contatta il tuo Account Manager.
 
 <!--
 ## Feedback {#section_8154D6D712054220A90D85FA8E92933E}
@@ -42,8 +40,8 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[Condizioni d’uso](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Centro per la privacy](https://www.adobe.com/it/privacy/policy.html)
+[Condizioni d&#39;uso](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Centro per la privacy](https://www.adobe.com/it/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
-All third-party trademarks are the property of their respective owners. Updated Information/Additional Third Party Code Information available at [https://www.adobe.com/go/thirdparty_it](https://www.adobe.com/it/products/eula/third_party/).
+All third-party trademarks are the property of their respective owners. Informazioni aggiornate/Informazioni su codici di terze parti sono disponibili all&#39;indirizzo [https://www.adobe.com/go/thirdparty_it](https://www.adobe.com/it/products/eula/third_party.html).
