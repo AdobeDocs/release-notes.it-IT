@@ -546,7 +546,7 @@ Nuovi video, tutorial o corsi pubblicati di Journey Optimizer B2B Edition.
 
 | Pubblicato | Nome | Tipo | Descrizione |
 | ----------- | ---------- | ---------- | ---------- |
-| luglio 2026 | [Annunci Project Falco Summit](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/join-the-project-falco-beta-program-251090?profile.language=it){target="_blank"} | Video | Guarda la demo Project Falco beta che evidenzia tutti gli annunci fatti al Summit 2026. |
+| luglio 2026 | [Annunci Project Falco Summit](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/join-the-project-falco-beta-program-251090?profile.language=it&lang=it){target="_blank"} | Video | Guarda la demo Project Falco beta che evidenzia tutti gli annunci fatti al Summit 2026. |
 
 ### [!DNL Adobe Marketo Engage] {#tutorials-marketo}
 
